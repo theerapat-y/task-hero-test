@@ -1,0 +1,21 @@
+{
+  "name": "",
+  "version": "0.0.0",
+  "homepage": "git+https://github.com/nut-abctech/inno-team-tech.git",
+  "dependencies": {
+    "bootstrap": "^3.3.5",
+    "jquery": "^2.1.4"
+  },
+  "overrides": {
+    "bootstrap": {
+      "main": "dist/**/?(*.min.js|*.css|*.eot|*.woff|*.svg|*.ttf)"
+    },
+    "jquery": {
+      "main": "dist/?(*.min.js)"
+    }
+  },
+  "authors": [
+    "nut-abctech <Nut@abctech-thailand.com>"
+  ],
+  "license": "MIT"
+}
