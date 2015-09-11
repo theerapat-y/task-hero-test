@@ -29,7 +29,7 @@ gulp.task('code-quality', function () {
     });
 });
 
-gulp.task('start-dev',['code-quality'] function () {
+gulp.task('start-dev',['code-quality'], function () {
     nodemon({
         script: './bin/www',
         ignore: ['./public/*'],
