@@ -39,7 +39,9 @@ Check out what are new things coming
 2. jscs : Run JSCS to format the code automatically
 3. code-quality = Group of task (lint and jscs)
 4. bower : Run to copy dist file to the `public`
-5. start-dev = **Recommend to run while developing.**
+5. watch-dev = Watch and re-run app when a file changes. **Recommend to run while developing.**
+7. mocha : Run mocha test
+8. watch-test : Watch and re-run test when a file changes.
 6. default = Use fro build production release version.
 
 ### Test frameworks

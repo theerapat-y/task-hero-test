@@ -4,7 +4,6 @@ let http = require('http');
 let debug = require('debug')('task-hero:test:server');
 let port = process.env.PORT || 3333;
 app.set('port', port);
-
 /**
  * Create Test HTTP server.
  */

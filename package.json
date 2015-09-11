@@ -34,8 +34,9 @@
     "lodash": "^3.10.1",
     "morgan": "^1.6.1",
     "multer": "^1.0.3",
-    "node-sass-middleware": "0.8.0",
     "node-sass": "^3.3.2",
+    "node-sass-middleware": "0.8.0",
+    "passport": "^0.3.0",
     "sequelize": "^3.7.1",
     "serve-favicon": "^2.3.0"
   },

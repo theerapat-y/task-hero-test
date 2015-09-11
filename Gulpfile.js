@@ -45,15 +45,15 @@ gulp.task('mocha', function() {
         .on('error', gutil.log);
 });
 
-gulp.task('watch-test', function() {
-    gulp.watch(['app/**', 'test/**'], ['mocha']);
+gulp.task('watch-test',['mocha'], function() {
+    gulp.watch(['src/**', 'test/**'], ['mocha']);
 });
 
 gulp.task('watch-dev',['code-quality'], function () {
     nodemon({
         script: './bin/www',
-        ignore: ['./public/*'],
-        ext: 'html js jade json',
+        ignore: ['node_modules/**/*','public/*', '*.test.js'],
+        ext: 'html js jade json scss',
         env: {
             'NODE_ENV': 'development',
             'DEBUG': 'task-hero:*'

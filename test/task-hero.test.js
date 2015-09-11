@@ -6,7 +6,7 @@ let testServer = require('./lib/test-server');
 
 describe('Smoke run api test', () => {
     after((done)=>{
-        co(function*(){
+        co(function *(){
             try {
                 yield testServer.shutdown();
                 done();
@@ -20,5 +20,9 @@ describe('Smoke run api test', () => {
         testServer.request.get('/').expect(200).end((err, res) => {
             done(err);
         });
+    });
+
+    it('Add more test..', (done) => {
+        done();
     });
 });
