@@ -1,11 +1,11 @@
 # Innovation NodeJS shared setting
 
-## !REMEMBER update your nodejs verion to v4.0.0
+## !REMEMBER update your nodejs version to v4.0.0
 
 Which ES6 features ship with Node.js by default (no runtime flag required)
 [Here](https://nodejs.org/en/docs/es6/)
 
-Check out what are new things coming 
+Check out what are new things coming
 
 `node --v8-options | grep "in progress"` (11/9/2015)
 
@@ -20,7 +20,7 @@ Check out what are new things coming
   	--harmony_sharedarraybuffer (enable "harmony sharedarraybuffer" (in progress))
   	--harmony_atomics (enable "harmony atomics" (in progress))
   	--harmony_new_target (enable "harmony new.target" (in progress))
-  	
+
 ### How to run project
 
 1. Start server with lint and jscs (auto code formating)
@@ -52,7 +52,7 @@ Check out what are new things coming
 
 [JSCS](http://jscs.info/) is a code style linter for programmatically enforcing your style guide. See style config at `.jscsrc` file.
 
-[JSHint](http://jshint.com/docs/) is a code quality tool which helps to flags suspicious line of code againsting rules. See rule config in `.jshintrc` file.
+[JSHint](http://jshint.com/docs/) is a code quality tool which helps to flags suspicious line of code against the rules. See rule config in `.jshintrc` file.
 
 #### JSHint plugin for editor.
 [jshint with Sublime](https://github.com/Kronuz/SublimeLinter)
