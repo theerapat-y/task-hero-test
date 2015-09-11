@@ -4,6 +4,8 @@ var runSequence = require('run-sequence');
 var notify = require('gulp-notify');
 var jscs = require('gulp-jscs');
 var jshint = require('gulp-jshint');
+var gutil = require('gulp-util');
+var mocha = require('gulp-mocha');
 
 // jshint
 gulp.task('lint', function() {
@@ -19,17 +21,35 @@ gulp.task('jscs', function(){
             fix: true
         }))
         .pipe(gulp.dest('./src'))
-        .pipe(notify('JSCS formated code!'));
+        .pipe(notify('JSCS formated code!'))
+        .on('error', gutil.log);
 });
 
 //Code Quality
 gulp.task('code-quality', function () {
     runSequence('jscs','lint',function(){
-        console.log("code-quality (JSCS and Lint) Completed.");
+        gutil.log("code-quality (JSCS and Lint) Completed.");
     });
 });
 
-gulp.task('start-dev',['code-quality'], function () {
+//Mocha test
+gulp.task('mocha', function() {
+    return gulp.src(['test/*.js'], { read: false })
+        .pipe(mocha({
+            reporter: 'spec',
+            ui: 'bdd',
+            globals: {
+                should: require('should')
+            }
+        }))
+        .on('error', gutil.log);
+});
+
+gulp.task('watch-test', function() {
+    gulp.watch(['app/**', 'test/**'], ['mocha']);
+});
+
+gulp.task('watch-dev',['code-quality'], function () {
     nodemon({
         script: './bin/www',
         ignore: ['./public/*'],

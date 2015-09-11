@@ -5,7 +5,9 @@
   "private": true,
   "scripts": {
     "start": "node ./bin/www",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "watch-dev": "./node_modules/.bin/gulp watch-dev",
+    "watch-test": "DEBUG=task-hero:* ./node_modules/.bin/gulp watch-test",
+    "test": "./node_modules/.bin/gulp mocha"
   },
   "repository": {
     "type": "git",
@@ -45,13 +47,15 @@
     "gulp-filter": "^3.0.1",
     "gulp-jscs": "^2.0.0",
     "gulp-jshint": "^1.11.2",
+    "gulp-mocha": "^2.1.3",
     "gulp-nodemon": "^2.0.4",
     "gulp-notify": "^2.2.0",
+    "gulp-util": "^3.0.6",
     "gulp-watch": "^4.3.5",
-    "run-sequence": "^1.1.2",
     "jshint-stylish": "^2.0.1",
     "main-bower-files": "^2.9.0",
     "mocha": "^2.3.2",
+    "run-sequence": "^1.1.2",
     "should": "^7.1.0",
     "supertest": "^1.1.0"
   }

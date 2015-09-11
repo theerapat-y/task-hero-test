@@ -25,14 +25,14 @@ Check out what are new things coming
 
 1. Start server with lint and jscs (auto code formating)
 
-    **Run `Gulp start-dev`**
+    **Run `npm run watch-dev`**
 2. Start server in production mode
 
     **Run `npm start`**
 
 3. Start interactive test
 
-    **Run `npm test`**
+    **Run `npm run watch-test`**
 
 #### Gulp tasks
 1. lint : Run jshint against the code.
