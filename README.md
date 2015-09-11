@@ -6,16 +6,16 @@
 ### How to run project
 
 1. Start server with lint and jscs (auto code formating)
-    
+
     **Run `Gulp start-dev`**
 2. Start server in production mode
-    
+
     **Run `npm start`**
-    
+
 3. Start interactive test
-  
+
     **Run `npm test`**
-    
+
 #### Gulp tasks
 1. lint : Run jshint against the code.
 2. jscs : Run JSCS to format the code automatically
