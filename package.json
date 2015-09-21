@@ -9,6 +9,10 @@
     "watch-test": "DEBUG=task-hero:* ./node_modules/.bin/gulp watch-test",
     "test": "./node_modules/.bin/gulp mocha"
   },
+  "pre-push": [
+    "npm i",
+    "npm test"
+  ],
   "repository": {
     "type": "git",
     "url": ""
@@ -56,6 +60,7 @@
     "jshint-stylish": "^2.0.1",
     "main-bower-files": "^2.9.0",
     "mocha": "^2.3.2",
+    "pre-git": "^0.6.2",
     "run-sequence": "^1.1.2",
     "should": "^7.1.0",
     "supertest": "^1.1.0"
