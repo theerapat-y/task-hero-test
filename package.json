@@ -9,6 +9,9 @@
     "watch-test": "DEBUG=task-hero:* ./node_modules/.bin/gulp watch-test",
     "test": "./node_modules/.bin/gulp mocha"
   },
+  "pre-commit":[
+    "./node_modules/.bin/gulp code-quality"
+  ],
   "pre-push": [
     "npm i",
     "npm test"

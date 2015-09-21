@@ -23,9 +23,10 @@ Check out what are new things coming
 
 ### How to run project
 
-1. Start server with lint and jscs (auto code formating)
+1. Start server in dev mode with lint and jscs (auto code formating)
 
     **Run `npm run watch-dev`**
+    
 2. Start server in production mode
 
     **Run `npm start`**
@@ -34,7 +35,17 @@ Check out what are new things coming
 
     **Run `npm run watch-test`**
 
-#### Gulp tasks
+### Git commit/push constains
+
+1. Pre-commit
+
+	Execute **`gulp code-quality`**
+
+2. Pre-push
+
+	Execute **`npm i && npm test`**
+
+### Gulp tasks
 1. lint : Run jshint against the code.
 2. jscs : Run JSCS to format the code automatically
 3. code-quality = Group of task (lint and jscs)
