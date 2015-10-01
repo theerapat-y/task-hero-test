@@ -9,24 +9,24 @@ Check out what are new things coming
 
 `node --v8-options | grep "in progress"` (11/9/2015)
 
-  	--harmony_modules (enable "harmony modules" (in progress))
-  	--harmony_array_includes (enable "harmony Array.prototype.includes" (in progress))
-  	--harmony_regexps (enable "harmony regular expression extensions" (in progress))
-  	--harmony_proxies (enable "harmony proxies" (in progress))
-  	--harmony_sloppy (enable "harmony features in sloppy mode" (in progress))
-  	--harmony_unicode_regexps (enable "harmony unicode regexps" (in progress))
-  	--harmony_reflect (enable "harmony Reflect API" (in progress))
-  	--harmony_destructuring (enable "harmony destructuring" (in progress))
-  	--harmony_sharedarraybuffer (enable "harmony sharedarraybuffer" (in progress))
-  	--harmony_atomics (enable "harmony atomics" (in progress))
-  	--harmony_new_target (enable "harmony new.target" (in progress))
+      --harmony_modules (enable "harmony modules" (in progress))
+      --harmony_array_includes (enable "harmony Array.prototype.includes" (in progress))
+      --harmony_regexps (enable "harmony regular expression extensions" (in progress))
+      --harmony_proxies (enable "harmony proxies" (in progress))
+      --harmony_sloppy (enable "harmony features in sloppy mode" (in progress))
+      --harmony_unicode_regexps (enable "harmony unicode regexps" (in progress))
+      --harmony_reflect (enable "harmony Reflect API" (in progress))
+      --harmony_destructuring (enable "harmony destructuring" (in progress))
+      --harmony_sharedarraybuffer (enable "harmony sharedarraybuffer" (in progress))
+      --harmony_atomics (enable "harmony atomics" (in progress))
+      --harmony_new_target (enable "harmony new.target" (in progress))
 
 ### How to run project
 
 1. Start server in dev mode with lint and jscs (auto code formating)
 
     **Run `npm run watch-dev`**
-    
+
 2. Start server in production mode
 
     **Run `npm start`**
@@ -35,15 +35,15 @@ Check out what are new things coming
 
     **Run `npm run watch-test`**
 
-### Git commit/push constains
+### Git hook
 
 1. Pre-commit
 
-	Execute **`gulp code-quality`**
+    Execute **`gulp code-quality`**
 
 2. Pre-push
 
-	Execute **`npm i && npm test`**
+    Execute **`npm i && npm test`**
 
 ### Gulp tasks
 1. lint : Run jshint against the code.
