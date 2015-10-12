@@ -7,7 +7,7 @@ var models = require(__dirname + '/../models');
 var reconstruct = function (raw, type) {
     var res = [];
 
-    raw.forEach(function (item) {
+    raw.forEach( function (item) {
         var struct = {
             name: item.name,
             phone: item.phone || '',
@@ -46,9 +46,9 @@ var exec = function () {
     var total = [],
     data = [];
 
-    folders.data.forEach( function (folder) {
+    folders.data.forEach(function (folder) {
         for (var i = 1; i < 27; i++) {
-            var page = "./dataset/" + folder + "/page-" + i;
+            var page = './dataset/' + folder + '/page-' + i;
             var raw;
             try {
                 raw = require(page);
@@ -57,7 +57,7 @@ var exec = function () {
                     raw = null;
                 }
             }
- catch (e) {
+            catch (e) {
                 break;
             }
         }
@@ -68,7 +68,7 @@ var exec = function () {
     // use this to import from web scrapper
     data.push(Handyman.bulkCreate(require('./handy-data1')));
 
-    return Promise.all(data).then(function () {
+    return Promise.all(data).then( function () {
         console.log('DONE!');
     });
 };
