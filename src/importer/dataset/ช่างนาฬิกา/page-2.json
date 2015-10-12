@@ -1,0 +1,284 @@
+[
+    {
+        "id": "694134783990510",
+        "location": {
+            "city": "Narathiwat",
+            "country": "Thailand",
+            "latitude": 6.4320585,
+            "longitude": 101.823803
+        },
+        "name": "My Home ตรอกช้าง หอนาฬิกา นราธิวาส"
+    },
+    {
+        "id": "695203697175700",
+        "location": {
+            "city": "Si Racha",
+            "country": "Thailand",
+            "latitude": 13.16441427,
+            "longitude": 100.92257631
+        },
+        "name": "ร้านสกุลช่าง หน้าหอนาฬิกาสีชา"
+    },
+    {
+        "id": "209040922440874",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.681566272951,
+            "longitude": 101.28037005744,
+            "street": "ตรงข้ามหอนาฬิการะยอง",
+            "zip": "21000"
+        },
+        "name": "กาแฟดอยช้าง@ราย็องฮิ"
+    },
+    {
+        "id": "801881633229161",
+        "location": {
+            "city": "Buriram",
+            "country": "Thailand",
+            "latitude": 15,
+            "longitude": 103.117
+        },
+        "name": "ร้านนาฬิกาแฟ ช่างดุ๊กคนเดิม"
+    },
+    {
+        "about": "บริการเปิดรถ เปิดบ้านนอกสถานที่ บริการ24ช้่วโมง โทร0957603236-0957603236",
+        "id": "847426685310436",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.4667,
+            "longitude": 100.117,
+            "street": "เทศบาลมืองสุพรรณบุรี",
+            "zip": "72000"
+        },
+        "name": "ช่างกุญแจ/นาฬิกา เมืองสุพรรณบุรี  บางปลาม้า โทร095-7603236/092-8514041",
+        "phone": "095-7603236/092-8514041"
+    },
+    {
+        "id": "907028552682019",
+        "location": {
+            "city": "Bang Pakong",
+            "country": "Thailand",
+            "latitude": 13.5042664,
+            "longitude": 100.9856866
+        },
+        "name": "บ้านลุงช่างนาฬิกา - โอ๋ อินดี้"
+    },
+    {
+        "id": "922777207795181",
+        "location": {
+            "city": "Amphoe Bang Pa-In",
+            "country": "Thailand",
+            "latitude": 14.319988250732,
+            "longitude": 100.61164855957
+        },
+        "name": "ร้านนาฬิกามีช่างสุดหล่อเเละหำใหญ่โตมโหฬาร"
+    },
+    {
+        "id": "1376404005981362",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.74415831284,
+            "longitude": 100.50750947045,
+            "zip": "10100"
+        },
+        "name": "ช่างยิ้ง นาฬิกา",
+        "phone": "026889832"
+    },
+    {
+        "id": "1382399465414435",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.697654295,
+            "longitude": 100.606890295
+        },
+        "name": "โรงงานทำนาฬิกาชื่อดังย่านบางจาก ที่มีช่างแอร์น่าตาดีมาดูแลแอร์"
+    },
+    {
+        "id": "1529874460585359",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.88333,
+            "longitude": 98.4
+        },
+        "name": "ร้านซ่อมนาฬิกาที่ช่างหน้าตาดีที่สุดใน 3 โลก"
+    },
+    {
+        "id": "1585249028378522",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.242471109615,
+            "longitude": 104.84343990684
+        },
+        "name": "แผนกช่างวิทยาลัยชื่อดังย่านหอนาฬิกาตรงข้ามมีโรงเรียนมัธยม"
+    },
+    {
+        "id": "1592081674390268",
+        "location": {
+            "city": "Long",
+            "country": "Thailand",
+            "latitude": 18.0824688,
+            "longitude": 99.8367723,
+            "street": "สามแยกหอนาฬิกานาหม้อ หน้าอู่ลองการช่าง"
+        },
+        "name": "ติ๋มผลไม้และสลัดเมืองลอง",
+        "phone": "0801302979"
+    },
+    {
+        "id": "1618047178480241",
+        "location": {
+            "city": "Muang Patani",
+            "country": "Thailand",
+            "latitude": 6.88861,
+            "longitude": 101.274
+        },
+        "name": "วิทลัยเด็กช่างชื่อดังย่านวงเวียนหอนาฬิกาที่มีน้ำตกอยู่หน้าวิทลัย"
+    },
+    {
+        "id": "1628971467321749",
+        "location": {
+            "city": "Muang Yala",
+            "country": "Thailand",
+            "latitude": 6.5589550713829,
+            "longitude": 101.29022639489
+        },
+        "name": "ช่างวิชัยนาฬิกา"
+    },
+    {
+        "id": "1637199229870666",
+        "location": {
+            "city": "Ban Dan Chang",
+            "country": "Thailand",
+            "latitude": 14.840386832273,
+            "longitude": 99.70318033246
+        },
+        "name": "แยกหอนาฬิกาบรรหารแจ่มใส อ.ด่านช้าง จ.สุพรรณบุรี นะจ้ะ"
+    },
+    {
+        "id": "426843450816326",
+        "location": {
+            "city": "Sam Phran",
+            "country": "Thailand",
+            "latitude": 13.72565,
+            "longitude": 100.21479,
+            "street": "37หมู่8 ต.สามพราน"
+        },
+        "name": "ร้านนาฬิกาจังไท้ฮั้ว - ช่างปกรณ์ตลาดเก่าสามพราน",
+        "phone": "0841479018"
+    },
+    {
+        "about": "รับทำกุญแจ ระบบอิมโมบีไลเซอร์(ฝังชิป)",
+        "id": "591066387691557",
+        "location": {
+            "city": "Nong Khae",
+            "country": "Thailand",
+            "latitude": 14.35154,
+            "longitude": 100.85197,
+            "street": "103/16 ร้านมนต์ชัยนาฬิกา ถ.เศรษฐสัมพันธ์ อ.หนองแค ต.หนองแค จ.สระบุรี",
+            "zip": "18140"
+        },
+        "name": "ช่างชัย ทำกุญแจ หนองแค",
+        "phone": "0817537898"
+    },
+    {
+        "id": "1496424423933130",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.833274777454,
+            "longitude": 99.97458246537,
+            "street": "โพรงมะเดื่อเมืองใหม่"
+        },
+        "name": "บ้านช่างยุ่ง นาฬิกา",
+        "phone": "0854043875"
+    },
+    {
+        "about": "รับประสานงานซื้อขายอสังหาริมทรัพย์ โดย ช่างต้น เอสพีเค",
+        "id": "250500228407182",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.81913,
+            "longitude": 100.67546,
+            "street": "ร้านนาฬิกาโบราณเอสพีเค 65 ถ.สวนสยาม",
+            "zip": "10230"
+        },
+        "name": "นายหน้าอสังหาริมทรัพย์ โดย ช่างต้น เอสพีเค",
+        "phone": "095 637 6299"
+    },
+    {
+        "about": "กลึง ไส กัดเฟือง",
+        "description": "กลึง ไสโลหะ รับทำ-กัดเฟืองตรง เฟืองเฉียง เฟืองสะพาน เฟืองเครื่องจักร ขายดอกเอ็นมิลและอุปกรณ์ในโรงกลึง",
+        "emails": [
+            "jaikanchang@hotmail.com"
+        ],
+        "id": "227922224031344",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0152,
+            "longitude": 100.39974,
+            "street": "ใกล้หน้าหอนาฬิกาหาดใหญ่",
+            "zip": "90110"
+        },
+        "name": "ฟันเฟือง-โรงกลึงใจการช่างหาดใหญ่",
+        "phone": "0846315565"
+    },
+    {
+        "id": "257443377731620",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.702378,
+            "longitude": 100.137259,
+            "street": "Thanon Amarinvitee"
+        },
+        "name": "ร้านซ่อมนาฬิกาช่างลิ้ม"
+    },
+    {
+        "id": "102454753430142",
+        "location": {
+            "city": "Pattani",
+            "country": "Thailand",
+            "latitude": 6.86603565,
+            "longitude": 101.24157353
+        },
+        "name": "ร้านช่างมีน หอนาฬิกา"
+    },
+    {
+        "id": "118853018286472",
+        "location": {
+            "city": "Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.661426171096,
+            "longitude": 101.39291411074,
+            "zip": "30130"
+        },
+        "name": "บ้านนาฬิกา กุญแจ โลตัสปากช่าง"
+    },
+    {
+        "id": "155202561279403",
+        "location": {
+            "city": "Raman",
+            "country": "Thailand",
+            "latitude": 6.4762682296642,
+            "longitude": 101.43006146911
+        },
+        "name": "รามันการช่าง:นาฬิกา\u0026กุญแจ"
+    },
+    {
+        "id": "172870392838209",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773615,
+            "longitude": 100.568094
+        },
+        "name": "เสริมหล่อโดย ช่าง TAN ห่อนาฬิกา"
+    }
+]

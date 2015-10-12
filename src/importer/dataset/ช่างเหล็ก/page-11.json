@@ -1,0 +1,269 @@
+[
+    {
+        "id": "1037564789589078",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77380617,
+            "longitude": 100.45300892
+        },
+        "name": "กาแฟปากหมา วัดช่างเหล็ก"
+    },
+    {
+        "id": "1126669577347932",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773236,
+            "longitude": 100.4530742,
+            "street": "ซ.วัดช่างเหล็ก เขตตลิ่งชัน"
+        },
+        "name": "บ้านโหรอัครินทร์"
+    },
+    {
+        "id": "1557834611156199",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.561226966277,
+            "longitude": 100.5919200182
+        },
+        "name": "บ้านช่างเหล็ก"
+    },
+    {
+        "description": "อีซุ มังกร",
+        "id": "1531520370441244",
+        "location": {
+            "city": "Chom Bung",
+            "country": "Thailand",
+            "latitude": 13.623015359044,
+            "longitude": 99.718717066571
+        },
+        "name": "บ้านพด ช่างเหล็ก"
+    },
+    {
+        "id": "1534910470127061",
+        "location": {
+            "city": "Sena",
+            "country": "Thailand",
+            "latitude": 14.32747,
+            "longitude": 100.40447,
+            "street": "บ้านโคก"
+        },
+        "name": "บ้านโคก ช่างเหล็ก"
+    },
+    {
+        "id": "1535797246696969",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "วัดช่างเหล็ก แขวงคลองชักพระ เขตตลิ่งชัน กทม"
+        },
+        "name": "กศน.วัดช่างเหล็ก"
+    },
+    {
+        "id": "1538916059701495",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77374275,
+            "longitude": 100.45509685
+        },
+        "name": "วัดช่างเหล็ก-บ้านนนน้องหยีเอง55"
+    },
+    {
+        "id": "1549952748578792",
+        "location": {
+            "city": "Taling Chan",
+            "country": "Thailand",
+            "latitude": 13.775498709157,
+            "longitude": 100.45380223305
+        },
+        "name": "ซอยวัดช่างเหล็ก"
+    },
+    {
+        "description": "หมู่บ้านแสนสุข",
+        "id": "1550633688501638",
+        "location": {
+            "latitude": 14.34268,
+            "longitude": 100.89995,
+            "street": "หมู่บ้านหนองช่างเหล็ก"
+        },
+        "name": "ตำบล.หนองสรวง หมู่.7"
+    },
+    {
+        "id": "1571413633097061",
+        "location": {
+            "city": "Amphoe Muang Mae Hong Son",
+            "country": "Thailand",
+            "latitude": 19.162708282471,
+            "longitude": 97.894393920898
+        },
+        "name": "โรงเรียนห้วยช่างคำ สาขาห้วยช่างเหล็ก"
+    },
+    {
+        "id": "1577318795860753",
+        "location": {
+            "latitude": 14.290575117853,
+            "longitude": 100.47455775975,
+            "street": "บางไทร อยุธยา"
+        },
+        "name": "ช่างเหล็ก\u0026แคตก"
+    },
+    {
+        "id": "1579133252342679",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.736159596214,
+            "longitude": 100.4696322679
+        },
+        "name": "โรงจอดรถที่มีช่างเหล็ก\u0026ช่างอลูมิเนียม ซ.จรัญสนิทวงศ์3"
+    },
+    {
+        "id": "1586483108283928",
+        "location": {
+            "city": "Phrai Bung",
+            "country": "Thailand",
+            "latitude": 14.776455246019,
+            "longitude": 104.22765234998
+        },
+        "name": "บ้านตะเคียนช่างเหล็ก อ.ขุขันธ์ จ.ศรีสะเกษ"
+    },
+    {
+        "id": "1591795904366061",
+        "location": {
+            "latitude": 14.29586995,
+            "longitude": 100.4661238,
+            "street": "ช่างเหล็ก"
+        },
+        "name": "บ้านเซฟ'เอง"
+    },
+    {
+        "id": "1604905179738194",
+        "location": {
+            "latitude": 6.883186812725,
+            "longitude": 99.913076229275
+        },
+        "name": "บ้านนกกรงช่างเหล็ก"
+    },
+    {
+        "id": "1608045089413664",
+        "location": {
+            "city": "จักราช",
+            "latitude": 15.0690125,
+            "longitude": 102.39547225
+        },
+        "name": "ร้านโอัทีมช่างเหล็ก",
+        "phone": "0818023545"
+    },
+    {
+        "id": "1613911525533627",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7522,
+            "longitude": 100.494
+        },
+        "name": "เซเว่นวัดช่างเหล็ก"
+    },
+    {
+        "id": "1625019874428126",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.8228346878043,
+            "longitude": 98.308190216358,
+            "street": "บ้านโนนสูงวังขอนจิก.  ต.ช่างเหล็ก   อ.โกสุมพิสัย  จ.มหาสารคาม"
+        },
+        "name": "ลำลูกไก่",
+        "phone": "0612280970"
+    },
+    {
+        "about": "รับทำเหล็กดัดน้าต่างประตู,รั้ว,ประตูม้วน,กันสาด,เมทัลชีท,ราคาเป็นกันเองครับ",
+        "emails": [
+            "sunchiro9999@gmail.com"
+        ],
+        "id": "1637585289830497",
+        "location": {
+            "city": "Amphoe Muang Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.8333,
+            "longitude": 100.25,
+            "street": "193/12 ม.5 ต.หัวรอ",
+            "zip": "65000"
+        },
+        "name": "ช่างเหล็ก ดัด พิษณุโลก",
+        "phone": "0910279580"
+    },
+    {
+        "id": "1697393600480279",
+        "location": {
+            "city": "Amphoe Ban Bung",
+            "country": "Thailand",
+            "latitude": 13.263615500629,
+            "longitude": 101.15951734363
+        },
+        "name": "อู่ช่างเหล็ก"
+    },
+    {
+        "id": "1698108650417804",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7522,
+            "longitude": 100.494
+        },
+        "name": "วัดช่างเหล็ก ตลิ่งชัน"
+    },
+    {
+        "id": "1766595803565907",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773215,
+            "longitude": 100.45098,
+            "street": "Soi Kaeo Ngoen Thong 40"
+        },
+        "name": "วัดช่างเหล็ก เขตตลิ่งชัน"
+    },
+    {
+        "id": "354020094677524",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773917828068,
+            "longitude": 100.45356339207,
+            "street": "163 คลองชักพระ ตลิ่งชัน กรุงเทพมหานคร",
+            "zip": "10170"
+        },
+        "name": "โรงเรียนวัดช่างเหล็ก(ส.ช.ก.)",
+        "phone": "024243326"
+    },
+    {
+        "id": "799427166790708",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77824374,
+            "longitude": 100.52692042
+        },
+        "name": "วัดช่างเหล็ก ตลิ่งชัน"
+    },
+    {
+        "about": "**รับสร้าง ต่อเติม ซ่อมแซม อาคาร บ้านพักอาศัย**\n**ช่างทำงานเหล็ก หลังคา กันสาด รั้ว เหล็กดัด**",
+        "description": "**รับสร้าง ต่อเติม ซ่อมแซม อาคาร บ้านพักอาศัย**\n**รับทำงานเหล็ก หลังคาโครงสร้างเหล็ก สไตล์โมเดิร์น หลังคาโรงรถ โรงงาน กันสาดกระเบื้อง,เมทัลชีท,ดีไลท์ และหลังคาโปรงแสงทุกชนิด  รั้ว ระแนง  เหล็กดัด บันไดเหล็ก**",
+        "id": "1486028164962631",
+        "location": {
+            "city": "Ranong",
+            "country": "Thailand",
+            "latitude": 9.85552,
+            "longitude": 98.61489,
+            "street": "Muang Ranong",
+            "zip": "85000"
+        },
+        "name": "ช่างเหล็ก ระนอง"
+    }
+]

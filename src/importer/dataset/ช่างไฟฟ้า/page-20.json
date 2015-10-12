@@ -1,0 +1,254 @@
+[
+    {
+        "id": "466479833400832",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.790107975065,
+            "longitude": 99.026986976927
+        },
+        "name": "วิทยาลัยการอาชีพป่าซางสาขาวัดร่องส้าว แผนกช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "467955863327869",
+        "location": {
+            "city": "Muang Chainat",
+            "country": "Thailand",
+            "latitude": 15.1893402,
+            "longitude": 100.1318299
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคชัยนาท"
+    },
+    {
+        "id": "469866616359994",
+        "location": {
+            "city": "Song",
+            "country": "Thailand",
+            "latitude": 18.456104545455,
+            "longitude": 100.18202181818
+        },
+        "name": "แผนกช่างไฟฟ้า !!!"
+    },
+    {
+        "id": "470285653030992",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.537685070199,
+            "longitude": 100.61955783526
+        },
+        "name": "ห้องพักอาจารย์ แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคสมุทรปราการ"
+    },
+    {
+        "id": "470417263102233",
+        "location": {
+            "city": "Napa",
+            "country": "Thailand",
+            "latitude": 13.291838424432,
+            "longitude": 101.16427419644
+        },
+        "name": "หลังแผนก ช่างไฟฟ้า เทคนิคชลบุรี"
+    },
+    {
+        "id": "472437762810820",
+        "location": {
+            "city": "ศรีราชา",
+            "latitude": 13.1048247,
+            "longitude": 101.0072819,
+            "street": "ชลบุรี"
+        },
+        "name": "แผนกช่างไฟฟ้า Kaosu Packing"
+    },
+    {
+        "id": "472749416116759",
+        "location": {
+            "city": "Muang Nan",
+            "country": "Thailand",
+            "latitude": 18.778722682927,
+            "longitude": 100.77126292683
+        },
+        "name": "แผนก ช่างไฟฟ้า เทนิค น่านเด้อ"
+    },
+    {
+        "id": "417761758292072",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.713926268657,
+            "longitude": 100.3827158209
+        },
+        "name": "แผนกช่างไฟฟ้า"
+    },
+    {
+        "id": "480698522012931",
+        "location": {
+            "city": "Pichit",
+            "country": "Thailand",
+            "latitude": 16.443099975586,
+            "longitude": 100.32465362549
+        },
+        "name": "ช่างไฟฟ้า วิลัยเทคนิคพิจิตร"
+    },
+    {
+        "id": "412938555532152",
+        "location": {
+            "city": "Huai Yot",
+            "country": "Thailand",
+            "latitude": 7.8049873,
+            "longitude": 99.6294961
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยการอาชีพห้วยยอด"
+    },
+    {
+        "id": "571828392959628",
+        "location": {
+            "city": "Amphoe Muang Lop Buri",
+            "country": "Thailand",
+            "latitude": 14.80256652832,
+            "longitude": 100.6202545166
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคลพบุรี"
+    },
+    {
+        "id": "637996272950297",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.472424300378,
+            "longitude": 100.11232278195
+        },
+        "name": "ช่างไฟฟ้ามหากำลัง เทคนิคสุพรรณ"
+    },
+    {
+        "id": "636934829749731",
+        "location": {
+            "latitude": 14.754678597754,
+            "longitude": 104.65897186617
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง  อิอิ"
+    },
+    {
+        "id": "633210786776661",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.648121523102,
+            "longitude": 100.3768730862,
+            "zip": "10150"
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคราชสิทธาราม"
+    },
+    {
+        "id": "633130506824432",
+        "location": {
+            "city": "Amphoe Nam Phong",
+            "country": "Thailand",
+            "latitude": 16.6167,
+            "longitude": 102.833
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคน้ำพอง"
+    },
+    {
+        "id": "603660066429581",
+        "location": {
+            "city": "Ban Muak Lek",
+            "country": "Thailand",
+            "latitude": 14.640552085162,
+            "longitude": 101.19704112411
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "586179701452063",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.6753815,
+            "longitude": 101.263819,
+            "zip": "21000"
+        },
+        "name": "ช็อปช่างไฟฟ้า วิทลัยเทคนิคระยอง"
+    },
+    {
+        "id": "585506018256778",
+        "location": {
+            "city": "Surin",
+            "country": "Thailand",
+            "latitude": 14.846812491319,
+            "longitude": 103.49565359773
+        },
+        "name": "หอพักช่างไฟฟ้า สาขา2"
+    },
+    {
+        "id": "576237595780450",
+        "location": {
+            "city": "Phetchaburi",
+            "country": "Thailand",
+            "latitude": 13.092314897154,
+            "longitude": 99.950152581617,
+            "zip": "76000"
+        },
+        "name": "สาขาช่างไฟฟ้า"
+    },
+    {
+        "id": "638407422921942",
+        "location": {
+            "city": "Chachoengsao",
+            "country": "Thailand",
+            "latitude": 13.685843467712,
+            "longitude": 101.07302093506
+        },
+        "name": "แผนกช่างไฟฟ้า"
+    },
+    {
+        "id": "564499177002177",
+        "location": {
+            "city": "Nan",
+            "country": "Thailand",
+            "latitude": 18.786627894737,
+            "longitude": 100.77791
+        },
+        "name": "ตึกช่างไฟฟ้า วิลัยเทคนิคน่าน"
+    },
+    {
+        "id": "553454164808500",
+        "location": {
+            "city": "Kanchanaburi",
+            "country": "Thailand",
+            "latitude": 14.0520193,
+            "longitude": 99.5033665,
+            "street": "วิทยาลัยสารพัดช่างกาญฯ"
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยสารพัดช่างกาญฯ มีแต่คนหน้าตาดี"
+    },
+    {
+        "id": "538758076192214",
+        "location": {
+            "city": "Phetchaburi",
+            "country": "Thailand",
+            "latitude": 13.092317475674,
+            "longitude": 99.95024888071
+        },
+        "name": "ชั้น4 ช่างไฟฟ้า"
+    },
+    {
+        "id": "537599572941564",
+        "location": {
+            "city": "Phayao",
+            "country": "Thailand",
+            "latitude": 19.203426358308,
+            "longitude": 99.887525411416
+        },
+        "name": "แผนก ช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "537207593039590",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.262259978112,
+            "longitude": 104.84563241435
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคอุบลราชธานี"
+    }
+]

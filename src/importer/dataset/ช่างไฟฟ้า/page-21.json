@@ -1,0 +1,249 @@
+[
+    {
+        "id": "534509186565393",
+        "location": {
+            "city": "Chacherngsao",
+            "country": "Thailand",
+            "latitude": 13.690905128205,
+            "longitude": 101.07631846154
+        },
+        "name": "ห้องพักครูช่างไฟฟ้า เทคนิคฉะเชิงเทรา"
+    },
+    {
+        "id": "530024527162118",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.81168933368,
+            "longitude": 100.2724313736
+        },
+        "name": "วิทยาลัยชื่อดังย่านห้าแยกโคกมะตูมที่มีเด็กช่างไฟฟ้าปี2ที่ชื่อว่าท็อป"
+    },
+    {
+        "id": "525572147479874",
+        "location": {
+            "city": "Muang Lopburi",
+            "country": "Thailand",
+            "latitude": 14.8021,
+            "longitude": 100.61434,
+            "street": "ลพบุรี"
+        },
+        "name": "ข้างแผนกช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "641542095885029",
+        "location": {
+            "latitude": 10.53088313,
+            "longitude": 99.20200564
+        },
+        "name": "วิทยาลัยเทคนิคชุมพร แผนกช่างไฟฟ้า"
+    },
+    {
+        "id": "655886841172019",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.802993039085,
+            "longitude": 98.965309968318
+        },
+        "name": "แผนกวิชาช่างไฟฟ้า วิทยาลัยสารพัดช่างเชียงใหม่"
+    },
+    {
+        "id": "656515661025883",
+        "location": {
+            "city": "Sisakate",
+            "country": "Thailand",
+            "latitude": 15.116085804133,
+            "longitude": 104.31977748871
+        },
+        "name": "ช่างไฟฟ้าโรงพยาบาลศรีสะเกษ"
+    },
+    {
+        "id": "656818041072650",
+        "location": {
+            "city": "Muang Chainat",
+            "country": "Thailand",
+            "latitude": 15.186554873376,
+            "longitude": 100.1359547955
+        },
+        "name": "บ้านสวนศิษย์ช่างไฟฟ้า15+"
+    },
+    {
+        "id": "661293507319797",
+        "location": {
+            "city": "Sawang Daen Din",
+            "country": "Thailand",
+            "latitude": 17.466281767729,
+            "longitude": 103.47139793674
+        },
+        "name": "แผนกช่างไฟฟ้า  วิทยาลัยการอาชีพพรรณานิคม"
+    },
+    {
+        "id": "662668710508862",
+        "location": {
+            "city": "Amphoe Nakhon Chai Si",
+            "country": "Thailand",
+            "latitude": 13.9021872,
+            "longitude": 100.213645
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยการอาชีพบางแก้วฟ้า - หลวงพ่อเปิ่นอุปถัมภ์"
+    },
+    {
+        "id": "664902573535478",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.5895309,
+            "longitude": 99.0460608,
+            "zip": "51000"
+        },
+        "name": "ตึก5 คณะช่างไฟฟ้า วิทยาลัยเทคนิคลำพูน"
+    },
+    {
+        "id": "678769575578308",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.81677868,
+            "longitude": 100.09033801
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง เทคโนโลยีนครปฐม"
+    },
+    {
+        "id": "681302742016356",
+        "location": {
+            "city": "Phon",
+            "country": "Thailand",
+            "latitude": 15.8236917,
+            "longitude": 102.6054075
+        },
+        "name": "สาขาช่างไฟฟ้า"
+    },
+    {
+        "id": "683162551805249",
+        "location": {
+            "city": "Thanon Yai",
+            "country": "Thailand",
+            "latitude": 14.828323236681,
+            "longitude": 100.64806938171
+        },
+        "name": "แผนกช่างไฟฟ้ามหากำลัง วิทยาลัยเทคโนโลยีละโว้"
+    },
+    {
+        "id": "689040381150080",
+        "location": {
+            "city": "Chiang Rai",
+            "country": "Thailand",
+            "latitude": 19.90268115,
+            "longitude": 99.8260695,
+            "zip": "57000"
+        },
+        "name": "ตึกช่างไฟฟ้าวิทยาลัยเทคนิคเชียงราย"
+    },
+    {
+        "id": "702253693146961",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.58924894246,
+            "longitude": 100.61226359709
+        },
+        "name": "หลังแผนกช่างไฟฟ้ากำลัง เทคนิคสมุทรปราการ"
+    },
+    {
+        "id": "704077176381320",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.15629085,
+            "longitude": 104.8480547
+        },
+        "name": "แผนกช่างไฟฟ้ากำลังวิทยาลัยการอาชีพวารินชำราบ"
+    },
+    {
+        "id": "717652648254110",
+        "location": {
+            "city": "Muang Lopburi",
+            "country": "Thailand",
+            "latitude": 14.800472463535,
+            "longitude": 100.62023151105
+        },
+        "name": "แผนกช่างไฟฟ้ากำลังเทคนิคลพบุรี"
+    },
+    {
+        "id": "493091824115477",
+        "location": {
+            "city": "Muang Surin",
+            "country": "Thailand",
+            "latitude": 14.8796095,
+            "longitude": 103.4997221
+        },
+        "name": "ตึกช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "475424892547823",
+        "location": {
+            "latitude": 15.9781305,
+            "longitude": 99.4533158
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วท.แม่วงก์"
+    },
+    {
+        "id": "475589049131547",
+        "location": {
+            "city": "Pua",
+            "country": "Thailand",
+            "latitude": 19.181406521739,
+            "longitude": 100.89776043478
+        },
+        "name": "Rc Pua แผนกช่างไฟฟ้า"
+    },
+    {
+        "id": "476148602560370",
+        "location": {
+            "city": "Phrae",
+            "country": "Thailand",
+            "latitude": 18.132275185125,
+            "longitude": 100.13406611023
+        },
+        "name": "แผนงช่างไฟฟ้า วิทยาลัยเทคนิคเเพร่"
+    },
+    {
+        "id": "476235879143135",
+        "location": {
+            "city": "Phetchaburi",
+            "country": "Thailand",
+            "latitude": 13.1180547,
+            "longitude": 99.9384535
+        },
+        "name": "ห้องช่างไฟฟ้า รพ.พระจอมเกล้า จ.เพชรบุรี"
+    },
+    {
+        "id": "472317126262979",
+        "location": {
+            "city": "Maha Sarakham",
+            "country": "Thailand",
+            "latitude": 16.2433857,
+            "longitude": 103.2534903
+        },
+        "name": "แผนกวิชาช่างไฟฟ้า เทคนิคสารคาม"
+    },
+    {
+        "id": "483870451727666",
+        "location": {
+            "latitude": 7.9941513,
+            "longitude": 98.3395003
+        },
+        "name": "แผนกช่างไฟฟ้าและเครื่องทำความเย็น ศูนย์พัฒนาฝีมือแรงงาน"
+    },
+    {
+        "id": "485106554982694",
+        "location": {
+            "city": "Amphoe Ban Pong",
+            "country": "Thailand",
+            "latitude": 13.8938935,
+            "longitude": 99.794682
+        },
+        "name": "ชอปช่างไฟฟ้า. วิทยาลัยเทคโนโลยีดอนบอสโก. บ้านโป่ง"
+    }
+]

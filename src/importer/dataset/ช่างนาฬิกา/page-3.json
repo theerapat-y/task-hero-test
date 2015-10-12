@@ -1,0 +1,275 @@
+[
+    {
+        "id": "174239315990941",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.9606595,
+            "longitude": 100.6241228
+        },
+        "name": "ศูนย์ซ่อมนาฬิกา ช.ช่างเผ่าพันธุ์ เซียร์ รังสิต"
+    },
+    {
+        "id": "216918725118784",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ซ.ประชาอุทิศ12 ห้วยขวาง(ซ.ร่มเย็น)"
+        },
+        "name": "สนง.ใหญ่ช่างโย กุญแจและนาฬิกา",
+        "phone": "084-542-2692"
+    },
+    {
+        "id": "268697409934292",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0088330533593,
+            "longitude": 100.47478077222
+        },
+        "name": "ร้านนาฬิกาช่างก้อง"
+    },
+    {
+        "id": "372513579619850",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0166708097543,
+            "longitude": 100.46700954437
+        },
+        "name": "ช่างก้องนาฬิกา"
+    },
+    {
+        "id": "292693064239300",
+        "location": {
+            "city": "Lamnarai",
+            "country": "Thailand",
+            "latitude": 15.218419,
+            "longitude": 101.127134
+        },
+        "name": "หอนาฬิกา รวมช่างเชียงกง"
+    },
+    {
+        "id": "416417078528376",
+        "location": {
+            "city": "Pa Daet",
+            "country": "Thailand",
+            "latitude": 19.498840551809,
+            "longitude": 99.992993857149
+        },
+        "name": "ร้านช่างเก่งนาฬิกาป่าแดด"
+    },
+    {
+        "id": "405330689513543",
+        "location": {
+            "city": "Raman",
+            "country": "Thailand",
+            "latitude": 6.47705002349,
+            "longitude": 101.42901128316
+        },
+        "name": "ร้านรามันการช่าง:นาฬิกา\u0026กุญแจ"
+    },
+    {
+        "id": "396744080385402",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75913864,
+            "longitude": 100.5664379,
+            "zip": "10310"
+        },
+        "name": "ช่างกบ นาฬิกา"
+    },
+    {
+        "id": "374711672719673",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.697311401367,
+            "longitude": 100.60743713379
+        },
+        "name": "โรงงานทำนาฬิกาชื่อดังย่านบางจากที่มีช่างแอร์หุ่นดีหน้าตาดีดูแลแอร์อยู่"
+    },
+    {
+        "id": "371505686316274",
+        "location": {
+            "city": "Ban Rai",
+            "country": "Thailand",
+            "latitude": 15.082002294814,
+            "longitude": 99.521874172042,
+            "zip": "61140"
+        },
+        "name": "ช่างเท๊านาฬิกา\u0026ครัวป้าออ"
+    },
+    {
+        "id": "358368760967846",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7940027,
+            "longitude": 100.5952956
+        },
+        "name": "ช่างซ่อมนาฬิกา กุญแจข้างถนนโชคชัย4"
+    },
+    {
+        "id": "351582504966260",
+        "location": {
+            "city": "Ban Tha Mai",
+            "country": "Thailand",
+            "latitude": 12.62057,
+            "longitude": 102.01013,
+            "street": "สามแยกปั้มน้ำมัน ตลาดหอนาฬิกา"
+        },
+        "name": "ประเสริฐช่างยนต์ ท่าใหม่"
+    },
+    {
+        "id": "341718369352971",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0088793,
+            "longitude": 100.47495304
+        },
+        "name": "ร้าน นาฬิกาช่างก้อง"
+    },
+    {
+        "id": "323180164479848",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7491782951,
+            "longitude": 100.51648426225,
+            "street": "Thanon Rama I"
+        },
+        "name": "ห้องช่างนาฬิกา"
+    },
+    {
+        "id": "313251588864884",
+        "location": {
+            "city": "Amphoe Muang Chanthaburi",
+            "country": "Thailand",
+            "latitude": 12.59980506,
+            "longitude": 102.11492344333,
+            "street": "ตลาดจตุจักรจันทบุรี"
+        },
+        "name": "ร้านช่างหนิงรับทำกุญแจ ซ่อมนาฬิกา ตลาดจตุจักร จันทบุรี",
+        "phone": "0852907531"
+    },
+    {
+        "id": "295887563851546",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.771655437165,
+            "longitude": 100.58205724649,
+            "street": "ประชาอุทิศ 20",
+            "zip": "10310"
+        },
+        "name": "โย ช่างกุญแจ\u0026นาฬิกา",
+        "phone": "084 842 2692"
+    },
+    {
+        "id": "228837613817351",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795805545515,
+            "longitude": 98.986392151226,
+            "zip": "50200"
+        },
+        "name": "แสงทองนาฬิกา ช้างเผือก"
+    },
+    {
+        "id": "1505571329700511",
+        "location": {
+            "city": "Chumphon",
+            "country": "Thailand",
+            "latitude": 10.491560922161,
+            "longitude": 99.199985973537
+        },
+        "name": "ร้านกาแฟช้าง - นาฬิกาดินเผา"
+    },
+    {
+        "id": "143079282466274",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.800234411155,
+            "longitude": 98.985935388617,
+            "zip": "50200"
+        },
+        "name": "ศูนย์ซ่อมนาฬิกาช้างเผือก"
+    },
+    {
+        "id": "191225724249121",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.813489235765,
+            "longitude": 100.26286624405,
+            "street": "ช้าง เกษตรยนต์. ตรงข้ามโลตัส โคกช้าง ถนนพิษณุโลก-หล่มสัก",
+            "zip": "65000"
+        },
+        "name": "เจ้าสัวพาเที่ยว สาขา หอนาฬิกา",
+        "phone": "055-259333,216510"
+    },
+    {
+        "id": "225885300869114",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.244555778732,
+            "longitude": 104.84749628734,
+            "zip": "34000"
+        },
+        "name": "ร้านตัดผมวนิดาช่างทิดหอนาฬิกา"
+    },
+    {
+        "id": "1396328240605471",
+        "location": {
+            "city": "Lampang",
+            "country": "Thailand",
+            "latitude": 18.289524186146,
+            "longitude": 99.491331083126,
+            "street": "451-453 ถ.ทิพย์ช้าง ต.สวนดอก อ.เมือง จ.ลำปาง 52100"
+        },
+        "name": "บ.นิววิริยะยานยนต์ทัวร์ จำกัด ห้าแยกหอนาฬิกา",
+        "phone": "054217966"
+    },
+    {
+        "id": "226542497409185",
+        "location": {
+            "city": "Ban Dan Chang",
+            "country": "Thailand",
+            "latitude": 14.8416266299,
+            "longitude": 99.6890022462
+        },
+        "name": "หอนาฬิกาบรรหารแจ่มใส อ.ด่านช้าง จ.สุพรรณบุรี"
+    },
+    {
+        "id": "164747997050119",
+        "location": {
+            "city": "Bangsabhan",
+            "country": "Thailand",
+            "latitude": 11.81136,
+            "longitude": 99.79797,
+            "street": "บางสะพาน"
+        },
+        "name": "อู่ช่างเขี้ยว หอนาฬิกา บางสะพาน"
+    },
+    {
+        "id": "681814548591485",
+        "location": {
+            "city": "Pak Kret",
+            "country": "Thailand",
+            "latitude": 13.9167,
+            "longitude": 100.5,
+            "street": "บิ๊กซีแจ้งวัฒนะ ( ลานจอดรถ)  / เซ็นทรัลแจ้งวัฒนะ (ประตูทางออก Tops)",
+            "zip": "11120"
+        },
+        "name": "ช่างกุญแจ นาฬิกา เมืองทอง-แจ้งวัฒนะ",
+        "phone": "0896348791"
+    }
+]

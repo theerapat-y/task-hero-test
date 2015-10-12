@@ -1,0 +1,274 @@
+[
+    {
+        "id": "567011120099667",
+        "location": {
+            "city": "Prakanong",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "พัฒนาการ 20"
+        },
+        "name": "อู่ซ่อมรถยนต์ ธนบุรี"
+    },
+    {
+        "id": "598567706941010",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 15.035591494585,
+            "longitude": 102.11747129412
+        },
+        "name": "อู่ซ่อมรถยนต์ที่ใหญ่ที่สุดในโคราช"
+    },
+    {
+        "id": "598469836874925",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.73614426704,
+            "longitude": 98.954813797119,
+            "zip": "50100"
+        },
+        "name": "บ้านนายช่างอ้น ซ่อมรถยนต์ ช่วงล่าง เครื่องยนต์"
+    },
+    {
+        "id": "593443570728614",
+        "location": {
+            "city": "Amphoe Prakhon Chai",
+            "country": "Thailand",
+            "latitude": 14.558052102205,
+            "longitude": 103.0876907424
+        },
+        "name": "เอก ประดับยนต์ บริการห้องซ้อมดนตรี เครื่องเสียง รถยนต์และโคโยตี้"
+    },
+    {
+        "id": "588321737855993",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.703533,
+            "longitude": 100.368165
+        },
+        "name": "Noi U-Tech ศูนย์บริการตรวจเช็ค,ซ่อมรถยนต์ทุกประเภท"
+    },
+    {
+        "id": "587849544559116",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.370247260681,
+            "longitude": 100.52955023488,
+            "street": "ภูเขาทอง"
+        },
+        "name": "อู่ซ่อมรถยนต์ บ้านกำนันน๊อค"
+    },
+    {
+        "about": "บริการซ่อมรถยนต์ เครื่องยนต์ ช่วงล่างแอร์ และระบบไฟฟ้า และรับซ่อมรถโปรตอนทุกและอะไหล่\n",
+        "emails": [
+            "autorepair_service@hotmail.co.th"
+        ],
+        "id": "571028702971284",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ดอนเมือง"
+        },
+        "name": "บริการซ่อมรถยนต์",
+        "phone": "0917185032"
+    },
+    {
+        "id": "567337463378626",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.70426,
+            "longitude": 100.40088,
+            "street": "85/1 ซอยเพชรเกษม 69 แยก 6-1-1 แขวงหนองค้างพลู เขตหนองแขม กรุงเทพฯ 10160",
+            "zip": "10160"
+        },
+        "name": "อู่ซ่อมสีตัวถังรถยนต์ \"ตามออโต้ เซอร์วิส \"",
+        "phone": "028074448"
+    },
+    {
+        "id": "499015853493462",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.629566286317,
+            "longitude": 100.40018862555,
+            "zip": "10150"
+        },
+        "name": "นภัสเซอร์วิส ซ่อมรถยนต์ทีมงานมืออาชีพ 0865289407"
+    },
+    {
+        "id": "566086070197158",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.289426907216,
+            "longitude": 100.93529824742
+        },
+        "name": "ร้านดวงการช่าง ซ่อมหม้อน้ำรถยนต์ ทุกชนิด"
+    },
+    {
+        "id": "565605520218270",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.731340592851,
+            "longitude": 100.60775615904
+        },
+        "name": "อู่ซ่อมรถยนต์ Net Shop ซ.พัฒนาการ20 แยก11"
+    },
+    {
+        "id": "555413901151152",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.858865513747,
+            "longitude": 100.5294543638,
+            "street": "Soi Ngam Wong Wan 1/1",
+            "zip": "11000"
+        },
+        "name": "ศูนย์บริการซ่อมรถยนต์ R Motor สี่แยกแคราย"
+    },
+    {
+        "id": "538283612867104",
+        "location": {
+            "city": "Krok Phra",
+            "country": "Thailand",
+            "latitude": 15.575304,
+            "longitude": 100.074244
+        },
+        "name": "ร้านซ่อมรถยนต์โกรกพระ"
+    },
+    {
+        "id": "536030466501769",
+        "location": {
+            "city": "Nakhon Luang",
+            "country": "Thailand",
+            "latitude": 14.451039614035,
+            "longitude": 100.61197242179
+        },
+        "name": "นครหลวงยางยนต์ จำหน่ายยางรถยนต์ ซ่อมช่วงล่าง เครื่องยนต์",
+        "phone": "0855531121"
+    },
+    {
+        "id": "533394540005268",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.762774675777,
+            "longitude": 100.32630385357
+        },
+        "name": "อู่ซ่อมรถยนต์ดารารัศมี"
+    },
+    {
+        "id": "532027590189063",
+        "location": {
+            "city": "Songkhla",
+            "country": "Thailand",
+            "latitude": 7.2015879329828,
+            "longitude": 100.55268098486,
+            "zip": "90280"
+        },
+        "name": "อู่ซ่อมรถยนต์ระดับมาตรฐาน อู่สามพี่น้อง"
+    },
+    {
+        "id": "495028550552551",
+        "location": {
+            "city": "Kota Bharu",
+            "country": "Malaysia",
+            "latitude": 6.013440105032,
+            "longitude": 101.9657811546
+        },
+        "name": "ร้านซ่อมแอร์ รถยนต์"
+    },
+    {
+        "id": "159970030837681",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.654014,
+            "longitude": 100.3571222
+        },
+        "name": "ร้านซ่อมรถยนต์"
+    },
+    {
+        "id": "159012867533779",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.606854829004,
+            "longitude": 100.68719975134,
+            "zip": "10540"
+        },
+        "name": "P2M ศูนย์ซ่อมและติดตั้งแก๊สรถยนต์"
+    },
+    {
+        "id": "157529591080915",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.838840690454,
+            "longitude": 100.46034031557
+        },
+        "name": "ช่างซ่อมรถยนต์โต บางกร่าง"
+    },
+    {
+        "id": "156090307810487",
+        "location": {
+            "city": "Surat Thani",
+            "country": "Thailand",
+            "latitude": 9.1496884329057,
+            "longitude": 99.37776500108,
+            "zip": "84000"
+        },
+        "name": "กรประตูรถยนต์  รับซ่อม บู๊ช กลอน กระจกไฟฟ้า"
+    },
+    {
+        "id": "155818251274949",
+        "location": {
+            "city": "Krasang",
+            "country": "Thailand",
+            "latitude": 14.99042,
+            "longitude": 103.093645,
+            "street": "Jira Road"
+        },
+        "name": "ร้านซ่อมรถยนต์218service"
+    },
+    {
+        "id": "155303161305266",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.76857,
+            "longitude": 100.691435,
+            "street": "Ramkhamhaeng 118 Yaek 33"
+        },
+        "name": "อู่ซ่อมรถยนต์ Jm ช่างเอ็ดกับพี่หนุ่ย สะพานสูง กทม."
+    },
+    {
+        "id": "162794857116252",
+        "location": {
+            "city": "Payuha",
+            "country": "Thailand",
+            "latitude": 15.383179583333,
+            "longitude": 100.24715291667
+        },
+        "name": "อู่ซ่อมรถยนต์"
+    },
+    {
+        "id": "141171089377483",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.787056789746,
+            "longitude": 100.63262639577,
+            "zip": "10240"
+        },
+        "name": "อู่ซ่อมรถยนต์ KC 99 Garage ซ.นวลจันทร์ 44"
+    }
+]

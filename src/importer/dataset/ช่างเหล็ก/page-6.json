@@ -1,0 +1,249 @@
+[
+    {
+        "id": "507144972722089",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.779125816667,
+            "longitude": 100.45188063333
+        },
+        "name": "บ้านนี้มีรัก ปากซอยวัดช่างเหล็ก"
+    },
+    {
+        "id": "471554116200455",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773070745088,
+            "longitude": 100.45486565407
+        },
+        "name": "หลังเมรุวัดช่างเหล็ก"
+    },
+    {
+        "id": "522107844585819",
+        "location": {
+            "latitude": 14.371539659118,
+            "longitude": 100.97125981003
+        },
+        "name": "รพ.สต.หนองช่างเหล็ก"
+    },
+    {
+        "id": "523814961091286",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77315104823,
+            "longitude": 100.45492384583
+        },
+        "name": "กศน.วัดช่างเหล็ก"
+    },
+    {
+        "id": "526213297478666",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7730376,
+            "longitude": 100.4513527
+        },
+        "name": "บ้านป้าเป้า ตลิ่งชัน วัดช่างเหล็ก"
+    },
+    {
+        "id": "528062920635584",
+        "location": {
+            "latitude": 14.31227,
+            "longitude": 100.92665
+        },
+        "name": "บ้านหนองช่างเหล็ก"
+    },
+    {
+        "id": "529008587116030",
+        "location": {
+            "city": "Sena",
+            "country": "Thailand",
+            "latitude": 14.284306,
+            "longitude": 100.431839
+        },
+        "name": "12/2 ม.4 ต.ช่างเหล็ก อ.บางไทร จ.พระนครศรีอยุธยา"
+    },
+    {
+        "id": "539418672778694",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.779227134119,
+            "longitude": 100.45171274777
+        },
+        "name": "บ้าบี้ ร้านชำ ปากซอยวัดช่างเหล็ก"
+    },
+    {
+        "id": "544682062244601",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7939,
+            "longitude": 100.430755,
+            "street": "Chim Phli 1"
+        },
+        "name": "ร้านเจ็กตือ วัดช่างเหล็ก"
+    },
+    {
+        "id": "546125548770434",
+        "location": {
+            "city": "HIN NGOM",
+            "latitude": 17.952712043205,
+            "longitude": 102.84048680226
+        },
+        "name": "บ้าน อั๋น นครหิน ช่างเหล็ก"
+    },
+    {
+        "id": "462356790489736",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.772866011111,
+            "longitude": 100.45312245556,
+            "zip": "10170"
+        },
+        "name": "@ HOME วัดช่างเหล็ก"
+    },
+    {
+        "id": "456674614377255",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7807776,
+            "longitude": 100.4626362,
+            "zip": "10170"
+        },
+        "name": "7-11 ชุมชนช่างเหล็ก"
+    },
+    {
+        "id": "450888731662515",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7797724,
+            "longitude": 100.4516292
+        },
+        "name": "สามแยกช่างเหล็ก"
+    },
+    {
+        "id": "449865625036198",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.765914653344,
+            "longitude": 100.56892981094,
+            "zip": "10400"
+        },
+        "name": "วัดช่างเหล็ก @ อยุธยา"
+    },
+    {
+        "id": "445004098990301",
+        "location": {
+            "city": "Kanchanaburi",
+            "country": "Thailand",
+            "latitude": 14.00401,
+            "longitude": 99.54946,
+            "street": "กาญจนบุรี"
+        },
+        "name": "อู่ ช่างเหล็ก Y Speed"
+    },
+    {
+        "id": "443751622454298",
+        "location": {
+            "latitude": 14.339101507682,
+            "longitude": 100.92223405838
+        },
+        "name": "บ้านเจ๊น้อย-ป๋าเนะ หนองช่างเหล็ก"
+    },
+    {
+        "id": "440668472707813",
+        "location": {
+            "city": "Chok Chai",
+            "country": "Thailand",
+            "latitude": 14.732837230629,
+            "longitude": 102.17674495901
+        },
+        "name": "บ้านบุญช่วย ช่างเหล็กขี้เมา"
+    },
+    {
+        "id": "438217719592510",
+        "location": {
+            "latitude": 14.256385192539,
+            "longitude": 100.44660595009
+        },
+        "name": "ร้านก๊วยเตี๋ยวป้าเอียด หน้าซุ้มวัดศิริสุขาราม ริมถนน 3111 ช่างเหล็ก บางไทร"
+    },
+    {
+        "id": "431330263627822",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.776426,
+            "longitude": 100.448256,
+            "street": "Charan Sanitwong 18"
+        },
+        "name": "โรงเรียนวัดช่างเหล็ก"
+    },
+    {
+        "id": "428765250597303",
+        "location": {
+            "city": "จ.อยุธยา",
+            "latitude": 14.292794,
+            "longitude": 100.471796,
+            "street": "ต.ช่างเหล็ก อ.บางไทร"
+        },
+        "name": "บ้านไพฑูนย์ ต.ช่างเหล็ก อ.บางไทร"
+    },
+    {
+        "about": "รับเหมางานเหล็กทุกชนิด โรงรถ. รั้ว. เหล็กดัด สนใจติดต่อได้ 0861980055",
+        "id": "428410170662374",
+        "location": {
+            "city": "Lamphun",
+            "country": "Thailand",
+            "latitude": 18.5811,
+            "longitude": 99.0092,
+            "street": "บ้านกอขาอย",
+            "zip": "51000"
+        },
+        "name": "ช่างเหล็ก",
+        "phone": "0861980055"
+    },
+    {
+        "id": "420848051427678",
+        "location": {
+            "city": "จักราช",
+            "latitude": 15.0690167,
+            "longitude": 102.3954771
+        },
+        "name": "ร้านโอ้ทีมช่างเหล็ก"
+    },
+    {
+        "id": "420263101376966",
+        "location": {
+            "latitude": 14.379444745763,
+            "longitude": 100.90941694915
+        },
+        "name": "บ้านหนองช่างเหล็ก อำเภอวิหารแดง"
+    },
+    {
+        "id": "417658904998160",
+        "location": {
+            "city": "Bang Sai",
+            "country": "Thailand",
+            "latitude": 14.25523897,
+            "longitude": 100.450357215
+        },
+        "name": "ช่างเหล็ก บางไทร"
+    },
+    {
+        "id": "186971881487956",
+        "location": {
+            "latitude": 14.363666893928,
+            "longitude": 100.41058114739,
+            "street": "อำเภอบางไทร จังหวัดพระนครศรีอยุธยา"
+        },
+        "name": "โรงพยาบาลส่งเสริมสุขภาพตำบล ช่างเหล็ก"
+    }
+]

@@ -1,0 +1,274 @@
+[
+    {
+        "id": "324160201056335",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.238341396812,
+            "longitude": 104.83619226112
+        },
+        "name": "บ้านช่างนัท แยกประปา"
+    },
+    {
+        "id": "316754188515665",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.82314,
+            "longitude": 100.05728,
+            "street": "ประปา"
+        },
+        "name": "ช่างเอ  เปลี่ยนถ่ายนำมันเครื่อง"
+    },
+    {
+        "id": "301515396653937",
+        "location": {
+            "city": "Muang Tak",
+            "country": "Thailand",
+            "latitude": 16.880190534983,
+            "longitude": 99.126309494916
+        },
+        "name": "ร้านช่างปอประปา"
+    },
+    {
+        "id": "292491847541429",
+        "location": {
+            "latitude": 12.8225,
+            "longitude": 101.65125
+        },
+        "name": "สำนักงานช่างประปา มมว."
+    },
+    {
+        "id": "273733362744351",
+        "location": {
+            "city": "Phrao",
+            "country": "Thailand",
+            "latitude": 19.367044209521,
+            "longitude": 99.207423320132
+        },
+        "name": "อาคารเอนกประสงค์ บ้านช้างคำ (ประปาบ้านช้างคำ)"
+    },
+    {
+        "id": "196280547194421",
+        "location": {
+            "city": "Mae Sot",
+            "country": "Thailand",
+            "latitude": 16.71314,
+            "longitude": 98.57384,
+            "street": "ข้างรร.มณี"
+        },
+        "name": "บ้านช่างประปา\u0026คุณนายประปา"
+    },
+    {
+        "id": "193035147550562",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.23800734091,
+            "longitude": 104.8363445061
+        },
+        "name": "สี่แยกประปาร้านช่างนัท"
+    },
+    {
+        "description": "99/10 ซ.วัดพระเงิน อ.บางม่วง อ.บางใหญ่ นนทบุรี",
+        "id": "180632235478664",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ขายอุปกรณ์ก่อสร้าง เครื่องมือช่าง ประปา ไฟฟ้า เบ็ดเตล็ด"
+        },
+        "name": "ร้านณัฐกิจฮาดแวร์"
+    },
+    {
+        "id": "178129735693680",
+        "location": {
+            "city": "Muang Phayao",
+            "country": "Thailand",
+            "latitude": 19.176325,
+            "longitude": 99.890905,
+            "street": "Suan Dok"
+        },
+        "name": "ร้านช่างนิต..หลังประปา"
+    },
+    {
+        "id": "151414545056587",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.788216547127,
+            "longitude": 98.955812500882
+        },
+        "name": "ดาวแห่งช่างประปา"
+    },
+    {
+        "id": "146791318857350",
+        "location": {
+            "city": "Amphoe Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0112926,
+            "longitude": 100.4310288
+        },
+        "name": "ร้าน เอสดีดีการประปาและเครื่องมือช่างและอุปกรอาทแวร์ทุกชิด"
+    },
+    {
+        "about": "ช่างทำเครื่องเสียง ติดฟิมล์ ติดกันขโมย ทำแอร์รถ",
+        "id": "191414714360537",
+        "location": {
+            "city": "Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.92536,
+            "longitude": 101.36825,
+            "street": "10ซ2(ประปา) ต.ปากช่อง อ.ปากช่อง จ.นครราชสีมา",
+            "zip": "30130"
+        },
+        "name": "ช่างทำเครื่องเสียง",
+        "phone": "0821566823"
+    },
+    {
+        "id": "395561427284954",
+        "location": {
+            "city": "Kamphaeng Saen",
+            "country": "Thailand",
+            "latitude": 14.00558,
+            "longitude": 99.98485,
+            "street": "บ้านรางไม้ตาย"
+        },
+        "name": "บ้านช่างอึ่ง การประปาคลาสสิค"
+    },
+    {
+        "id": "416040308531047",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.9112903,
+            "longitude": 98.954628566667,
+            "zip": "50180"
+        },
+        "name": "ช็อปช่างประปาอินดี้"
+    },
+    {
+        "about": "ขายขนมปังกรอบ-คอนเฟลก",
+        "id": "385766504967652",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7522,
+            "longitude": 100.494,
+            "street": "123/4 ซอยศรีพิชัย ถ.ริมคลองประปาฝั่งซ้าย เขตบางซือ",
+            "zip": "10800"
+        },
+        "name": "ขนมลูกช้าง",
+        "phone": "0847525692"
+    },
+    {
+        "id": "483074928511988",
+        "location": {
+            "city": "Srimahapho",
+            "country": "Thailand",
+            "latitude": 13.9369594,
+            "longitude": 101.5500236
+        },
+        "name": "เถียงนาน้อยช่างประปา"
+    },
+    {
+        "id": "384266758337676",
+        "location": {
+            "city": "Muang Sara Buri",
+            "country": "Thailand",
+            "latitude": 14.5299656,
+            "longitude": 100.91941921
+        },
+        "name": "ช่างภพ ประปา"
+    },
+    {
+        "id": "528354853915299",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.836286053434,
+            "longitude": 100.05023943256,
+            "street": "ประปานคร",
+            "zip": "73000"
+        },
+        "name": "ร้านช่างกัน ตัดผมชาย"
+    },
+    {
+        "id": "509508582472426",
+        "location": {
+            "city": "Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.71254,
+            "longitude": 101.42182,
+            "street": "บ้านกอก"
+        },
+        "name": "ช่างเสริมไฟฟ้าประปา"
+    },
+    {
+        "id": "494020210745817",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 6.9859801,
+            "longitude": 100.4680076,
+            "street": "เข้าทางช่างกลพ้นการประปา ลงสะพานยุขวามือ ถนนสายทางไปม.หาดไหย่"
+        },
+        "name": "ร้านรุ้งกินน้ำ"
+    },
+    {
+        "id": "493235407433260",
+        "location": {
+            "city": "Rangsit",
+            "country": "Thailand",
+            "latitude": 13.966000201269,
+            "longitude": 100.64337025789,
+            "street": "72/4 ม.ไดมอนด์วิลล์ 1 ต.คูคต อ. ลำลูกกา จ.ปทุมธานี 12130",
+            "zip": "12130"
+        },
+        "name": "D.M. Homemart สี ไฟฟ้า ประปา เครืีองมือช่าง",
+        "phone": "0838560551"
+    },
+    {
+        "id": "491741494193536",
+        "location": {
+            "city": "Chiang Rai",
+            "country": "Thailand",
+            "latitude": 19.88503,
+            "longitude": 99.83355
+        },
+        "name": "การประปาส่วนภูมิภาค สาขากำแพงเพชร แผนกองช่าง (งานบริการ)"
+    },
+    {
+        "id": "485276881577029",
+        "location": {
+            "city": "Tha Rong Chang",
+            "country": "Thailand",
+            "latitude": 9.0131172468039,
+            "longitude": 99.172337846923,
+            "zip": "84130"
+        },
+        "name": "ประปาทุ่งคอก หมู่ 5 ต ท่าโรงช้าง อพุนพิน จสุราษฎร์ธานี"
+    },
+    {
+        "id": "478638302214117",
+        "location": {
+            "city": "Amphoe Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0119002,
+            "longitude": 100.4306718,
+            "street": "136/1 หมู่ 8 ตำบลท่าช้าง อำเภอบางกลำ จังหวัดสงขลา"
+        },
+        "name": "ร้านเอสดีดีการประปาขายเครื่องมือช่างและฮาดแวร์"
+    },
+    {
+        "id": "472464729549370",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.399315170609,
+            "longitude": 101.01578939775
+        },
+        "name": "บ้านช่างพุทธา ช่างประปา อันดับ1ของเมืองไทย at Chonburi."
+    }
+]

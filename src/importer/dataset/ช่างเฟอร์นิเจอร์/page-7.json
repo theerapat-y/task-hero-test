@@ -1,0 +1,266 @@
+[
+    {
+        "id": "1591216971106044",
+        "location": {
+            "city": "Ubonradchathani",
+            "latitude": 15.163792127561,
+            "longitude": 104.76746398956,
+            "street": "บุ่งหวาย"
+        },
+        "name": "ช่างดอนเฟอร์นิเจอร์"
+    },
+    {
+        "id": "1594239507482117",
+        "location": {
+            "latitude": 17.8349533,
+            "longitude": 101.880946
+        },
+        "name": "บ้านช่างศักดิ์ เฟอร์นิเจอร์"
+    },
+    {
+        "id": "1597801250452441",
+        "location": {
+            "city": "Phu Khieo",
+            "country": "Thailand",
+            "latitude": 14.71751,
+            "longitude": 100.44188,
+            "street": "อ.ภูเขียว ต.บ้านแก้ง บ้านนาหนองทุ่ม"
+        },
+        "name": "บ้าน ช่างอ๋อก เฟอร์นิเจอร์ นาหนองทุ่ม",
+        "phone": "0860080278"
+    },
+    {
+        "id": "1599805993577473",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.843371934358,
+            "longitude": 100.48370361328,
+            "street": "190/23"
+        },
+        "name": "บ้านแสนสุข บางศรีเมือง - โรงงานเฟอร์นิเจอร์ ช่างเอก",
+        "phone": "0815895368"
+    },
+    {
+        "id": "1609754602572506",
+        "location": {
+            "latitude": 17.840025,
+            "longitude": 101.8781216
+        },
+        "name": "บ้านช่างศักดิ์เฟอร์นิเจอร์"
+    },
+    {
+        "about": "รับเหมางานบิ้นอินตกแต่งภายในและออกแบบ\nงานไม่ทุกชนิด",
+        "id": "1638261239752185",
+        "location": {
+            "city": "Hua Hin",
+            "country": "Thailand",
+            "latitude": 12.5506268,
+            "longitude": 99.9635925,
+            "street": "หัวหิน",
+            "zip": "77110"
+        },
+        "name": "ช่าง ล่า เฟอร์นิเจอร์",
+        "phone": "0984863809"
+    },
+    {
+        "id": "1694030997500770",
+        "location": {
+            "city": "Samrong Thap",
+            "country": "Thailand",
+            "latitude": 15.01718,
+            "longitude": 103.9383
+        },
+        "name": "ช้างน้อยเฟอร์นิเจอร์ อ.สำโรงทาบ"
+    },
+    {
+        "id": "1028088597203427",
+        "location": {
+            "city": "Amphoe Tha Wung",
+            "country": "Thailand",
+            "latitude": 14.8167,
+            "longitude": 100.517
+        },
+        "name": "ช่างสิทธิ์เฟอร์นิเจอร์"
+    },
+    {
+        "id": "967475646610705",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.4667,
+            "longitude": 100.117,
+            "street": "55 หมู่6 ต.ด่านช้าง อ.ด่านช้าง",
+            "zip": "72180"
+        },
+        "name": "เฟอร์นิเจอร์รากไม้บ้านหนองผือ",
+        "phone": "0854269615"
+    },
+    {
+        "id": "1375432586038780",
+        "location": {
+            "city": "สุราษฎร์ธานี",
+            "latitude": 9.0721834497611,
+            "longitude": 99.316594675276,
+            "street": "ติดกับช้างเฟอร์นิเจอร์ อำเภอ เมืองสุราษฎร์ธานี"
+        },
+        "name": "Mercedes-Benz Surat Thani"
+    },
+    {
+        "id": "1380115735649760",
+        "location": {
+            "city": "Ban Bang Mun Nak",
+            "country": "Thailand",
+            "latitude": 16.11123612,
+            "longitude": 100.39515029
+        },
+        "name": "บ้านช่างสนมเฟอร์นิเจอร์"
+    },
+    {
+        "id": "1396913780632203",
+        "location": {
+            "city": "Chumphon",
+            "country": "Thailand",
+            "latitude": 10.5,
+            "longitude": 99.1667,
+            "street": "68"
+        },
+        "name": "ช่างสาน รับเหมา ต่อเติม เฟอร์นิเจอร์ทุกชนิด - จ.ชุมพร",
+        "phone": "0816947163"
+    },
+    {
+        "id": "1414252978839732",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7973967,
+            "longitude": 100.7116776,
+            "street": "ถนน รามคำแหง",
+            "zip": "10240"
+        },
+        "name": "รวมช่างเฟอร์นิเจอร์",
+        "phone": "2-3763704"
+    },
+    {
+        "id": "1426291964255959",
+        "location": {
+            "latitude": 17.27965657,
+            "longitude": 99.84403664,
+            "street": "อ.สวรรคโลก.จ.สุโขทัย"
+        },
+        "name": "บ้านช่างหนุ่มเฟอร์นิเจอร์คุ้งวารีรับทาสีบ้านไม้ปูนทุกชนิด",
+        "phone": "0845940585"
+    },
+    {
+        "id": "1439851449590711",
+        "location": {
+            "city": "Nong Chok",
+            "latitude": 13.867431,
+            "longitude": 100.8736187
+        },
+        "name": "ช่างสมานเฟอร์นิเจอร์"
+    },
+    {
+        "id": "1440443982835034",
+        "location": {
+            "city": "Amphoe Muang Phichit",
+            "country": "Thailand",
+            "latitude": 16.425770923347,
+            "longitude": 100.36066384517
+        },
+        "name": "บ้านช่างเฟอร์นิเจอร์"
+    },
+    {
+        "id": "293009814172455",
+        "location": {
+            "latitude": 16.1172125,
+            "longitude": 103.7645535,
+            "street": "บ้านไชยอุดม"
+        },
+        "name": "บ้านช่างหนึ่งเฟอนิเจอร์ รับเหมางานเฟอร์นิเจอร์ทึกชนิด บ้านไชยอุดม",
+        "phone": "0857424853"
+    },
+    {
+        "id": "211005905697408",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.743178,
+            "longitude": 100.3556481
+        },
+        "name": "ช่างสวย เฟอร์นิเจอร์"
+    },
+    {
+        "id": "211610552343588",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.8144148,
+            "longitude": 99.03965885
+        },
+        "name": "ช่างเคนเฟอร์นิเจอร์1000%"
+    },
+    {
+        "id": "221905948009734",
+        "location": {
+            "latitude": 19.605126666667,
+            "longitude": 100.32935333333
+        },
+        "name": "ภูชางเฟอร์นิเจอ"
+    },
+    {
+        "id": "241767319360241",
+        "location": {
+            "city": "Surat Thani",
+            "country": "Thailand",
+            "latitude": 9.13179,
+            "longitude": 99.33362,
+            "street": "401"
+        },
+        "name": "ช้าง เฟอร์นิเจอร์"
+    },
+    {
+        "id": "260622000787774",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7132502,
+            "longitude": 100.5738907,
+            "street": "ถนน อาจณรงค์",
+            "zip": "10110"
+        },
+        "name": "ช่างหนุ่มเฟอร์นิเจอร์"
+    },
+    {
+        "id": "269608143139271",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7917268195,
+            "longitude": 98.9978444378,
+            "zip": "50300"
+        },
+        "name": "ช้างม่อยเฟอร์นิเจอร์"
+    },
+    {
+        "id": "270680463105942",
+        "location": {
+            "city": "Ratchaburi",
+            "country": "Thailand",
+            "latitude": 13.5448201,
+            "longitude": 99.8196989
+        },
+        "name": "อาร์มี่เฟอร์นิเจอร์ By ช่างวุธ"
+    },
+    {
+        "id": "277390899131319",
+        "location": {
+            "city": "Mukdahan",
+            "country": "Thailand",
+            "latitude": 16.539286869554,
+            "longitude": 104.72894164747,
+            "street": "มุกดาหาร"
+        },
+        "name": "สถานที่ทำมาหากิน - ช่างเล็กเฟอร์นิเจอร์"
+    }
+]

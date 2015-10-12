@@ -1,0 +1,279 @@
+[
+    {
+        "id": "419726964871428",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.8030796,
+            "longitude": 100.8133087,
+            "street": "198/71ม.2แขวง.สายใหม เขต.ออเงิน.",
+            "zip": "10220"
+        },
+        "name": "อู่.ชาญยานยนต์ บริการซ่อมรถยนต์ เครื่องยนต์ ช่วงล่าง /นอกสถานที่",
+        "phone": "0928417997"
+    },
+    {
+        "id": "420912058068298",
+        "location": {
+            "city": "Amphoe Kamphaeng Saen",
+            "country": "Thailand",
+            "latitude": 13.9376604,
+            "longitude": 100.0043677
+        },
+        "name": "ต.การช่าง By Euroรับติดตั้ง ซ่อมแอร์ ไดนาโม เดินสายไฟระบบรถยนต์",
+        "phone": "0867615962"
+    },
+    {
+        "id": "369786716440926",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.954513628049,
+            "longitude": 100.64302468309,
+            "zip": "12130"
+        },
+        "name": "ร้าน Aps Auto Service ร้านซ่อมประตูสไลด์ไฟฟ้า \u0026 ประตูรถยนต์"
+    },
+    {
+        "id": "376988019047940",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.723117253599,
+            "longitude": 100.57677013805,
+            "street": "10-12 ซอย สุขุมวิท 36 ถนน สุขุมวิท แขวง คลองเตย",
+            "zip": "10110"
+        },
+        "name": "สมาคมสหมิตรการซ่อมรถยนต์แห่งประเทศไทย",
+        "phone": "02-2586103"
+    },
+    {
+        "id": "374919535943421",
+        "location": {
+            "city": "Kanchanaburi",
+            "country": "Thailand",
+            "latitude": 14.16597,
+            "longitude": 99.27927,
+            "street": "154",
+            "zip": "71190"
+        },
+        "name": "ซ่อมรถยนต์",
+        "phone": "0845995196"
+    },
+    {
+        "id": "374821775945182",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.9062335881464,
+            "longitude": 98.381277259106,
+            "zip": "83000"
+        },
+        "name": "ฉุ้นสามกอง ซ่อมกลอนประตูรถยนต์",
+        "phone": "0840589277"
+    },
+    {
+        "id": "374461869292007",
+        "location": {
+            "city": "Ban Dan Chang",
+            "country": "Thailand",
+            "latitude": 14.837758247423,
+            "longitude": 99.695076494845
+        },
+        "name": "อู่ซ่อมรถยนต์ ท.วัฒนายนต์"
+    },
+    {
+        "id": "374410652668991",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.766025,
+            "longitude": 100.538845,
+            "street": "PHAHON YOTHIN 72"
+        },
+        "name": "ช่างศิลป์ - รางน้ำรับซ่อมประตู กระจกรถยนต์"
+    },
+    {
+        "id": "373757039459881",
+        "location": {
+            "city": "Min Buri",
+            "country": "Thailand",
+            "latitude": 13.795209256568,
+            "longitude": 100.72126577898
+        },
+        "name": "อุ่อาคเนย์ ศุนย์ซ่อมมาตรฐาน รถยนต์ มีนบุรี"
+    },
+    {
+        "id": "371973379526279",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.801668496759,
+            "longitude": 100.47685550226
+        },
+        "name": "อู่ซ่อมแอร์ รถยนต์"
+    },
+    {
+        "id": "370161099766664",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.90896696133,
+            "longitude": 100.55342235612
+        },
+        "name": "ร้านอมร ซ่อมรถยนต์"
+    },
+    {
+        "id": "378756825660116",
+        "location": {
+            "city": "Ratchaburi",
+            "country": "Thailand",
+            "latitude": 13.5047197,
+            "longitude": 99.7939072,
+            "street": "หนองโพ โพธาราม",
+            "zip": "70120"
+        },
+        "name": "ห้องนอนของสนิค ที่พ่อเปิดอู่ซ่อมรถมีรถยนต์หลายคันจอดอยู่ที่บ้าน",
+        "phone": "0925466980"
+    },
+    {
+        "id": "369564479826098",
+        "location": {
+            "city": "Mae Sot",
+            "country": "Thailand",
+            "latitude": 16.720145931483,
+            "longitude": 98.572930684405
+        },
+        "name": "ช่างเบิ้ม ศูนย์ซ่อมแอร์รถยนต์"
+    },
+    {
+        "id": "369322353247134",
+        "location": {
+            "city": "Wat Pa",
+            "country": "Thailand",
+            "latitude": 16.7721209,
+            "longitude": 101.2297346
+        },
+        "name": "อู่ประยุทธยนต์ รับซ่อมรถยนต์ บ้านน้ำพุง อ.หล่มสัก จ.เพชรบูรณ์"
+    },
+    {
+        "id": "369304376481062",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.708976875,
+            "longitude": 100.46683625
+        },
+        "name": "ศักดิ์ยนต์ ศูนย์บริการซ่อมรถยนต์"
+    },
+    {
+        "id": "363892473766340",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.709723333333,
+            "longitude": 100.14125333333,
+            "zip": "60000"
+        },
+        "name": "อู่ซ่อมคอมแอร์รถยนต์"
+    },
+    {
+        "id": "363554167145236",
+        "location": {
+            "city": "Udon Thani",
+            "country": "Thailand",
+            "latitude": 17.41481,
+            "longitude": 102.78708,
+            "street": "34 ถ.ตำรวจ ต.หมากแข้ง อ.เมือง จ.อุดรธานี 41000"
+        },
+        "name": "ทงฮะ - ปะยาง,ซ่อมยางรถยนต์"
+    },
+    {
+        "id": "400242190050382",
+        "location": {
+            "city": "Mae Sot",
+            "country": "Thailand",
+            "latitude": 16.700241174564,
+            "longitude": 98.535180771815
+        },
+        "name": "ช่างน้อง ติดตั้งแระซ่อมเคร่ืองเสียงรถยนต์"
+    },
+    {
+        "id": "394573600740011",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7903,
+            "longitude": 98.9817,
+            "street": "ดอยสุเก็ด",
+            "zip": "50220"
+        },
+        "name": "ซ่อมสีรถยนต์",
+        "phone": "053291126"
+    },
+    {
+        "id": "363410343835678",
+        "location": {
+            "city": "Bang Len",
+            "country": "Thailand",
+            "latitude": 14.02263,
+            "longitude": 100.16488,
+            "street": "แยกบางพลู"
+        },
+        "name": "น้าหมู ซ่อมกลอนประตูรถยนต์"
+    },
+    {
+        "id": "362691733913039",
+        "location": {
+            "latitude": 15.1920791,
+            "longitude": 100.1038638
+        },
+        "name": "อู่ช่างฟ่ะรับซ่อมรถยนต์ สนใจติดต่อสอบถาม โทร 0881714471"
+    },
+    {
+        "id": "360011804188677",
+        "location": {
+            "city": "Lang Suan",
+            "country": "Thailand",
+            "latitude": 10.04649558,
+            "longitude": 99.01290047
+        },
+        "name": "คาร์แคร์และอู่ซ่อมรถยนต์ริมถนนที่บ้านทับช้าง"
+    },
+    {
+        "id": "359332360822356",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.921533,
+            "longitude": 100.6772945,
+            "zip": "10220"
+        },
+        "name": "ร้านซ่อมรถยนต์"
+    },
+    {
+        "id": "357208741085866",
+        "location": {
+            "city": "Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.688888760297,
+            "longitude": 101.40499723153,
+            "zip": "30130"
+        },
+        "name": "ร้านซ่อมแอร์รถยนต์พี่"
+    },
+    {
+        "about": "บริการซ่อมรถยนต์ ทุกรุ่นทุกยี่ห่อ ติดต่อ0863378987",
+        "id": "356574871199577",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.4667,
+            "longitude": 100.117,
+            "street": "112 หมู่3 ต.ดอนกำยาย",
+            "zip": "72000"
+        },
+        "name": "อู่ซ่อมรถยนต์",
+        "phone": "0863378987"
+    }
+]

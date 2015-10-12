@@ -1,0 +1,267 @@
+[
+    {
+        "id": "329401030581048",
+        "location": {
+            "city": "Ban Du",
+            "country": "Thailand",
+            "latitude": 19.96914,
+            "longitude": 99.85892,
+            "street": "เชียงราย"
+        },
+        "name": "ศูนย์บริการครบวงจร บริการรับซ่อมลูกหมาก ช่วงล่าง รถยนต์ทุกชนิด"
+    },
+    {
+        "id": "329975363705941",
+        "location": {
+            "city": "Ang Sila",
+            "country": "Thailand",
+            "latitude": 13.318591276375,
+            "longitude": 100.92978207389,
+            "zip": "20000"
+        },
+        "name": "อู่ซ่อมรถยนต์สุวรรณ"
+    },
+    {
+        "id": "330396817105850",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.992564,
+            "longitude": 102.0965773,
+            "zip": "30000"
+        },
+        "name": "อู่ Nd ซ่อมรถยนต์"
+    },
+    {
+        "id": "330641680444964",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7105517,
+            "longitude": 100.5240928
+        },
+        "name": "อู่ซ่อมรถยนต์สมนึก"
+    },
+    {
+        "id": "333964523377025",
+        "location": {
+            "city": "Chachoengsao",
+            "country": "Thailand",
+            "latitude": 13.660507683673,
+            "longitude": 101.05711348885
+        },
+        "name": "หจกวีทีบอดี้เซอร์วิส อู่ซ่อมรถยนต์"
+    },
+    {
+        "id": "333991600129669",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "99/5  มี.5  ต.ท่าเสา  อ.กระทุ่มแบน  จ.สมุทรสาคร"
+        },
+        "name": "อู่ซ่อมรถทำสีรถยนต์ ช่างเล็ก"
+    },
+    {
+        "id": "336181786581466",
+        "location": {
+            "city": "Amphoe Muang Phrae",
+            "country": "Thailand",
+            "latitude": 18.142055436667,
+            "longitude": 100.20033099,
+            "street": "279 ม.5 ต.บ้านถิ่น"
+        },
+        "name": "อู่เยี่ยมเพิ่มพูนวัชระเซอร์วิส - ศูนย์ซ่อมสีและตัวถังรถยนต์"
+    },
+    {
+        "id": "338630449621878",
+        "location": {
+            "city": "บ้านบางหอย ม. 3 ต.ศรีจุฬา อ. เมือง จ. นครนายก",
+            "latitude": 14.035850318858,
+            "longitude": 101.19924297327
+        },
+        "name": "อู่ช่างหนึ่ง ซ่อมสี ปะผุตัวถังรถยนต์ทุกชนิด",
+        "phone": "0844634791"
+    },
+    {
+        "id": "342391975880911",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.10293,
+            "longitude": 100.74821,
+            "street": "Khlong Luang",
+            "zip": "12110"
+        },
+        "name": "ร้านซ่อมประตูรถยนต์ คลองหลวง"
+    },
+    {
+        "id": "260593800741702",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.93149,
+            "longitude": 100.39004,
+            "street": "Bang Kruai-sai Noi Road",
+            "zip": "11110"
+        },
+        "name": "อู่ บุญรักษ์ ซ่อมรถยนต์"
+    },
+    {
+        "id": "246502312161864",
+        "location": {
+            "city": "Khlong Tan",
+            "country": "Thailand",
+            "latitude": 17.168179694579,
+            "longitude": 99.865502463747
+        },
+        "name": "ยางทอง ศูนย์ซ่อมครบวงจร เครื่องรถยนต์"
+    },
+    {
+        "id": "246715598845716",
+        "location": {
+            "city": "Tha Khanun",
+            "country": "Thailand",
+            "latitude": 14.736826666667,
+            "longitude": 98.637868333333
+        },
+        "name": "อู่ซ่อมรถยนต์"
+    },
+    {
+        "id": "250039245041071",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.651295506825,
+            "longitude": 100.50751307309,
+            "zip": "10140"
+        },
+        "name": "อู่ซ่อมรถยนต์โตโยต้า. ประชาอุทิศ33 แยก7"
+    },
+    {
+        "id": "250866251721158",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "Khlong Luang"
+        },
+        "name": "ร้านซ่อมประตูรถยนต์ เวนิช เซอร์วิส"
+    },
+    {
+        "id": "252010381622655",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.174486298898,
+            "longitude": 100.61859050322,
+            "zip": "13180"
+        },
+        "name": "ธ.ทองไพฑูรย์ ติดตั้ง ซ่อมบำรุง รถยนต์ Lpg Ngv"
+    },
+    {
+        "id": "256128951182087",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.636884127736,
+            "longitude": 100.61293860222,
+            "zip": "10270"
+        },
+        "name": "แผนก Refinish(สีซ่อมรถยนต์) บ. Thai Kansai Paint Co.,ltd"
+    },
+    {
+        "id": "257619441009657",
+        "location": {
+            "city": "Tha Bun Mi",
+            "country": "Thailand",
+            "latitude": 13.393634823538,
+            "longitude": 101.29971273023
+        },
+        "name": "อู่ซ่อมรถยนต์ช่างเตี้ย"
+    },
+    {
+        "id": "257854444337044",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.873101551534,
+            "longitude": 100.58234886605
+        },
+        "name": "B.A.G Bangkok Auto Glass ศูนย์ซ่อมกระจกรถยนต์และติดตั้งฟิล์มกรองแสง"
+    },
+    {
+        "id": "258789217634632",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.90169355368,
+            "longitude": 100.26803028779
+        },
+        "name": "สนามซ้อมขับรถ โรงเรียนพิษณุโลกสอนขับรถยนต์"
+    },
+    {
+        "description": "รับซ่อมช่วงล่างเบรค ครัทช์ รถยนต์ทุกชนิด",
+        "id": "259871207508295",
+        "location": {
+            "city": "Tha Rua",
+            "country": "Thailand",
+            "latitude": 14.55885,
+            "longitude": 100.74143
+        },
+        "name": "อู่ รถยนต์ ซ่อมช่วงล่าง เบรค"
+    },
+    {
+        "id": "260181807519925",
+        "location": {
+            "city": "Ban Thum",
+            "country": "Thailand",
+            "latitude": 16.4281852,
+            "longitude": 102.7221826
+        },
+        "name": "อู่ซ่อมรถยนต์ไอคิว"
+    },
+    {
+        "id": "260584090772559",
+        "location": {
+            "city": "Amphoe Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.748626730069,
+            "longitude": 101.51387355354
+        },
+        "name": "อู่รสดี บริการซ่อมรถและจัดหารถยนต์",
+        "phone": "0821297095"
+    },
+    {
+        "id": "262375290469424",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.711703851351,
+            "longitude": 100.4280877027
+        },
+        "name": "อู่ซ่อมรถยนต์ ช่างสาน"
+    },
+    {
+        "id": "265274373595170",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 15.035385028473,
+            "longitude": 102.12644222202
+        },
+        "name": "อู่ซ่อมรถยนต์vpsการช่าง( Home Garden Vill สระครก )"
+    },
+    {
+        "id": "345094295584002",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.870605281596,
+            "longitude": 99.001889734851
+        },
+        "name": "รับประกันรถยนต์1-5ปีซ่อมห้าง053334444-6"
+    }
+]

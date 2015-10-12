@@ -1,0 +1,263 @@
+[
+    {
+        "id": "134287103315928",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.829491,
+            "longitude": 100.251223
+        },
+        "name": "ภูมินทร์ แอร์/รับซ่อม+เติมน้ำยาแอร์รถยนต์ แยกบ้านคลอง"
+    },
+    {
+        "id": "134157863354782",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7929437,
+            "longitude": 100.6001649
+        },
+        "name": "ป๋าน้อย ซ่อมล้อรถยนต์"
+    },
+    {
+        "id": "130198943796856",
+        "location": {
+            "city": "Si Racha",
+            "country": "Thailand",
+            "latitude": 13.215051315263,
+            "longitude": 100.94112508694,
+            "zip": "20110"
+        },
+        "name": "อู่ C A ศูนย์ซ่อมรถยนต์ คุณภาพ ประกันภัย"
+    },
+    {
+        "id": "179855072209172",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.60204051,
+            "longitude": 100.70735198
+        },
+        "name": "ร้านนิปปอน แอร์ ซ่อมแอร์รถยนต์"
+    },
+    {
+        "id": "193309667496831",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.898916514603,
+            "longitude": 100.60740122581,
+            "zip": "10210"
+        },
+        "name": "เเผนก ซ่อมตัวถังรถยนต์ กรม ขส.ทอ."
+    },
+    {
+        "id": "188157904657014",
+        "location": {
+            "city": "Amphoe Tha Sala",
+            "country": "Thailand",
+            "latitude": 8.6040945012624,
+            "longitude": 99.952987899095
+        },
+        "name": "อู่ซ่อมรถยนต์ บังกีม จงรักษ์ หน้าทับ"
+    },
+    {
+        "id": "187004971396199",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.700661467541,
+            "longitude": 100.54658372247
+        },
+        "name": "อู่ซ่อมรถยนต์ชัย ในหมู่บ้านรวยรุ่งเรือง"
+    },
+    {
+        "id": "186488904854308",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.966084005176,
+            "longitude": 100.64633881151
+        },
+        "name": "อู่ซ่อมรถยนต์ช่างทอง : วัดลาดสนุ่น"
+    },
+    {
+        "id": "182652928557899",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.929627598276,
+            "longitude": 100.37839321429
+        },
+        "name": "อู่สีซ่อมรถยนต์ เอสเอสการาจ"
+    },
+    {
+        "id": "182553468475187",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.68727,
+            "longitude": 100.60568916667
+        },
+        "name": "ร้านซ่อมกระจกรถยนต์ ซ่อมได้"
+    },
+    {
+        "id": "182326125216143",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.709203,
+            "longitude": 100.394131
+        },
+        "name": "ร้านตี๋ซ่อมแอร์รถยนต์"
+    },
+    {
+        "id": "556986877768588",
+        "location": {
+            "city": "Udon Thani",
+            "country": "Thailand",
+            "latitude": 17.4260352,
+            "longitude": 102.8107712
+        },
+        "name": "ร้านซ่อมแอร์รถยนต์หน้าบิ๊กซี"
+    },
+    {
+        "about": "ล้างสีดูดฝุ่น  ล้างห้องเครื่อง เคลือบสีรถ ซ่อมเครื่องยนต์ช่วงล่าง",
+        "id": "554500594652404",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7522,
+            "longitude": 100.494,
+            "street": "รามคำแหง21แยก2แขวงพลับพลา เขตวังทองหลาง"
+        },
+        "name": "ล้างสี ดูดฝุ่น ซ่อมรถยนต์ช่วงล่าง",
+        "phone": "0885007899"
+    },
+    {
+        "id": "554441458027426",
+        "location": {
+            "city": "อ.ปราสาท จ.สุรินทร์ 32140",
+            "latitude": 14.511501312256,
+            "longitude": 103.28479003906,
+            "street": "บ้านเจริญสุข"
+        },
+        "name": "ร้านจินตนาขายของชำ'และอู่ซ่อมรถยนต์เจริญสุข"
+    },
+    {
+        "id": "544850992300346",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.811359944,
+            "longitude": 100.229158662
+        },
+        "name": "ศูนย์ซ่อมรถยนต์ อู่กลาง บริษัทวีไอพีปรีดาซุปเปอร์คาร์จำกัด อู่กลาง"
+    },
+    {
+        "id": "541208635985962",
+        "location": {
+            "city": "Nakhon Si Thammarat",
+            "country": "Thailand",
+            "latitude": 8.415046,
+            "longitude": 99.975054
+        },
+        "name": "หนุ่มซอ่มประตูรถยนต์"
+    },
+    {
+        "id": "536409603108651",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.82314,
+            "longitude": 100.05728,
+            "street": "169/6 ม.11 ต.ห้วยขวาง อ.กำแพงแสน จ.นครปฐม73140"
+        },
+        "name": "อู่ ต การช่าง..Euroกระถินแดง ติดติดตั้งซ่อมแอร์ไดนาโมเดินสายไฟรถยนต์",
+        "phone": "0867615962"
+    },
+    {
+        "id": "535572199880744",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.3575744,
+            "longitude": 100.9831846,
+            "zip": "20000"
+        },
+        "name": "อู่ซ่อมรถยนต์เสรี"
+    },
+    {
+        "id": "604987919582319",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.928233137425,
+            "longitude": 100.3812408222
+        },
+        "name": "ทองการช่าง ร้านซ่อมหม้อน้ำรถยนต์บ้านกล้วย-ไทรน้อย"
+    },
+    {
+        "id": "634821713314222",
+        "location": {
+            "city": "Kanchanaburi",
+            "country": "Thailand",
+            "latitude": 14.031203097805,
+            "longitude": 99.558936953545
+        },
+        "name": "อู่ซ่อมรถยนต์คุณนกเค้าแมว"
+    },
+    {
+        "id": "632157446890767",
+        "location": {
+            "city": "Amphoe Kabin Buri",
+            "country": "Thailand",
+            "latitude": 14.02528672,
+            "longitude": 101.78694481333
+        },
+        "name": "โต้งกลกาลซ่อมรถยนต์ละเอียดมาก",
+        "phone": "0819817384"
+    },
+    {
+        "id": "626763570764987",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.76742018025,
+            "longitude": 100.47073398404
+        },
+        "name": "ร้านซ่อมรถยนต์ร้านนึงในประเทศไทย"
+    },
+    {
+        "id": "624847767594749",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.2284498,
+            "longitude": 104.848820865
+        },
+        "name": "พนมมอเตอร์ ซ่อมแอร์และระบบไฟฟ้าในรถยนต์"
+    },
+    {
+        "id": "620573388004269",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "บ้านป่าไผ่ใต้ ต.แช่ช้าง อ.สันกำแพง จ.เชียงใหม่"
+        },
+        "name": "อู่ช่างบุญซ่อมรถยนต์ ช่วงล่าง เบรก ครัซ บ้านป่าไผ่ใต้ อ.สันกำแพง"
+    },
+    {
+        "id": "608925792505733",
+        "location": {
+            "city": "Sena",
+            "country": "Thailand",
+            "latitude": 14.32747,
+            "longitude": 100.40447,
+            "street": "พระนครศรีอยุธยา"
+        },
+        "name": "อู่ 007 เซอร์วิส สาขาลาดบัวหลวง - Mobil1 ซ่อมรถยนต์ทุกชนิด"
+    }
+]

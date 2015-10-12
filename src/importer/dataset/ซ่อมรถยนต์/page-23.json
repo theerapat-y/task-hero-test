@@ -1,0 +1,142 @@
+[
+    {
+        "id": "608226519232471",
+        "location": {
+            "city": "Ban Dan Chang",
+            "country": "Thailand",
+            "latitude": 14.8384108,
+            "longitude": 99.6876417
+        },
+        "name": "ร้านขวัญเมืองแอร์ ซ่อม ติดตั้งแอร์รถยนต์ ไดนาโม ตู้เย็น เครื่องซักผ้า",
+        "phone": "0870497164"
+    },
+    {
+        "id": "163097097230112",
+        "location": {
+            "latitude": 13.677447823129,
+            "longitude": 101.14985892517
+        },
+        "name": "ศูนย์ซ่อมรถยนต์ อรรถพล เซอร์วิส"
+    },
+    {
+        "id": "162966253861548",
+        "location": {
+            "city": "Si Racha",
+            "country": "Thailand",
+            "latitude": 13.215247178786,
+            "longitude": 100.94109066842,
+            "zip": "20110"
+        },
+        "name": "หจก.ซี เอ ศูยน์ซ่อมรถยนต์"
+    },
+    {
+        "id": "164109566977627",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.766901526305,
+            "longitude": 100.5056935587,
+            "zip": "10200"
+        },
+        "name": "ห้างหุ้นส่วนจำกัด จันกะราจ ซ่อมรถยนต์"
+    },
+    {
+        "id": "202238239845458",
+        "location": {
+            "city": "Huai Sai",
+            "country": "Thailand",
+            "latitude": 14.427264,
+            "longitude": 100.897157,
+            "zip": "18230"
+        },
+        "name": "อู่ซ่อมรถยนต์"
+    },
+    {
+        "id": "202052549929284",
+        "location": {
+            "city": "Song Phi Nong",
+            "country": "Thailand",
+            "latitude": 14.221091857724,
+            "longitude": 100.02286806426,
+            "zip": "72110"
+        },
+        "name": "ร้านซ่อมแอร์รถยนต์ @ตลาดบางลี่"
+    },
+    {
+        "id": "194778137275695",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.035288686869,
+            "longitude": 100.7302526431,
+            "zip": "12110"
+        },
+        "name": "จุดบริการซ่อมรถยนต์ -จักรยานยนต์ คณะครุศาสตร์อุตสาหกรรม"
+    },
+    {
+        "id": "181304785373913",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.754575600251,
+            "longitude": 100.76192079824,
+            "street": "Thanon Chao Khun Thahan"
+        },
+        "name": "ร้านโจวสว่าง ซ่อมลูกหมาก โซ๊ค รถยนต์ทุกชนิด"
+    },
+    {
+        "id": "178321112360264",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.779924288775,
+            "longitude": 99.024363987099
+        },
+        "name": "ร้านซ่อมรถยนต์ ช่างชัย"
+    },
+    {
+        "id": "173489346159064",
+        "location": {
+            "city": "Muang Roi Et",
+            "country": "Thailand",
+            "latitude": 16.06436987428,
+            "longitude": 103.6177336668,
+            "street": "Chaeng Sanit Road"
+        },
+        "name": "อู่ซ่อมสีรถยนต์ ก้องศาตน์"
+    },
+    {
+        "id": "171689126220198",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.88937297619,
+            "longitude": 100.57295619048,
+            "zip": "10210"
+        },
+        "name": "Hondapower อู่ซ่อมรถยนต์HONDA"
+    },
+    {
+        "id": "165626333621286",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.768766302117,
+            "longitude": 100.63662067234,
+            "street": "Lat Phrao 136"
+        },
+        "name": "เติมน้ำยาแอร์รถยนต์และล้างหรือซ่อม 088_8488_583 Pontyplus Car Spa"
+    },
+    {
+        "id": "691233194323946",
+        "location": {
+            "city": "Nong Khaem",
+            "country": "Thailand",
+            "latitude": 13.67161804418,
+            "longitude": 100.34729197423,
+            "street": "Bangbon 5"
+        },
+        "name": "ร้านบิ๊กออโต้เซอร์วิสซ่อมรถยนต์ติดตั้งแก๊ส Lpg",
+        "phone": "0818158228"
+    }
+]

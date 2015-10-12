@@ -1,0 +1,286 @@
+[
+    {
+        "id": "724090907663294",
+        "location": {
+            "city": "Lampang",
+            "country": "Thailand",
+            "latitude": 18.3098798,
+            "longitude": 99.5145189
+        },
+        "name": "ร้านptkcomputerit - ขายอุปกรณ์คอม รับซ่อมคอมพิวเตอร์ทุกชนิด"
+    },
+    {
+        "id": "729087617125735",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "19/9  ซ.อินทราวาส 7  ตลิ่งชัน"
+        },
+        "name": "ซ่อมคอมพิวเตอร์  ออกแบบwebsite",
+        "phone": "0846697038"
+    },
+    {
+        "about": "ให้บริการซ่อมคอมพิวเตอร์และสแกนไวรัสคอมพิวเตอร์",
+        "id": "729738240486567",
+        "location": {
+            "city": "Maha Sarakham",
+            "country": "Thailand",
+            "latitude": 16.1833,
+            "longitude": 103.3,
+            "street": "โรงเรียนท่าขอนยางพิทยาคม",
+            "zip": "44000"
+        },
+        "name": "ซ่อมคอมพิวเตอร์นะจ๊ะ",
+        "phone": "0930573080"
+    },
+    {
+        "id": "739790566039087",
+        "location": {
+            "city": "Udon Thani",
+            "country": "Thailand",
+            "latitude": 17.417749339033,
+            "longitude": 102.78825033006,
+            "street": "11/7 ถ.โพนพิสัย ต.หมากแข้ง อ.เมือง จ.อุดรธานี(หลังไปรษณีเทคนิค ใกล้สเต๊กเฮ้า )",
+            "zip": "41000"
+        },
+        "name": "ศูนย์ซ่อมคอมพิวเตอร์โน๊ตบุ๊ค - Sir.it Notebook",
+        "phone": "0862329773"
+    },
+    {
+        "id": "740691512694857",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.813524741436,
+            "longitude": 100.04843473434
+        },
+        "name": "X \u0026 Y Computer ซ่อม ประกอบ ลงโปรแกรม อัพเกรด คอมพิวเตอร์"
+    },
+    {
+        "id": "757124647679570",
+        "location": {
+            "city": "Fang",
+            "country": "Thailand",
+            "latitude": 19.922743416611,
+            "longitude": 99.207500856831
+        },
+        "name": "ร้านซ่อม-จำหน่าย โทรศัพท์มือถือ คอมพิวเตอร์"
+    },
+    {
+        "id": "504973636227453",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.8841205849309,
+            "longitude": 98.400711462327,
+            "street": "Surin Soi 3",
+            "zip": "83000"
+        },
+        "name": "สุรินทร์ซัฟพอร์ต - ซ่อมและจำหน่ายคอมพิวเตอร์"
+    },
+    {
+        "about": "ยินดีต้องรับสู่ร้าน Fiesta.it\nเรารับซ่อมคอมพิวเตอร์ โน๊ตบุ๊ค อื่นๆที่เกี่ยวกับคอม",
+        "id": "530380503775299",
+        "location": {
+            "city": "Nonthaburi",
+            "country": "Thailand",
+            "street": "17/134 หมู้บ้าน พฤกษา10 ซอย14 ต.ไทรน้อย อ.ไทรน้อย",
+            "zip": "11150"
+        },
+        "name": "Fiesta.it รับซ่อมคอมพิวเตอร์ โน๊ตบุ๊ค เปลี่ยนอะไหล่",
+        "phone": "086-346-5537"
+    },
+    {
+        "id": "523572527699805",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.343558956543,
+            "longitude": 100.58699224918
+        },
+        "name": "Procom ศูนย์ซอมคอมพิวเตอร์"
+    },
+    {
+        "id": "521870364574308",
+        "location": {
+            "city": "Pattaya",
+            "country": "Thailand",
+            "latitude": 12.9447423,
+            "longitude": 100.9384456,
+            "zip": "20150"
+        },
+        "name": "Bmcomputer ซ่อมคอมจำหน่ายคอมพิวเตอร์มือ1มือ2อุปกรณ์คอมพิวเตอร์"
+    },
+    {
+        "id": "509800449105093",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.196998724728,
+            "longitude": 104.85737138438,
+            "zip": "40130"
+        },
+        "name": "N.p. Support ซ่อม ขาย อัพเกรด คอมพิวเตอร์ อุปกรณ์ต่อพ่วง ระบบnetwork"
+    },
+    {
+        "id": "501390793266792",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.230043237021,
+            "longitude": 104.84774782791,
+            "street": "รับซ่อมคอมพิวเตอร์ ตึก 4 ห้อง 6",
+            "zip": "34000"
+        },
+        "name": "Home Office ช่างคอมเรซซิ่ง",
+        "phone": "0804766093"
+    },
+    {
+        "id": "539541169439059",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.68957,
+            "longitude": 101.29684,
+            "street": "ซ่อมคอมพิวเตอร์ โน๊ตบุ๊ค พีชี กล้องวงจรปิด",
+            "zip": "21000"
+        },
+        "name": "คนรักษ์คอม",
+        "phone": "0811773069"
+    },
+    {
+        "id": "498549573531481",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.6857249,
+            "longitude": 98.9178701,
+            "street": "เยื้องกับหมู่บ้านทิพพิรมย์",
+            "zip": "50230"
+        },
+        "name": "ร้านซ่อมคอมพิวเตอร์ Todaycom ใกล้กับบ้านทิพพิรมย์",
+        "phone": "0856237437"
+    },
+    {
+        "id": "492610667435332",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.814371375872,
+            "longitude": 100.52306905124
+        },
+        "name": "ศูนย์ซ่อมคอมพิวเตอร์ และอุปกรณ์ไอที ชั้น2 อาคาร3"
+    },
+    {
+        "id": "491842064222499",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.729269428418,
+            "longitude": 100.21969192238,
+            "zip": "73110"
+        },
+        "name": "ศูนย์ซ่อมคอมพิวเตอร์ 408"
+    },
+    {
+        "id": "483893491684318",
+        "location": {
+            "latitude": 6.88861,
+            "longitude": 101.274
+        },
+        "name": "บริการซ่อมคอมพิวเตอร์",
+        "phone": "0807128720"
+    },
+    {
+        "id": "483502468465190",
+        "location": {
+            "city": "Amphoe Muang Nakorn Thai",
+            "country": "Thailand",
+            "latitude": 17.268707986667,
+            "longitude": 100.60937041333
+        },
+        "name": "ร้านไอทีไลค์ \"I T Like\" ซ่อมคอมพิวเตอร์"
+    },
+    {
+        "id": "802854733122943",
+        "location": {
+            "city": "Phon",
+            "country": "Thailand",
+            "latitude": 15.81596,
+            "longitude": 102.59867,
+            "street": ".เมืองพล-แวงน้อย ทางขึ้น ม.พ.ค."
+        },
+        "name": "โจ คอมพิวเตอร์ ซ่อม-จำหน่ายคอมพิวเตอร์ เมืองพล"
+    },
+    {
+        "id": "855758221178424",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.68354358094,
+            "longitude": 100.12984151059,
+            "street": "ซอยทนายวอ  รับซ่อม,ลงโปรแกรม Pc,โน๊ตบุค,แท๊ปเล็ต ขายแะละอัพเกรด"
+        },
+        "name": "ร้านใบเตย\u0026ลิเดียร์คอมพิวเตอร์"
+    },
+    {
+        "about": "ให้บริการซ่อมคอมพิวเตอร์เเละแสกนไวรัสคอมพิวเตอร์",
+        "id": "839922886121749",
+        "location": {
+            "city": "Maha Sarakham",
+            "country": "Thailand",
+            "latitude": 16.1833,
+            "longitude": 103.3,
+            "street": "โรงเรียนท่าขอนยางพิทยาคม",
+            "zip": "44000"
+        },
+        "name": "ซ่อมคอมพิวเตอร์",
+        "phone": "0986727302"
+    },
+    {
+        "id": "831869540205645",
+        "location": {
+            "city": "Sawang Daen Din",
+            "country": "Thailand",
+            "latitude": 17.474411,
+            "longitude": 103.460271
+        },
+        "name": "ศูนย์ซ่อมคอมพิวเตอร์สว่าง"
+    },
+    {
+        "id": "821060214641880",
+        "location": {
+            "city": "Samrong",
+            "country": "Thailand",
+            "latitude": 13.637741378,
+            "longitude": 100.610167652
+        },
+        "name": "ร้าน Ws It ซื้อ-ขาย ซ่อมคอมพิวเตอร์ มือถือ iphone ipad ทุกอาการ"
+    },
+    {
+        "about": "จำหน่ายอุปกรณ์เครื่องเขียน และสำนักงาน ",
+        "id": "809443372415360",
+        "location": {
+            "city": "Roi-ed",
+            "country": "Thailand",
+            "latitude": 15.656905972349,
+            "longitude": 103.58183978784,
+            "street": "รับซ่อมคอมพิวเตอร์ รับฝากเว็ปไซต์",
+            "zip": "Kaset Wisai Roi-Et"
+        },
+        "name": "นานาวิทยา เครื่องเขียน อุปกรณ์สำนักงาน กิ๊ฟช็อป",
+        "phone": "0817395115"
+    },
+    {
+        "id": "786028898098313",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7712564,
+            "longitude": 99.006449
+        },
+        "name": "ร้านถ่ายเอกสารซ่อมคอมพิวเตอร์ บ้านเด่น หนองหอย"
+    }
+]

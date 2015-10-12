@@ -1,0 +1,258 @@
+[
+    {
+        "id": "666361980070806",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795240873217,
+            "longitude": 98.990414227456,
+            "zip": "50200"
+        },
+        "name": "ข้าวตุ้มพุ้ย ประตูช้างเผือก"
+    },
+    {
+        "id": "654268807930867",
+        "location": {
+            "latitude": 18.6364488,
+            "longitude": 99.0029951
+        },
+        "name": "ครัววิไล ล่ามช้าง ประตูป่า ลำพูน"
+    },
+    {
+        "id": "176269859127123",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795815142648,
+            "longitude": 98.9852769709
+        },
+        "name": "ตลาดประตูช้างเผือก@เชียงใหม่"
+    },
+    {
+        "id": "232635460096087",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.798814244952,
+            "longitude": 98.986504496293,
+            "zip": "50200"
+        },
+        "name": "ธนาคารกรุงศรีอยุธยา สาขาประตูช้างเผือก"
+    },
+    {
+        "id": "433067100052120",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.790997243504,
+            "longitude": 98.987858193087,
+            "zip": "50200"
+        },
+        "name": "ประตูช้างเผือก Chiang Mai"
+    },
+    {
+        "id": "1408850009349195",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795091387045,
+            "longitude": 98.990040369487
+        },
+        "name": "โจ๊กสมเพชร ประตูช้างเผือก"
+    },
+    {
+        "id": "201648983351868",
+        "location": {
+            "city": "Krabi",
+            "country": "Thailand",
+            "latitude": 8.0626705521793,
+            "longitude": 98.917813897225
+        },
+        "name": "ประติมากรรมช้าง"
+    },
+    {
+        "id": "308747655986051",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.907615439935,
+            "longitude": 102.01188604942
+        },
+        "name": "ร้านช่างชัช จ.เจริญยนต์ หลังมอประตู4"
+    },
+    {
+        "id": "192610477447258",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.959443648438,
+            "longitude": 100.62318898429,
+            "zip": "12130"
+        },
+        "name": "ช่างศิลป์ (กลอนประตูรถยนต์)"
+    },
+    {
+        "id": "419930448079984",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7958432408,
+            "longitude": 98.9858410881,
+            "zip": "50200"
+        },
+        "name": "ประตูช้างเผืิอก ณ เชียงใหม่"
+    },
+    {
+        "id": "414928525223771",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.767592513,
+            "longitude": 98.9771682223
+        },
+        "name": "ตลาดประตูช้างเผือก"
+    },
+    {
+        "id": "991094594275444",
+        "location": {
+            "city": "ท่าศาลา",
+            "latitude": 8.6634478,
+            "longitude": 99.9047482
+        },
+        "name": "ร้านเสริมสวยฉันเอง  ประตูช้างตก ม. 3"
+    },
+    {
+        "id": "1405035583079310",
+        "location": {
+            "city": "Muang Lopburi",
+            "country": "Thailand",
+            "latitude": 14.792496591909,
+            "longitude": 100.61300567722
+        },
+        "name": "อู่ช่างนพ ประตูชัย"
+    },
+    {
+        "id": "1051781328167054",
+        "location": {
+            "city": "Ban Tha Kwang",
+            "country": "Thailand",
+            "latitude": 18.65,
+            "longitude": 99
+        },
+        "name": "หมอจารึก ประตูช้างเผือก"
+    },
+    {
+        "id": "1021326927878027",
+        "location": {
+            "city": "Muang Lopburi",
+            "country": "Thailand",
+            "latitude": 14.7990877,
+            "longitude": 100.61897355
+        },
+        "name": "วิทยาลัยเปิดชื่อดังย่านเมืองลิงข้างซอยช่างกลสุดประตูผี"
+    },
+    {
+        "about": "รับทำเหล็กดัด มุ้งลวด ประตูเหล็กม้วน ประตูเหล็กเลื่อน",
+        "id": "995134127187614",
+        "location": {
+            "city": "Amphoe Nong Khae",
+            "country": "Thailand",
+            "latitude": 14.3333,
+            "longitude": 100.867,
+            "street": "17/3 หมู่6 ต. หนองปลาหมอ  อ. หนองแค  จ. สระบุรี",
+            "zip": "18230"
+        },
+        "name": "จ๋าการช่าง รับทำเห็กดัด มุ้งลวด ประตูม้วน",
+        "phone": "0867528930"
+    },
+    {
+        "id": "991788730838684",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79584535,
+            "longitude": 98.98580182
+        },
+        "name": "ต้มจืดเต้าหู้ ประตูช้างเผือก"
+    },
+    {
+        "id": "1421911744736852",
+        "location": {
+            "latitude": 8.6660947799683,
+            "longitude": 99.904792785645
+        },
+        "name": "บ้านต้นตินประตูช้าง"
+    },
+    {
+        "id": "984499511567538",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.1632263,
+            "longitude": 100.6171793
+        },
+        "name": "ช่างชาญ ประตูน้ำพระอินทร์"
+    },
+    {
+        "id": "975016785871339",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795862435381,
+            "longitude": 98.985812002885
+        },
+        "name": "สุกี้-ยากี้ ประตูช้าง จ.เชียงใหม่"
+    },
+    {
+        "id": "974688915875774",
+        "location": {
+            "city": "Tha Sala",
+            "country": "Thailand",
+            "latitude": 8.6500592,
+            "longitude": 99.9392245,
+            "street": "401"
+        },
+        "name": "บ้านประตูช้างออก"
+    },
+    {
+        "id": "950663461645735",
+        "location": {
+            "city": "Aranyaprathet",
+            "country": "Thailand",
+            "latitude": 13.68159285,
+            "longitude": 102.49702263
+        },
+        "name": "ช่างยา ประตูเหล็ก ฟากห้วย"
+    },
+    {
+        "id": "1438821049732565",
+        "location": {
+            "city": "Talat",
+            "country": "Thailand",
+            "latitude": 15.0333759,
+            "longitude": 102.1631518
+        },
+        "name": "บ้านช่างต่าย ประตู2"
+    },
+    {
+        "id": "1438204219760035",
+        "location": {
+            "city": "Kamphaeng Phet",
+            "country": "Thailand",
+            "latitude": 16.48514,
+            "longitude": 99.52468,
+            "street": "ถนน ปิ่นดำริห์"
+        },
+        "name": "ป้อท-ประตูวัดช้าง"
+    },
+    {
+        "id": "1435794920034008",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.796388626099,
+            "longitude": 98.986389160156
+        },
+        "name": "ผัดไทยโคราช ประตูช้างเผือก"
+    }
+]

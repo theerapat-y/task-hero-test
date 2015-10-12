@@ -1,0 +1,263 @@
+[
+    {
+        "id": "348666285263549",
+        "location": {
+            "city": "Nakorn Si Thamarat",
+            "country": "Thailand",
+            "latitude": 8.42106,
+            "longitude": 99.96756,
+            "street": "151/119 ถนนพะเนียด ติดกับโกดังรับซื้อของเก่า"
+        },
+        "name": "อู่โกหล้อย ดัด-เชื่อม ล้อแม็กซ์รถยนต์ ซ่อมเครื่องยนต์",
+        "phone": "0817882536"
+    },
+    {
+        "id": "407207646151185",
+        "location": {
+            "city": "Amphoe Sikhiu",
+            "country": "Thailand",
+            "latitude": 14.857191251356,
+            "longitude": 101.67244735448
+        },
+        "name": "อู่ซ่อมรถยนต์ แต่งรถเก่า Mojabok"
+    },
+    {
+        "id": "472201899531303",
+        "location": {
+            "city": "Khao Tha Phra",
+            "latitude": 15.200724,
+            "longitude": 100.152769,
+            "street": "Phahon Yothin Road"
+        },
+        "name": "ร้าน ภูปกรณ์ ออโต้แอร์ รับซ่อมแอร์รถยนต์ ทุกชนิด"
+    },
+    {
+        "id": "488485374585452",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.921922366148,
+            "longitude": 100.64710294837
+        },
+        "name": "ช่างเอ๋ สายไหม23 ซ่อมกลอนประตูรถยนต์",
+        "phone": "029963535"
+    },
+    {
+        "id": "486179874753739",
+        "location": {
+            "city": "Phetchaburi",
+            "country": "Thailand",
+            "latitude": 13.1036718,
+            "longitude": 99.9392592
+        },
+        "name": "อู่ซ่อมกลอนประตูรถยนต์"
+    },
+    {
+        "id": "476039365750422",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.775276,
+            "longitude": 100.558301
+        },
+        "name": "ร้านซ่อมรถยนต์ ฒ"
+    },
+    {
+        "id": "474541815930972",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.837545837927,
+            "longitude": 100.70841794653,
+            "street": "Phraya Suren 30 Yaek 6"
+        },
+        "name": "แมนเซอร์วิส รับซ่อมรถยนต์ - 0837170406"
+    },
+    {
+        "id": "474472969384097",
+        "location": {
+            "city": "Amphoe Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.6577894,
+            "longitude": 101.5950803
+        },
+        "name": "ช่างปุ้ยเซอร์วิสบริการซ่อมรถยนต์และไก่ชน"
+    },
+    {
+        "id": "474091682766201",
+        "location": {
+            "city": "Surat",
+            "country": "Thailand",
+            "latitude": 9.1,
+            "longitude": 99.2333
+        },
+        "name": "ศูนย์ซ่อมรถยนต์ Car4you Body"
+    },
+    {
+        "id": "472400222833414",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.942659194594,
+            "longitude": 100.53972708071
+        },
+        "name": "อู่ซ่อมรถยนต์. Honda. G Tech"
+    },
+    {
+        "id": "472269172845246",
+        "location": {
+            "city": "Muang Roi Et",
+            "country": "Thailand",
+            "latitude": 16.077462834462,
+            "longitude": 103.6528020459
+        },
+        "name": "อู่ต้าร์ เซอร์วิส ศูนย์บริการ ซ่อมรถยนต์",
+        "phone": "081-7392010"
+    },
+    {
+        "id": "489402534540376",
+        "location": {
+            "city": "นครปฐม ",
+            "latitude": 13.72013345,
+            "longitude": 100.1826956,
+            "street": "สามพราน"
+        },
+        "name": "ร้านคุนศักดิ์รพี แอร์ซิ่ง บริการ ติดตั้ง ซ่อม เติมน้ำยา แอร์บ้าน แอร์รถยนต์"
+    },
+    {
+        "id": "469235993106893",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.722157976603,
+            "longitude": 100.71655020127
+        },
+        "name": "ศักดิ์ประตูรถยนต์ กระจกไฟฟ้า ติดตั้ง, ซ่อม"
+    },
+    {
+        "id": "468486493200478",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "Lum Luk Ka"
+        },
+        "name": "ร้านซ่อมรถยนต์ท่อไอเสียช่างรุ่ง"
+    },
+    {
+        "id": "466308730127172",
+        "location": {
+            "latitude": 6.7577854234572,
+            "longitude": 100.40031367679
+        },
+        "name": "บรรดาเซอร์วิสซ่อมรถยนต์"
+    },
+    {
+        "id": "461686840572626",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.770004789357,
+            "longitude": 101.17541774185
+        },
+        "name": "ช่างป๋อง Jeep Restoration Spacialist ซ่อมจีปและรถยนต์ทุกชนิด"
+    },
+    {
+        "description": "อู่ซ่อมรถยนต์",
+        "id": "460026484103517",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.813436692593,
+            "longitude": 100.59615229266,
+            "street": "โชคชัย 4 ซอย 45",
+            "zip": "10230"
+        },
+        "name": "อู่ซ่อมรถยนต์ ทรงบ้านเก่า"
+    },
+    {
+        "id": "457057074450406",
+        "location": {
+            "city": "ยุรีรัมย์",
+            "latitude": 15.032607769712,
+            "longitude": 103.10042381287
+        },
+        "name": "ร้านสมเกียรติคาร์ออดิโอ - ร้านซ่อมเครื่องเสียงรถยนต์"
+    },
+    {
+        "id": "498346160192961",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 15.035277895,
+            "longitude": 102.1262944925
+        },
+        "name": "VPS.(อู่ซ่อมรถยนต์) Home Gardenvill"
+    },
+    {
+        "id": "519231241539003",
+        "location": {
+            "city": "Sisakate",
+            "country": "Thailand",
+            "latitude": 15.1128519,
+            "longitude": 104.346545
+        },
+        "name": "ศูนย์ซ่อมรถยนต์เดชาพลเชอร์วิส"
+    },
+    {
+        "id": "510027599166381",
+        "location": {
+            "city": "Ban Kru",
+            "country": "Thailand",
+            "latitude": 13.633181,
+            "longitude": 100.5297787
+        },
+        "name": "มด สปีด อู่ซ่อมรถยนต์ Honda"
+    },
+    {
+        "id": "505537202852991",
+        "location": {
+            "city": "Ban Bang Bo",
+            "country": "Thailand",
+            "latitude": 13.5422086,
+            "longitude": 100.7884957,
+            "street": "รับซ่อม วางเครื่อง วางคานแข็ง รถยนต์"
+        },
+        "name": "อู่พี่สามาตร"
+    },
+    {
+        "id": "499122583576882",
+        "location": {
+            "city": "Pattaya",
+            "country": "Thailand",
+            "latitude": 12.923378,
+            "longitude": 100.8981767
+        },
+        "name": "ร้านเพชรเฮดเดอร์ ท่อไอเสีย ซ่อมหม้อน้ำรถยนต์"
+    },
+    {
+        "id": "456639907794443",
+        "location": {
+            "city": "Buriram",
+            "country": "Thailand",
+            "latitude": 15,
+            "longitude": 103.117,
+            "street": "25/1 ม.1 ต.พรสำราญ อ.คูเมือง จ.บุรีรัมย์ 31190",
+            "zip": "31190"
+        },
+        "name": "รับซ่อมรถมอไซต์,รถยนต์และเครื่องยนต์ทางการเกษตร ในบุรีรัมย์ ราคาเป็นกันเอง",
+        "phone": "0881009107"
+    },
+    {
+        "id": "498312990244499",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.322858796401,
+            "longitude": 100.97438788048,
+            "street": "อู่ซ่อมรถยนต์ ต.ห้วยกะปิ อ.เมือง จ.ชลบุรี"
+        },
+        "name": "อู่พีรพล"
+    }
+]

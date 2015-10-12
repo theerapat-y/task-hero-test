@@ -1,0 +1,262 @@
+[
+    {
+        "id": "304026296468772",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795728564375,
+            "longitude": 98.986008930692
+        },
+        "name": "ไก่ทอดหาดใหญ่ - เฮียอั้น ประตูช้างเผือก"
+    },
+    {
+        "id": "306353346119655",
+        "location": {
+            "city": "Surat Thani",
+            "country": "Thailand",
+            "latitude": 9.3846171428571,
+            "longitude": 99.187734285714,
+            "zip": "84110"
+        },
+        "name": "ร้านช่างเล็ก ประตูเหล็ก"
+    },
+    {
+        "id": "306968042787346",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.926756206014,
+            "longitude": 100.62715615497
+        },
+        "name": "ร้านส้มตำเมืองช้าง ตลาดประตูกรุงเทพ สายไหม"
+    },
+    {
+        "id": "307581879295711",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.99157931657,
+            "longitude": 102.12047221149,
+            "zip": "30000"
+        },
+        "name": "ช่าง เตี้ยประตูน้ำ Motocross"
+    },
+    {
+        "id": "311127155618793",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.797517799837,
+            "longitude": 98.986079663523,
+            "zip": "50200"
+        },
+        "name": "ธนาคารออมสินประตูช้างเผือก"
+    },
+    {
+        "id": "311743705650881",
+        "location": {
+            "latitude": 8.6676513,
+            "longitude": 99.8984779
+        },
+        "name": "บ้านคุณยายประตูช้างอำเภอท่าศาลา"
+    },
+    {
+        "id": "314614842068440",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79555,
+            "longitude": 98.98619
+        },
+        "name": "ร้านส้มตำปูม้าสนามหญ้าเทียม   ประตูช้างเผือก"
+    },
+    {
+        "id": "316729211736994",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79337,
+            "longitude": 98.98134,
+            "zip": "50200"
+        },
+        "name": "แนน นัท เฮาส์   (ประตูช้างเผือก)"
+    },
+    {
+        "id": "318211138197277",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7437698,
+            "longitude": 98.9270457,
+            "zip": "50100"
+        },
+        "name": "สุกี้แห้ง ประตูช้างเผือก"
+    },
+    {
+        "id": "319499131394715",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79554,
+            "longitude": 98.98841,
+            "zip": "50200"
+        },
+        "name": "ปัง.อ๊ะ.ป่าว...? ประตูช้างเผือก เชียงใหม่"
+    },
+    {
+        "id": "319532084829054",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795483009709,
+            "longitude": 98.983918252427,
+            "zip": "50200"
+        },
+        "name": "ร้านข้าวต้มชาวพิจิตร ที่ ประตูช้างเผือก เชียงใหม่"
+    },
+    {
+        "id": "320201084825350",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7551019,
+            "longitude": 100.48087635
+        },
+        "name": "แฟลตประตูแดง 2 ซอยวังหลัง 13 แขวงบ้านช่างหล่อ เขตบางกอกน้อย กทม."
+    },
+    {
+        "id": "321448811328183",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.807423450948,
+            "longitude": 98.975225570438
+        },
+        "name": "บะหมี่ประตูช้างเผือก"
+    },
+    {
+        "id": "323256357858974",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.811419,
+            "longitude": 98.9835789,
+            "zip": "50300"
+        },
+        "name": "A B C หมูกะทะ ประตูช้างเผือก"
+    },
+    {
+        "id": "328088657281125",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795383954438,
+            "longitude": 98.98812289359,
+            "zip": "50200"
+        },
+        "name": "วินัยจักษุคลีนิค ประตูช้างเผือก เชียงใหม่"
+    },
+    {
+        "id": "249207751878868",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795606745424,
+            "longitude": 98.986178711149,
+            "zip": "50200"
+        },
+        "name": "ห้างทองจารุวัฒน์ สาขาประตูช้างเผือก"
+    },
+    {
+        "id": "252140024892733",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.805329245966,
+            "longitude": 98.983925421759,
+            "zip": "50300"
+        },
+        "name": "Top Supermarket สาขาโรงแรมเมอร์เคียว ประตูช้างเผือก"
+    },
+    {
+        "id": "290864494379510",
+        "location": {
+            "latitude": 13.514745754088,
+            "longitude": 102.07047307087
+        },
+        "name": "ร้านช่างเหมน หน้าวัดประตูโขง"
+    },
+    {
+        "id": "337314619617007",
+        "location": {
+            "city": "Lampang",
+            "country": "Thailand",
+            "latitude": 18.272185364899,
+            "longitude": 99.461433992055,
+            "zip": "52100"
+        },
+        "name": "ประตูช้างเผือก เชียงใหม่"
+    },
+    {
+        "id": "395544533837770",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.907062766573,
+            "longitude": 102.01165795708,
+            "zip": "30000"
+        },
+        "name": "กาแฟดอยช้างประตู4 มทส"
+    },
+    {
+        "id": "376485832516203",
+        "location": {
+            "city": "Phetchabun",
+            "country": "Thailand",
+            "latitude": 16.409486126667,
+            "longitude": 101.15168171333
+        },
+        "name": "บ้านหลังสีฟ้าที่มีช้างอยู่ตรงประตูรั้วบ้านสองตัว"
+    },
+    {
+        "id": "377699655639454",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.649354413089,
+            "longitude": 99.0530795734
+        },
+        "name": "แยกประตูช้างสี"
+    },
+    {
+        "id": "378988012303654",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7903,
+            "longitude": 98.9817
+        },
+        "name": "สถานีรถไฟ LMRT ประตูช้างเผือก"
+    },
+    {
+        "id": "379984888759520",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795907157426,
+            "longitude": 98.985198599354,
+            "zip": "50200"
+        },
+        "name": "ไทไท ผัดไท #.ประตูช้างเผือก"
+    },
+    {
+        "id": "381818792021637",
+        "location": {
+            "city": "Chon Buri",
+            "country": "Thailand",
+            "latitude": 13.3667,
+            "longitude": 100.983
+        },
+        "name": "ร้านช่างเนตร ประตูไม้สัก"
+    }
+]

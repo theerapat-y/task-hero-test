@@ -1,0 +1,277 @@
+[
+    {
+        "id": "1432569470314444",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.147320042,
+            "longitude": 100.616785014,
+            "street": "ประตูน้ำพระอินทร์"
+        },
+        "name": "สมคิดยนต์ - อู่ช่างแห้ง",
+        "phone": "035362203"
+    },
+    {
+        "id": "495231107210346",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ปทุมวัน สาทร ปทุมวัน สยาม สุขุมวิท ราชเทวี พระราม 4 ประตูน้ำ",
+            "zip": "10000"
+        },
+        "name": "ช่างกุญแจปทุมวัน 087 488 4333",
+        "phone": "0874884333"
+    },
+    {
+        "about": "รถแรง รถสวย ต้องช่างอาร์ม",
+        "id": "200353943477115",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.959615474096,
+            "longitude": 102.06066066906,
+            "street": "สามแยกทองหล่อ มทส.ประตู 4",
+            "zip": "30000"
+        },
+        "name": "ช่างอาร์ม ออ เมืองโคราช",
+        "phone": "0935219101"
+    },
+    {
+        "id": "438324199644786",
+        "location": {
+            "city": "Amphoe Muang Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.4519487,
+            "longitude": 100.0911093
+        },
+        "name": "อาคารประติมากรรม วิทยาลัยช่างศิลปสุพรรณบุรี"
+    },
+    {
+        "id": "238632206305610",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.74400681,
+            "longitude": 100.49899364
+        },
+        "name": "คณะประติมากรรมเพาะช่าง"
+    },
+    {
+        "id": "308210352671948",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "เลี้ยวซ้ายประตูช้างเผือกมาประมาณ 100 เมตร ด้านขวามือ",
+            "zip": "50200"
+        },
+        "name": "The Fitness Experts",
+        "phone": "0894325499"
+    },
+    {
+        "id": "648359255260217",
+        "location": {
+            "city": "ชัยนาท",
+            "latitude": 15.2380816,
+            "longitude": 100.0320533,
+            "street": "วัดสิงห์"
+        },
+        "name": "บ้านช่างศักดิ์ประตูเหล็ก0810364037"
+    },
+    {
+        "id": "187104144777968",
+        "location": {
+            "city": "Nakhon Si Thammarat",
+            "country": "Thailand",
+            "latitude": 8.4205711245672,
+            "longitude": 99.965465755138,
+            "street": "Pratoolod Road"
+        },
+        "name": "อู่ยุทธนาการช่าง ถ. ประตูลอด"
+    },
+    {
+        "id": "202764556589420",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7956286,
+            "longitude": 98.9848127,
+            "zip": "50200"
+        },
+        "name": "Korean BBQ ประตูช้างเผือก"
+    },
+    {
+        "id": "577692005588931",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.9785055,
+            "longitude": 102.1051547
+        },
+        "name": "ประตูน้ำ  บ้านขุนช้าง"
+    },
+    {
+        "id": "737954079625347",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.807667136137,
+            "longitude": 98.987381581534,
+            "zip": "50300"
+        },
+        "name": "มหาวิทยาลัยไฮโซชื่อดังย่านประตูช้างเผือก"
+    },
+    {
+        "id": "199543856869637",
+        "location": {
+            "city": "Aranyaprathet",
+            "country": "Thailand",
+            "latitude": 13.681679195617,
+            "longitude": 102.49712782009,
+            "street": "ฟากห้วย",
+            "zip": "27120"
+        },
+        "name": "ช่างยา  ประตูเหล็ก ฟากห้วย",
+        "phone": "0-8714-1423"
+    },
+    {
+        "id": "242792702551937",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.361181290299,
+            "longitude": 100.57126345779,
+            "street": "11/55 ถ.จักรพรรดิ์ ต.ประตูชัย",
+            "zip": "13000"
+        },
+        "name": "บริษัท จินต้าชาง",
+        "phone": "0883277788"
+    },
+    {
+        "id": "242564492549489",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795350343006,
+            "longitude": 98.986545251775
+        },
+        "name": "บูทผู้ชายขายน้ำ นิรันดร์รัตน์ ประตูช้างเผือก"
+    },
+    {
+        "id": "242170279313630",
+        "location": {
+            "latitude": 8.66692921,
+            "longitude": 99.90023287
+        },
+        "name": "บ้านประตูช้าง อ.ท่าศาลา จ.นครศรีธรรมราช"
+    },
+    {
+        "id": "210739932349738",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.751888600269,
+            "longitude": 98.929507355316,
+            "zip": "50100"
+        },
+        "name": "ประตูช้างค้ำ @Royal Flora 2011"
+    },
+    {
+        "id": "208199036056459",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.797825728561,
+            "longitude": 98.985612262133
+        },
+        "name": "คลินิกรักษาสัตว์ หลังประตูช้างเผือก"
+    },
+    {
+        "id": "205604676253063",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.797597610779,
+            "longitude": 98.985405428051,
+            "zip": "50200"
+        },
+        "name": "หอยทอด ประตูช้างเผือก"
+    },
+    {
+        "id": "204925156299614",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795747205684,
+            "longitude": 98.985447096445,
+            "zip": "50200"
+        },
+        "name": "ขนมหวานเจ๊ซวง@ประตูช้างเผือก"
+    },
+    {
+        "id": "243560085855148",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.785478248994,
+            "longitude": 99.008067559726
+        },
+        "name": "On the Way ตลาดเมืองใหม่ ตลาดประตูเชียงใหม่ ตลาดช้างเผือก ตลาดทองคำ"
+    },
+    {
+        "id": "249149538520279",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.745671811024,
+            "longitude": 98.932193543307
+        },
+        "name": "ลานต้อนรับ หน้าประตูช้างค้ำ อุทยานหลวงราชพฤกษ์"
+    },
+    {
+        "id": "373866769314203",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795833823402,
+            "longitude": 98.986085154852,
+            "zip": "50200"
+        },
+        "name": "7-11 ประตูช้างเผือก"
+    },
+    {
+        "id": "151061228396472",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.796068314184,
+            "longitude": 98.982617999646,
+            "zip": "50200"
+        },
+        "name": "วัดโลกโมฬี ประตูหัวเวียงช้างเผือกเชียงใหม่"
+    },
+    {
+        "id": "580873051935740",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795882146373,
+            "longitude": 98.985428407907,
+            "zip": "50200"
+        },
+        "name": "ตลาดประตูช้างเผือก"
+    },
+    {
+        "id": "350633721620405",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.810535401769,
+            "longitude": 98.977594780057
+        },
+        "name": "ประตูช้างเผือก เชียงใหม่"
+    }
+]

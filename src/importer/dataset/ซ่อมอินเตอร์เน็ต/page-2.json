@@ -1,0 +1,66 @@
+[
+    {
+        "id": "366881013417887",
+        "location": {
+            "city": "Bang Na",
+            "country": "Thailand",
+            "latitude": 13.667748848526,
+            "longitude": 100.60160579507,
+            "street": "Soi Luan-chuea Anuson 2",
+            "zip": "10260"
+        },
+        "name": "ศูนย์ซ่อมมาตรฐาน วิริยะประกันภัย บริษัท เจ.เอส. อินเตอร์ กรุ๊ป จำกัด"
+    },
+    {
+        "id": "229393740572851",
+        "location": {
+            "city": "Bang Na",
+            "country": "Thailand",
+            "latitude": 13.66826247,
+            "longitude": 100.60184261,
+            "zip": "10260"
+        },
+        "name": "ศูนย์ซ่อมรถยนต์ เจ.เอส. อินเตอร์กรุ๊ป"
+    },
+    {
+        "id": "1442984946027170",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.9753134,
+            "longitude": 100.5793374
+        },
+        "name": "มิตซูบิชิสแกนอินเตอร์ - ซ่อมสร้าง"
+    },
+    {
+        "description": "ห้องซ้อมดนตรีและจำหน่ายเครื่องดนตรี",
+        "id": "525488874139181",
+        "location": {
+            "city": "Lom Sak",
+            "country": "Thailand",
+            "latitude": 16.787845726321,
+            "longitude": 101.24218548844,
+            "street": "GPmusic",
+            "zip": "67110"
+        },
+        "name": "ห้องซ้อมดนตรี-อินเตอร์เน็ต GP music",
+        "phone": "056746328"
+    },
+    {
+        "about": "ซ่อมคอม โน๊ตบุค ปรี้นเตอร์ on site service\n0801396884  line id  itphoto",
+        "description": "ซ่อมคอม ปริ้นเตอร์ อินเตอร์เน็ต on site service\n0801396884 line id itphoto",
+        "emails": [
+            "itphoto2556@gmail.com"
+        ],
+        "id": "1590412774524570",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "กทม"
+        },
+        "name": "ซ่อมคอม ปริ้นเตอร์ อินเตอร์เน็ต on site service",
+        "phone": "0801396884"
+    }
+]

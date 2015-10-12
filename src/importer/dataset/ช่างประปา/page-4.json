@@ -1,0 +1,273 @@
+[
+    {
+        "id": "831829146890024",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.760201331119,
+            "longitude": 100.47140770293,
+            "street": "258/4 ถ.จรัญสนิทวงค์ ซ.30/1 แขวงบ้านช่างหล่อ เขตบางกอกน้อย",
+            "zip": "10700"
+        },
+        "name": "การประปานครหลวงสาขาบางกอกน้อย"
+    },
+    {
+        "id": "798709500251651",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.486001647218,
+            "longitude": 100.12016773224
+        },
+        "name": "บ้านพักช่างประปา"
+    },
+    {
+        "id": "766356606791025",
+        "location": {
+            "city": "Chamai",
+            "country": "Thailand",
+            "latitude": 8.1659919,
+            "longitude": 99.7071628
+        },
+        "name": "Mono เสียหายการช่าง หน้าประปา อ.ทุ่งสง"
+    },
+    {
+        "id": "1385327588373155",
+        "location": {
+            "city": "Pathum Thani",
+            "country": "Thailand",
+            "latitude": 14.0201,
+            "longitude": 100.52357,
+            "street": "ถนน เลียบคลองประปา"
+        },
+        "name": "อู่โชคดีเจริญการช่าง"
+    },
+    {
+        "id": "1508924762670844",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.832461550347,
+            "longitude": 100.04896199484,
+            "zip": "73000"
+        },
+        "name": "ร้านตัดผมชาย ช่างกัน แยกอ่างประปา"
+    },
+    {
+        "description": "99/10 ซ.วัดพระเงิน อ.บางม่วง อ.บางใหญ่ นนทบุรี",
+        "id": "1863490650458309",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ขายอุปกรณ์ก่อสร้าง เครื่องมือช่าง ประปา ไฟฟ้า เบ็ดเตล็ด"
+        },
+        "name": "ร้านณัฐกิจฮาดแวร์"
+    },
+    {
+        "id": "1626157360941501",
+        "location": {
+            "city": "Tha Rua",
+            "country": "Thailand",
+            "latitude": 8.92447,
+            "longitude": 99.27416,
+            "street": "78/4-5 หน้าประปาท่าเรือ ตำบลท่าเรือ อำเภอท่าเรือ จังหวัดพระนครศรีอยุธยา"
+        },
+        "name": "ร้านปฏิวัติการช่าง",
+        "phone": "0818527739"
+    },
+    {
+        "id": "1613617475542312",
+        "location": {
+            "latitude": 8.375593,
+            "longitude": 99.596304
+        },
+        "name": "ซอยประปา อ.ช้างกลาง"
+    },
+    {
+        "about": "ธุรกิจเพาะพันธุ์ปลาน้ำจืด ปลาสลิด ปลานิล ปลาตะเพียร ปลานวลจันทร์ ปลาไน ฯลฯ",
+        "id": "1607435152865557",
+        "location": {
+            "city": "Amphoe Kosum Phisai",
+            "country": "Thailand",
+            "latitude": 16.1667,
+            "longitude": 103.033,
+            "street": "ทางไปบ้านโพนทอง ติดคลองชลประทาน ตรงข้ามประปาบ้านหัวช้าง",
+            "zip": "44140"
+        },
+        "name": "ศอกหลีก ฟาร์ม",
+        "phone": "0862285803 (สุพรรณ์ เดยะดี)"
+    },
+    {
+        "id": "1607183962894784",
+        "location": {
+            "city": "Surat",
+            "country": "Thailand",
+            "latitude": 9.1,
+            "longitude": 99.2333
+        },
+        "name": "ประปาทุ่งคอก หมู่ 5 ท่าโรงช้าง"
+    },
+    {
+        "id": "1607046999579462",
+        "location": {
+            "city": "Pak Kret",
+            "country": "Thailand",
+            "latitude": 13.9167,
+            "longitude": 100.5
+        },
+        "name": "ร้านช่างหมูคลองประปา"
+    },
+    {
+        "description": "ท.ต ลำพันชาด",
+        "id": "1582441685306665",
+        "location": {
+            "city": "Wang Sam Mo",
+            "country": "Thailand",
+            "latitude": 16.9404,
+            "longitude": 103.44652
+        },
+        "name": "บ้าน ช่างประปา ม.2"
+    },
+    {
+        "id": "1541974129391150",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.729066138898,
+            "longitude": 100.11757303029
+        },
+        "name": "บ้านช้างน้อยประปา"
+    },
+    {
+        "id": "1511514719070369",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.80717968,
+            "longitude": 100.53421103
+        },
+        "name": "บจก.วงศ์ช่าง ริมคลองประปา ประชาชื่่น"
+    },
+    {
+        "about": "รับซ่อมงานระบบประปาทุกชนิด",
+        "id": "1501181106827530",
+        "location": {
+            "city": "Amphoe Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0152,
+            "longitude": 100.39974,
+            "street": "110 ทุ่งเสา1 ซอย2",
+            "zip": "90110"
+        },
+        "name": "ช่างประปาหาดใหญ่จ้า",
+        "phone": "0910135650"
+    },
+    {
+        "id": "1494249124175608",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.71827537,
+            "longitude": 100.09850989,
+            "street": "หมู่บ้านดรีมแลนด์ ซอย2"
+        },
+        "name": "ร้านศิริการไฟฟ้า จำหน่ายอุปกรณ์ไฟฟ้า ประปาและเครื่องมือช่าง"
+    },
+    {
+        "id": "1493681867573486",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.649483806301,
+            "longitude": 100.29102737519
+        },
+        "name": "โรงผลิตน้ำประปากระทุ่มแบน By บริษัท ช.การช่าง-โตกิว คอนสตรัคชั่น จำกัด"
+    },
+    {
+        "id": "1454510141539600",
+        "location": {
+            "city": "Amphoe Bang Pa-In",
+            "country": "Thailand",
+            "latitude": 14.3090928,
+            "longitude": 100.6387209
+        },
+        "name": "ร้าน อโยธยาไปร์ การประปาและเครื่องมือช่างและฮาดแวร์"
+    },
+    {
+        "id": "1433064566933256",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "ช่างเคี่ยน ถนนค่ายสุเทพลูกเสือสุเทพ ซอย5"
+        },
+        "name": "แทงค์เก็บน้ำ ประปา - ก.ป.ภ"
+    },
+    {
+        "id": "1429953350639169",
+        "location": {
+            "city": "Surat Thani",
+            "country": "Thailand",
+            "latitude": 12.608611111111,
+            "longitude": 102.27055555556
+        },
+        "name": "ร้านสมชายการช่าง สี่แยกดอนเค็จ จำหน่ายอุปกรณ์น่ากุ้ง. ก่อสร้าง ไฟฟ้า ประปา"
+    },
+    {
+        "id": "1415197992105432",
+        "location": {
+            "city": "Amphoe Muang Prachin Buri",
+            "country": "Thailand",
+            "latitude": 14.05394911,
+            "longitude": 101.37547796,
+            "street": "ตรงข้ามประปาเก่า คลองถม ปราจีน"
+        },
+        "name": "ร้านช่างแอร์ เซอร์วิส",
+        "phone": "0812740233"
+    },
+    {
+        "id": "1408468662698134",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.862229577571,
+            "longitude": 100.54689695943,
+            "street": "Liap Khlong Prapa"
+        },
+        "name": "ช่างหมูคลองประปา"
+    },
+    {
+        "id": "182166435319989",
+        "location": {
+            "city": "Mae Klong",
+            "country": "Thailand",
+            "latitude": 13.400672294757,
+            "longitude": 100.00110009584
+        },
+        "name": "อู่ซ่อมรถตุ๊กช่างระ - ซอยประปา",
+        "phone": "0890282947"
+    },
+    {
+        "id": "351861591612503",
+        "location": {
+            "city": "Muang Roi Et",
+            "country": "Thailand",
+            "latitude": 16.047053715779,
+            "longitude": 103.6628001398
+        },
+        "name": "ช่างเข็ม โค้งประปา"
+    },
+    {
+        "id": "349932811866814",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.908553621034,
+            "longitude": 100.64364910126
+        },
+        "name": "ร้านบัณฑิตสโตร์ ร้านที่ขายเครื่องมือช่างและอุปกรณ์ไฟฟ้า ประปา สี"
+    }
+]

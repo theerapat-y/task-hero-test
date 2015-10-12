@@ -1,0 +1,285 @@
+[
+    {
+        "id": "1622661487986455",
+        "location": {
+            "city": "Kalasin",
+            "country": "Thailand",
+            "latitude": 16.4333,
+            "longitude": 103.5,
+            "street": "บ้านกุดอ้อ 194/2 ต.หลุบ อ.เมือง",
+            "zip": "46000"
+        },
+        "name": "อู่ช่างโอ๊ต Racing Shopจำหน่ายอะไหล่แต่งซิ่ง",
+        "phone": "0980751857"
+    },
+    {
+        "id": "1617971118485035",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.8030796,
+            "longitude": 100.8133087,
+            "street": "กรุงเทพ",
+            "zip": "10310"
+        },
+        "name": "ช่างแต่งหน้าณเกศ เจ้าสาวสโมสรสหกรณ์",
+        "phone": "0815655464"
+    },
+    {
+        "about": "ให้ความสวยกันลูกค้าทุกคน",
+        "id": "1616760191928528",
+        "location": {
+            "city": "Samut Prakan",
+            "country": "Thailand",
+            "latitude": 13.6,
+            "longitude": 100.6,
+            "street": "หลังโลมัน หน้าโลตัสศรีนครินทร์",
+            "zip": "10270"
+        },
+        "name": "ช่างตี๋ รับแต่งหน้าทำผม",
+        "phone": "0927159633"
+    },
+    {
+        "id": "1612533065673170",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7000504,
+            "longitude": 100.4934464,
+            "street": "กรุงเทพ",
+            "zip": "10313"
+        },
+        "name": "ช่างแต่งหน้าณเกศ รัฐมนตรี กระทรวงวิทยาสาตร์ และเทคโนโลยี",
+        "phone": "0815655464"
+    },
+    {
+        "id": "1611763809080421",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.8030796,
+            "longitude": 100.8133087,
+            "street": "Thailand",
+            "zip": "10230"
+        },
+        "name": "ช่างแต่งหน้าณเกศ เจ้าสาวปักกิ่ง เพนนิลซูล่า",
+        "phone": "0815655464"
+    },
+    {
+        "id": "1604139619799841",
+        "location": {
+            "city": "กระสัง",
+            "latitude": 15.0602603,
+            "longitude": 103.3840106,
+            "street": "บ้านลำดวน"
+        },
+        "name": "บ้านกาฟิว ช่างแต่ง"
+    },
+    {
+        "id": "1599734183574907",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7522,
+            "longitude": 100.494
+        },
+        "name": "ช่างแต่งหน้าโลกสวย"
+    },
+    {
+        "id": "1403339123213362",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.862387258078,
+            "longitude": 100.58551797418
+        },
+        "name": "บ้านช่างแต่งหน้าพี่แหม่ม"
+    },
+    {
+        "id": "1579239629014482",
+        "location": {
+            "latitude": 14.6243411,
+            "longitude": 100.4717582
+        },
+        "name": "ช่างแต่งหน้าช่อง 3"
+    },
+    {
+        "id": "1542263292726416",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.81913,
+            "longitude": 100.67546,
+            "street": "อุดมสุข",
+            "zip": "10230"
+        },
+        "name": "ช่างแต่งหน้าณเกศ Concert สครับนำโชว์ สิงโตนำโชค",
+        "phone": "0815655464"
+    },
+    {
+        "id": "1534501440145855",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7622604,
+            "longitude": 98.9929581,
+            "street": "เชียงใหม่",
+            "zip": "50200"
+        },
+        "name": "Arty  Jarukan ช่างแต่งหน้าเชียงใหม่",
+        "phone": "0884807045"
+    },
+    {
+        "id": "1527664080834605",
+        "location": {
+            "city": "Muang Surin",
+            "country": "Thailand",
+            "latitude": 14.87834,
+            "longitude": 103.5031
+        },
+        "name": "วิทยาลัยเด็กช่างชื่อดัง ติดกับถนนหลักเมือง ที่มีร้านแต่งรถอยู่หน้าวิทยาลัย"
+    },
+    {
+        "id": "1518894361724473",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.846268864299,
+            "longitude": 98.995978832245
+        },
+        "name": "บ้านช่างแต่งหน้าฟรุ้งฟริ้งงง"
+    },
+    {
+        "id": "1445825805705808",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.711413089199,
+            "longitude": 100.49815242188
+        },
+        "name": "ห้องน้องไผ่ช่างแต่งหน้าระดับตำนาน"
+    },
+    {
+        "id": "774497252606070",
+        "location": {
+            "city": "Muang Surin",
+            "country": "Thailand",
+            "latitude": 14.879003898356,
+            "longitude": 103.5010052711,
+            "zip": "32000"
+        },
+        "name": "วิทยาลัยเด็กช่างชื่อดัง ติดกับถนนหลักเมือง มีร้านแต่งรถอยู่หน้าวิทยาลัย"
+    },
+    {
+        "id": "1408875846106697",
+        "location": {
+            "city": "Bangkok",
+            "country": "Indonesia",
+            "latitude": -7.09667,
+            "longitude": 112.512,
+            "street": "ประเทศไทย",
+            "zip": "10230"
+        },
+        "name": "ช่างแต่งหน้าณเกศ ทำเนียบรัฐบาล",
+        "phone": "0815655464"
+    },
+    {
+        "id": "259418630898926",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.85370348,
+            "longitude": 99.04390623
+        },
+        "name": "บ้านพี่เอ เจ้านางดีไซน์ ช่างแต่งหน้าเชียงใหม่"
+    },
+    {
+        "id": "372999716231653",
+        "location": {
+            "city": "Uthai",
+            "country": "Thailand",
+            "latitude": 14.3635571,
+            "longitude": 100.6473386
+        },
+        "name": "อู่ช่างบอยที่มีแต่งรถแรงๆและผู้ชายหน้าตาดี"
+    },
+    {
+        "id": "742997192455591",
+        "location": {
+            "city": "Muang Surin",
+            "country": "Thailand",
+            "latitude": 14.87924167,
+            "longitude": 103.50080862333
+        },
+        "name": "วิทยาลัยช่างชื่อดังที่มีอาแหร๋งเกินครึ่งและมีร้านแต่งรถอยู่ข้างหน้า"
+    },
+    {
+        "id": "347085818814554",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7246237,
+            "longitude": 100.5647125,
+            "street": "สุขุมวิท",
+            "zip": "10230"
+        },
+        "name": "ช่างแต่งหน้าณเกศ ถ่ายนิตยสาร Chimney แจ้ส ชวนชื่น",
+        "phone": "0815655464"
+    },
+    {
+        "id": "343146832392669",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.798182808725,
+            "longitude": 100.64217349984,
+            "zip": "10240"
+        },
+        "name": "บ้านช่างแต่งหน้า"
+    },
+    {
+        "id": "339059662949243",
+        "location": {
+            "city": "Muang Surin",
+            "country": "Thailand",
+            "latitude": 14.879334066063,
+            "longitude": 103.50076236762
+        },
+        "name": "วิทยาลัยเด็กช่างชื่อดัง ติดกับถนนหลักเมือง ที่มีร้านแต่งรถอยู่หน้าวิทยาลัย"
+    },
+    {
+        "id": "325523000931812",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.64586,
+            "longitude": 100.25857,
+            "street": "อ.ทุ่มแบน",
+            "zip": "74110"
+        },
+        "name": "ช่างแต่งหน้าทำผมเจ้าสาว งานรับปริญา สมัคแอร์ ออกงานต่างๆ นอกและในสถานที่",
+        "phone": "0864085356"
+    },
+    {
+        "id": "316424431885139",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "อุดมสุข"
+        },
+        "name": "ช่างแต่งหน้าณเกศ ผลงานแต่งหน้าทำผม",
+        "phone": "0815655464"
+    },
+    {
+        "id": "308321252661720",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.527863283343,
+            "longitude": 100.13017845015
+        },
+        "name": "ศูนย์ส่งเสริมวิชาชีพช่างแต่งผม เสริมสวย"
+    }
+]

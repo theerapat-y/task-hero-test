@@ -1,0 +1,174 @@
+[
+    {
+        "id": "270502633149146",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7957016917,
+            "longitude": 98.985195300546,
+            "street": "ประตูช้างเผือก",
+            "zip": "50200"
+        },
+        "name": "น้ำหู้ เต้าฮวย นมสด บัวลอยน้ำขิง เต้าทึง"
+    },
+    {
+        "id": "328374723864308",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7953366,
+            "longitude": 98.9896237,
+            "zip": "50200"
+        },
+        "name": "หมูกะทะประตูช้างเผือก"
+    },
+    {
+        "id": "368663199905239",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.794201959408,
+            "longitude": 98.987283948901,
+            "zip": "50200"
+        },
+        "name": "ร้านน้ำแข็งเต็ก เป็นเอก - ประตูช้างเผือก"
+    },
+    {
+        "id": "195124390553938",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.811730889832,
+            "longitude": 98.982578498829,
+            "zip": "50300"
+        },
+        "name": "ศูนย์ฝึกขับรถยนต์ประตูช้างเผือก"
+    },
+    {
+        "id": "848612308502741",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.9797262,
+            "longitude": 102.1029156
+        },
+        "name": "ศาลเจ้าพ่อ เจ้าแม่หลักช้างเผือกประตูชุมพล"
+    },
+    {
+        "id": "149081661823759",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7958471694,
+            "longitude": 98.9863199613,
+            "zip": "50200"
+        },
+        "name": "ข้าวหมกไก่ประตูช้างเผือก"
+    },
+    {
+        "id": "400241986699651",
+        "location": {
+            "city": "Den Chai",
+            "country": "Thailand",
+            "latitude": 17.972259,
+            "longitude": 100.069255
+        },
+        "name": "ประตูสู่ล้านนา เมืองแพร่ กาแฟดอยช้าง"
+    },
+    {
+        "id": "1476878859274412",
+        "location": {
+            "city": "Pattaya",
+            "country": "Thailand",
+            "latitude": 12.9333,
+            "longitude": 100.883,
+            "street": "พัทยา",
+            "zip": "20150"
+        },
+        "name": "อภิวัฒน์การช่าง  รับทำเหล็กดัด  โคงหลังคา  ประตูม้วน และงานเหล็กทุกชนิด",
+        "phone": "0995419638"
+    },
+    {
+        "id": "864175203619260",
+        "location": {
+            "city": "Chaiyaphum",
+            "country": "Thailand",
+            "latitude": 15.8,
+            "longitude": 102.033,
+            "street": "หมู่บ้านโนนหญ้าคา",
+            "zip": "36240"
+        },
+        "name": "ประตู หน้าต่างเหล็กดัด ราคาถูกมากๆ ชัยภูมิ - ช่างยันต์",
+        "phone": "098-298-2639"
+    },
+    {
+        "id": "1630606300499862",
+        "location": {
+            "city": "Khonkean",
+            "country": "Thailand",
+            "latitude": 16.47889,
+            "longitude": 102.82676,
+            "street": "ประตูน้ำ",
+            "zip": "40000"
+        },
+        "name": "กาแฟสดดอยช้าง ประตูน้ำขอนแก่น"
+    },
+    {
+        "id": "608746655804124",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.801461751122,
+            "longitude": 98.985728631915,
+            "zip": "50200"
+        },
+        "name": "ธนาคารไทยพาณิชย์ สาขาประตูช้างเผืก"
+    },
+    {
+        "id": "330145180362234",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795804291831,
+            "longitude": 98.985206674178,
+            "zip": "50200"
+        },
+        "name": "ก๋วยเตี๋ยวโคคา สุกี้น้ำ-แห้ง ประตูช้างเผือก"
+    },
+    {
+        "id": "1119966121364060",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.2281,
+            "longitude": 104.859,
+            "street": "118 ม.11 ต.นาส่วง อ.เดชอุดม",
+            "zip": "34160"
+        },
+        "name": "รับทำเหล็กดัด,ประตูม้วน,โครงหลังคา,รุ่งเรืองการช่าง - ช่างหนุ่ย",
+        "phone": "0833659965"
+    },
+    {
+        "id": "237901669612118",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.798889493759,
+            "longitude": 98.986193088684,
+            "street": "Soi Phong Suwan",
+            "zip": "50200"
+        },
+        "name": "ธนาคารกรุงศรีสาขาประตูช้างเผือก"
+    },
+    {
+        "id": "745679312113714",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.793659220653,
+            "longitude": 98.987464694035,
+            "zip": "50200"
+        },
+        "name": "คลีนิกหมอชาติชาย ประตูช้างเผือก"
+    }
+]

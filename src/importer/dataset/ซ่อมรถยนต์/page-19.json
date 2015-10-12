@@ -1,0 +1,254 @@
+[
+    {
+        "id": "497289903626681",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.822204396816,
+            "longitude": 100.69902230535
+        },
+        "name": "อู่ซ่อมและติดตั้งแอร์รถยนต์"
+    },
+    {
+        "id": "493848334051925",
+        "location": {
+            "city": "Non Sung",
+            "country": "Thailand",
+            "latitude": 15.181305885315,
+            "longitude": 102.2607421875
+        },
+        "name": "ร้านซ่อมรถยนต์ขั้นเทพ"
+    },
+    {
+        "id": "493569217341992",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.37322287,
+            "longitude": 100.99864999
+        },
+        "name": "อู่พบ ซ่อมรถยนต์ หน้าค่ายนวมินฯ"
+    },
+    {
+        "id": "490127551131701",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.75395,
+            "longitude": 100.50224,
+            "street": "ดอนเมือง"
+        },
+        "name": "อู่ท๊อปเซอร์วิสดอนเมือง ศูนย์ซ่อมรถยนต์ยุโรป ระดับโปร"
+    },
+    {
+        "id": "489615104403754",
+        "location": {
+            "city": "Kantharawichai",
+            "country": "Thailand",
+            "latitude": 16.254979204647,
+            "longitude": 103.27822172718
+        },
+        "name": "ศูนย์บริการมาตรฐานซ่อมสี-ตัวถังรถยนต์"
+    },
+    {
+        "id": "416621345183168",
+        "location": {
+            "city": "Ban Ao Udom",
+            "country": "Thailand",
+            "latitude": 13.1481794,
+            "longitude": 100.9164258
+        },
+        "name": "อู่สายัน เซอร์วิส ศูนย์ยริการซ่อมรถยนต์มาตรฐาน มิร่า ไดฮัทสุ"
+    },
+    {
+        "id": "429218403828489",
+        "location": {
+            "latitude": 13.768765263158,
+            "longitude": 101.38238403509
+        },
+        "name": "ร้านซ่อมระบบไฟในรถยนต์"
+    },
+    {
+        "id": "429015493945552",
+        "location": {
+            "city": "Changwat Songkhla",
+            "country": "Thailand",
+            "latitude": 7.13333,
+            "longitude": 100.533
+        },
+        "name": "SJ สงขลาเจริญการช่าง ศูนย์ซ่อมสีและบำรุงรักษาตัวถังรถยนต์"
+    },
+    {
+        "id": "425589567605452",
+        "location": {
+            "city": "Amphoe Muang Phetchabun",
+            "country": "Thailand",
+            "latitude": 16.274140698517,
+            "longitude": 101.05932091998
+        },
+        "name": "ช่างคิม บริการซ่อมรถยนต์ มีลูกน้องชอบซิ่งรถเป็นประจำ"
+    },
+    {
+        "id": "424166677682851",
+        "location": {
+            "latitude": 14.92420423,
+            "longitude": 104.50369099
+        },
+        "name": "อู่ฐาเซอร์วิส _ รับซ่อมปะผุรถยนต์",
+        "phone": "0850231455"
+    },
+    {
+        "id": "421545137934632",
+        "location": {
+            "latitude": 14.950531,
+            "longitude": 100.34708
+        },
+        "name": "อู่ ณัฐพล ซ่อมรถยนต์"
+    },
+    {
+        "id": "421306621307429",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.697630882263,
+            "longitude": 101.29222869873
+        },
+        "name": "เอสดี เซอร์วิส บริการซ่อมรถยนต์",
+        "phone": "0854324849"
+    },
+    {
+        "id": "429825263794625",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.92325006,
+            "longitude": 100.42411557,
+            "street": "อ.บางบัวทอง จ.นนทบุรี"
+        },
+        "name": "อู่ซ่อมรถยนต์และร้านอะไหล่รถยนต์ราชาฝาท้าย\"โก๊ะเซอร์วิส\"",
+        "phone": "0867825681"
+    },
+    {
+        "id": "415363931862461",
+        "location": {
+            "city": "Amphoe Muang Phichit",
+            "country": "Thailand",
+            "latitude": 16.493418505818,
+            "longitude": 100.47884594074
+        },
+        "name": "ร้านไพบูลย์แอร์ สากเหล็ก รับซ่อม แอร์บ้านและแอร์รถยนต์ทุกชนิด"
+    },
+    {
+        "id": "412676642093399",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.875768044265,
+            "longitude": 99.137832231561
+        },
+        "name": "ร้านซ่อมรถยนต์ ดอยสะเก็ด"
+    },
+    {
+        "id": "409310932444854",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.832704,
+            "longitude": 100.650032
+        },
+        "name": "ช่างสิต อู่ซ่อมรถยนต์"
+    },
+    {
+        "id": "455621201135599",
+        "location": {
+            "latitude": 19.147240878877,
+            "longitude": 99.929586052895
+        },
+        "name": "ร้านซ่อมแอร์รถยนต์ บ้านสันจกปก"
+    },
+    {
+        "id": "442927959091828",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.946498203113,
+            "longitude": 98.39297874282
+        },
+        "name": "ร้านซ่อมแอร์รถยนต์ สะปำ"
+    },
+    {
+        "id": "452087654960000",
+        "location": {
+            "city": "Lang Suan",
+            "country": "Thailand",
+            "latitude": 10.039898016014,
+            "longitude": 98.998580874555
+        },
+        "name": "คาร์แคร์และอู๋ซ่อมรถยนต์ ริมถนนที่บ้านทับช้าง"
+    },
+    {
+        "id": "449234141915770",
+        "location": {
+            "city": "Thung Kwao",
+            "country": "Thailand",
+            "latitude": 18.563962248171,
+            "longitude": 99.472520956862,
+            "street": "หน้าโรงเรียนทุ่งกว๋าววิทยาคม",
+            "zip": "52240"
+        },
+        "name": "อู่ซ่อมรถยนต์ \"อู่ช่างเอกสิทธิ์\""
+    },
+    {
+        "id": "448402388596779",
+        "location": {
+            "city": "Bangsabhan",
+            "country": "Thailand",
+            "latitude": 11.81136,
+            "longitude": 99.79797,
+            "street": "บางสะพาน"
+        },
+        "name": "ร้านซ่อมแอร์ รถยนต์"
+    },
+    {
+        "id": "446001905420148",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.823618525577,
+            "longitude": 100.57337112337,
+            "zip": "10900"
+        },
+        "name": "ศูนย์เคลือบสีรถยนต์ สตาร์เซิฟซ่อม-บำรุงเบนซ์  Moly care รัชดา"
+    },
+    {
+        "id": "445903198849923",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.788192491817,
+            "longitude": 100.55211481997,
+            "street": "Inthamara 22"
+        },
+        "name": "ร้านซ่อมรถยนต์ ทวีศักดิ์ออโตแอร์ อินทามระ22"
+    },
+    {
+        "id": "445366175600722",
+        "location": {
+            "city": "Min Buri",
+            "country": "Thailand",
+            "latitude": 13.815713001838,
+            "longitude": 100.72062181431
+        },
+        "name": "ศูนย์ซ่อมรถยนต์ แอค สาขาสุวินทวงศ์"
+    },
+    {
+        "id": "440648156117724",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7904732,
+            "longitude": 100.4117404
+        },
+        "name": "อู่ซ่อมรถยนต์ Workshop สวนผัก 49"
+    }
+]

@@ -1,0 +1,261 @@
+[
+    {
+        "id": "167302090016590",
+        "location": {
+            "city": "Ban Ko",
+            "country": "Thailand",
+            "latitude": 14.2442585,
+            "longitude": 100.4652208,
+            "zip": "13190"
+        },
+        "name": "Wellness Home Resort \u0026 Spa เมืองสุขภาพ ต.ช่างเหล็ก อ.บางไทร อยุธยา"
+    },
+    {
+        "id": "175118712601671",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773607924348,
+            "longitude": 100.45287339211,
+            "zip": "10170"
+        },
+        "name": "7-11 วัดช่างเหล็ก"
+    },
+    {
+        "id": "189763121094644",
+        "location": {
+            "city": "Ko Phangan",
+            "country": "Thailand",
+            "latitude": 9.708316,
+            "longitude": 100.003381
+        },
+        "name": "เล็กช่างเหล็ก"
+    },
+    {
+        "id": "198442850307316",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.772303,
+            "longitude": 100.453191
+        },
+        "name": "บ้านน้าจิตร วัดช่างเหล็ก ริมคลองชักพระ"
+    },
+    {
+        "id": "198538417010705",
+        "location": {
+            "latitude": 10.770446048128,
+            "longitude": 99.001716999429
+        },
+        "name": "สวนทุเรียน\u0026สวนกาแฟเชาว์ช่างเหล็ก"
+    },
+    {
+        "id": "201081596648857",
+        "location": {
+            "latitude": 14.3072549966,
+            "longitude": 100.452577002
+        },
+        "name": "บ้านช่างเหล็ก อยุธยา"
+    },
+    {
+        "id": "203884236439621",
+        "location": {
+            "city": "Bang Sai",
+            "country": "Thailand",
+            "latitude": 14.213066096431,
+            "longitude": 100.49838225367
+        },
+        "name": "โรงพยาบาลส่งเสริมสุขภาพตำบลช่างเหล็ก"
+    },
+    {
+        "id": "206112809454662",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77389784,
+            "longitude": 100.45234482
+        },
+        "name": "บ้านอีอ้อม ซอยวัดช่างเหล็ก"
+    },
+    {
+        "id": "207680926108333",
+        "location": {
+            "city": "Pattaya",
+            "country": "Thailand",
+            "latitude": 12.939303978358,
+            "longitude": 100.94796197498
+        },
+        "name": "บ้านช่างเหล็ก\u0026แยม"
+    },
+    {
+        "id": "250922164965283",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7819926,
+            "longitude": 100.4533249
+        },
+        "name": "ตลาดนัดวัดช่างเหล็ก"
+    },
+    {
+        "id": "799751053401183",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77024,
+            "longitude": 100.39874,
+            "street": "394/2 45)ซอยวัดช่างเหล็ก เขตตลิ่งชัน กทม.",
+            "zip": "10170"
+        },
+        "name": "ฅน - รักษ์ต้นไม้",
+        "phone": "0803188622"
+    },
+    {
+        "id": "250326361808422",
+        "location": {
+            "city": "Nakhon Si Thammarat",
+            "country": "Thailand",
+            "latitude": 8.3795810868484,
+            "longitude": 99.970476338757,
+            "zip": "80000"
+        },
+        "name": "ร้านบ่าวช่างเหล็ก หัวถนน",
+        "phone": "0805323160"
+    },
+    {
+        "id": "710858682289498",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773526511361,
+            "longitude": 100.45395045516,
+            "zip": "10170"
+        },
+        "name": "โรงเรียนวัดช่างเหล็ก สำนักงานเขตตลิ่งชัน"
+    },
+    {
+        "id": "151997148297393",
+        "location": {
+            "city": "Nong Khae",
+            "country": "Thailand",
+            "latitude": 14.33718,
+            "longitude": 100.87113,
+            "zip": "18140"
+        },
+        "name": "บ้านหนองช่างเหล็ก  อ.วิหารแดง"
+    },
+    {
+        "id": "406564626071123",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773258784288,
+            "longitude": 100.45258465269,
+            "zip": "10170"
+        },
+        "name": "บ้านdragon@วัดช่างเหล็ก"
+    },
+    {
+        "id": "601587306631486",
+        "location": {
+            "city": "อยุธยา",
+            "latitude": 14.256246242144,
+            "longitude": 100.44656018806,
+            "street": "บางไทร ช่างเหล็ก"
+        },
+        "name": "ร้านก๋วยเตี๋ยวป้าเอียด อร่อย รสเด็ด",
+        "phone": "035784067"
+    },
+    {
+        "id": "924903100873692",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773870050486,
+            "longitude": 100.45370109379
+        },
+        "name": "หลวงพ่อดำ วัดช่างเหล็ก"
+    },
+    {
+        "id": "270946793010885",
+        "location": {
+            "latitude": 14.314491666667,
+            "longitude": 100.47316166667
+        },
+        "name": "ช่างเหล็ก"
+    },
+    {
+        "id": "208929602541070",
+        "location": {
+            "city": "Pattaya",
+            "country": "Thailand",
+            "latitude": 12.942914,
+            "longitude": 100.942989,
+            "zip": "20150"
+        },
+        "name": "บ้านช่างเหล็ก"
+    },
+    {
+        "id": "667834639931384",
+        "location": {
+            "city": "Kanchanaburi",
+            "country": "Thailand",
+            "latitude": 14.034905054541,
+            "longitude": 99.527626520968,
+            "street": "147 ม.11 ต.ปากแพรก อ.เมือง จ.กาญจนบุรี",
+            "zip": "71000"
+        },
+        "name": "ร้านบ้านช่างเหล็ก"
+    },
+    {
+        "id": "707504892595771",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.776916,
+            "longitude": 100.4391287
+        },
+        "name": "ร.ร.วัดช่างเหล็ก"
+    },
+    {
+        "id": "313037072176982",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773642970888,
+            "longitude": 100.45389160766,
+            "zip": "10170"
+        },
+        "name": "รร.วัดช่างเหล็ก กทม"
+    },
+    {
+        "id": "456889061051881",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.782912338775,
+            "longitude": 100.49096256088
+        },
+        "name": "แยกวัดช่างเหล็ก International Commercial Temple"
+    },
+    {
+        "id": "101879213487362",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773774639535,
+            "longitude": 100.45291185379,
+            "street": "วัดช่างเหล็ก"
+        },
+        "name": "น้ำแข็งใสเจ้แอ๋มเมียไอ้ตั้ม",
+        "phone": "0998204084"
+    },
+    {
+        "id": "636942516316758",
+        "location": {
+            "latitude": 10.770089859153,
+            "longitude": 99.002895997929
+        },
+        "name": "สวนทุเรียนเชาว์ช่างเหล็ก อ.ท่าแซะ จ.ชุมพร"
+    }
+]

@@ -1,0 +1,255 @@
+[
+    {
+        "id": "529006067162620",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.787077748624,
+            "longitude": 100.53304160622
+        },
+        "name": "หลังโรงเรียนช่างก่อสร้างดุสิต"
+    },
+    {
+        "id": "535888419844746",
+        "location": {
+            "city": "Nakhon Si Thammarat",
+            "country": "Thailand",
+            "latitude": 8.4556874,
+            "longitude": 99.9594998
+        },
+        "name": "ห้อกครูแผนกช่างก่อสร้าง วิทยาลัยเทคนิคนครศรีธรรมราช"
+    },
+    {
+        "id": "539662506059074",
+        "location": {
+            "city": "Nakhon Nayok",
+            "country": "Thailand",
+            "latitude": 14.2052635,
+            "longitude": 101.20599099
+        },
+        "name": "ห้องเรียน ช่างก่อสร้าง"
+    },
+    {
+        "id": "542716399200170",
+        "location": {
+            "city": "Nonthaburi",
+            "country": "Thailand",
+            "latitude": 13.87128749,
+            "longitude": 100.48413541
+        },
+        "name": "โรงเรียนช่างก่อสร้าง นนท"
+    },
+    {
+        "id": "544143018943470",
+        "location": {
+            "latitude": 8.3600129,
+            "longitude": 99.9165701
+        },
+        "name": "ข้างแผนกช่างก่อสร้างนิ"
+    },
+    {
+        "id": "550739961666702",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.748488127677,
+            "longitude": 100.67495394379
+        },
+        "name": "บ้าน มินิ ช่างก่อสร้างอุเทนถวาย"
+    },
+    {
+        "id": "554394178031890",
+        "location": {
+            "city": "Udon Thani",
+            "country": "Thailand",
+            "latitude": 17.4167,
+            "longitude": 102.75
+        },
+        "name": "แผนกวิชาช่างก่อสร้าง วิทยาลัยเทคนิคอุดรธานี"
+    },
+    {
+        "id": "781754828565739",
+        "location": {
+            "city": "Wangthong",
+            "country": "Thailand",
+            "latitude": 16.8657225,
+            "longitude": 100.39222675
+        },
+        "name": "กองร้อยทหารช่างก่อสร้างที่2 กองพันทหารช่างที่302"
+    },
+    {
+        "id": "700352116674025",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.091478347778,
+            "longitude": 100.62901306152
+        },
+        "name": "แผนกช่างก่อสร้าง"
+    },
+    {
+        "id": "700802036717297",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.305232614,
+            "longitude": 104.757857224
+        },
+        "name": "บ้านนายช่าง ก่อสร้างเปื้อนฝุ่นแต่กอดอุ่นกว่าคนมีตังค์"
+    },
+    {
+        "id": "714516435334159",
+        "location": {
+            "city": "Ban Photharam",
+            "country": "Thailand",
+            "latitude": 13.6842556,
+            "longitude": 99.8258317
+        },
+        "name": "บ้างช่างก่อสร้าง ที่มี ณ โอม ก่อสร้าง เป็นผู้ดูแลบ้านอย่างใกลชิต"
+    },
+    {
+        "id": "734265586593010",
+        "location": {
+            "city": "Muang Yasothon",
+            "country": "Thailand",
+            "latitude": 15.7891247,
+            "longitude": 104.1474388,
+            "zip": "35000"
+        },
+        "name": "แผนกวิชาช่างก่อสร้าง วิทยาลัยเทคนิคยโสธร"
+    },
+    {
+        "id": "736289346381824",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.358927629823,
+            "longitude": 100.56266834206
+        },
+        "name": "แผนกช่างก่อสร้าง - กสบ วิทยาลัยเทคนิคพระนครศรีอยุธยา"
+    },
+    {
+        "id": "744293022352962",
+        "location": {
+            "city": "Muang Chaiyapum",
+            "country": "Thailand",
+            "latitude": 15.812886331983,
+            "longitude": 102.01657985809
+        },
+        "name": "แผนก ช่างก่อสร้าง วิทยาลัยเทคนิชัยภูมิ"
+    },
+    {
+        "id": "748290155297937",
+        "location": {
+            "city": "Amphoe Muang Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.8659421,
+            "longitude": 100.3924523
+        },
+        "name": "กองร้อยทหารช่างก่อสร้างที่ 1 กองพันทหารช่างที่ 302"
+    },
+    {
+        "id": "755913167826739",
+        "location": {
+            "city": "อ.ขุนหาญ",
+            "latitude": 14.590073053961,
+            "longitude": 104.3931227388,
+            "street": "บ.ตาเอก"
+        },
+        "name": "หจก ชดา การช่าง - สำนักช่างก่อสร้าง"
+    },
+    {
+        "id": "758895950856113",
+        "location": {
+            "city": "Uttaradit",
+            "country": "Thailand",
+            "latitude": 17.611666150075,
+            "longitude": 100.11390291966
+        },
+        "name": "แผนกช่างก่อสร้าง"
+    },
+    {
+        "about": "รับเหมาก่อสร้าง ต่อเติมงาน \nสานงานต่อ ก่องานใหม่ ใส่ใจรายละเอียด\nราคาเป็นกันเอง",
+        "id": "767460740049327",
+        "location": {
+            "city": "Pak Chong",
+            "country": "Thailand",
+            "latitude": 14.7042,
+            "longitude": 101.413,
+            "street": "81 หมู่ 12 บ้านหนองน้อย ต.ปากช่อง อ.ปากช่อง",
+            "zip": "30130"
+        },
+        "name": "ช่างเดข รับเหมาก่อสร้างทั่วไป",
+        "phone": "0892841199"
+    },
+    {
+        "id": "768471849889915",
+        "location": {
+            "city": "Sansai",
+            "country": "Thailand",
+            "latitude": 18.761232294475,
+            "longitude": 99.013924164479
+        },
+        "name": "แผนกวิชาช่างก่อสร้าง วิทยาลัยเทคโนโลยีเอเชีย"
+    },
+    {
+        "id": "769755363121792",
+        "location": {
+            "city": "Tha Muang",
+            "country": "Thailand",
+            "latitude": 13.952897403333,
+            "longitude": 99.652349646667
+        },
+        "name": "แผนกช่างก่อสร้างวิทยาลัยการอาชีพกาญจนบุรี"
+    },
+    {
+        "id": "781068398635392",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.7091765,
+            "longitude": 100.3444873
+        },
+        "name": "แผนกช่างก่อสร้าง เทคโนย่านหนองแขม"
+    },
+    {
+        "id": "809336852453733",
+        "location": {
+            "city": "Amphoe Muang Lop Buri",
+            "country": "Thailand",
+            "latitude": 14.800097026667,
+            "longitude": 100.620709265
+        },
+        "name": "วิทยาลัยเทคนิคลพบุรี แผนกช่างก่อสร้าง คณะวิชาการก่อสร้าง"
+    },
+    {
+        "id": "828885547175217",
+        "location": {
+            "city": "Muang Nan",
+            "country": "Thailand",
+            "latitude": 18.7723395,
+            "longitude": 100.7627744
+        },
+        "name": "แผนกช่างก่อสร้าง วท.น่าน"
+    },
+    {
+        "id": "837155873042609",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.35,
+            "longitude": 100.55
+        },
+        "name": "ตึกช่างยนต์ที่ติดกับช่างก่อสร้างที่ตรงกับช่างอิเล็กทรอนิกส์"
+    },
+    {
+        "id": "853559774703475",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.441151287772,
+            "longitude": 101.05823651941
+        },
+        "name": "แผนกช่างก่อสร้าง เทคนิคสิงห์บุรี"
+    }
+]

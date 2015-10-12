@@ -1,0 +1,267 @@
+[
+    {
+        "id": "382385265302410",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 14.145221150688,
+            "longitude": 100.61704158783
+        },
+        "name": "ร้านสัก ช่างหรั่งประตูน้ำพระอิน"
+    },
+    {
+        "id": "386576081437496",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78486729882,
+            "longitude": 98.9831684003,
+            "zip": "50200"
+        },
+        "name": "ซุ้มสบาย ชาบูกระทะร้อน ประตูช้างเผือก"
+    },
+    {
+        "about": "รับเหมาต่อเติมบ้าน ที่จอดรถ ประตูเหล็กดัด งานช่างทุกชนิดไว้ใจเรา061-6099216",
+        "id": "387274611481362",
+        "location": {
+            "city": "Bang Bo",
+            "country": "Thailand",
+            "latitude": 13.5871801,
+            "longitude": 100.605278,
+            "street": "สมุทรปราการ",
+            "zip": "10560"
+        },
+        "name": "รับเหมาต่อเติมบ้าน ลานจอดรถ เหล็กดัด ประตู งานช่างทุกชนิด",
+        "phone": "0616099216"
+    },
+    {
+        "id": "388706644604208",
+        "location": {
+            "city": "Wang Wiset",
+            "country": "Thailand",
+            "latitude": 7.75043,
+            "longitude": 99.25843,
+            "street": "ถนน เพชรเกษม"
+        },
+        "name": "วัฒนาการช่างประตูเหล็ก"
+    },
+    {
+        "id": "375926699261001",
+        "location": {
+            "city": "ชุมพร",
+            "latitude": 10.5234351,
+            "longitude": 99.1559358,
+            "street": "17  ม.9  ต.ท่าแซะ  อ.ท่าแซะ"
+        },
+        "name": "ช่างชอบ โรงวงกบ ประตู หน้าต่าง",
+        "phone": "077651536"
+    },
+    {
+        "id": "395743470456736",
+        "location": {
+            "city": "U Thong",
+            "country": "Thailand",
+            "latitude": 14.376642680438,
+            "longitude": 99.899489194152,
+            "zip": "72160"
+        },
+        "name": "ร้านศรการช่างรับทำสแตนเลส ประตูม้วน ประตูรีโมทและ ทุกอย่างที่เกี่ยวกับเหล็ก"
+    },
+    {
+        "id": "401216776625679",
+        "location": {
+            "latitude": 8.661906,
+            "longitude": 99.90122866
+        },
+        "name": "ประตูช้างตก"
+    },
+    {
+        "id": "367395266729206",
+        "location": {
+            "latitude": 14.1509829,
+            "longitude": 100.6350291
+        },
+        "name": "สำนักงานช่าง บ้านราชพฤกษ์ ประตูน้ำพระอินทร์"
+    },
+    {
+        "id": "374410652668991",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.766025,
+            "longitude": 100.538845,
+            "street": "PHAHON YOTHIN 72"
+        },
+        "name": "ช่างศิลป์ - รางน้ำรับซ่อมประตู กระจกรถยนต์"
+    },
+    {
+        "id": "373715229385541",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79715,
+            "longitude": 98.98631
+        },
+        "name": "สูททรงสมัย สาขาประตูช้างเผือก"
+    },
+    {
+        "id": "369883723065181",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.794714211111,
+            "longitude": 98.987712722222
+        },
+        "name": "โรงแรมคุ้มสี่พญาแกรนด์ ประตูช้างเผือก"
+    },
+    {
+        "id": "367777279971985",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79519858865,
+            "longitude": 98.986510466877
+        },
+        "name": "ฮาเร็ม เจ้าสัวเคอิ้ง @นิรันดร์ ประตูช้างเผือก"
+    },
+    {
+        "id": "365472610133181",
+        "location": {
+            "city": "Nakhon Si Thammarat",
+            "country": "Thailand",
+            "latitude": 8.42162998,
+            "longitude": 99.971037363333
+        },
+        "name": "กาแฟดอยช้าง@ประตูลอด(ติดร้านป้าหนอม)"
+    },
+    {
+        "id": "365412956992687",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7903,
+            "longitude": 98.9817
+        },
+        "name": "ประตูช้างเผือก เวียงพิงค์เชียงใหม่"
+    },
+    {
+        "id": "363511493822517",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "ประตูช้างเผือก"
+        },
+        "name": "หนุ่มข้าวมันไก่ หน้าประตูช้างเผือก"
+    },
+    {
+        "id": "362805270466189",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.747372166667,
+            "longitude": 98.941790816667
+        },
+        "name": "ร้าน S\u0026p ตลาดประตูช้างเผือก"
+    },
+    {
+        "id": "358370434215010",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795140064516,
+            "longitude": 98.981440193548,
+            "zip": "50200"
+        },
+        "name": "บะหมี่เกี๊ยวกุ้งสด@ประตูช้างเผือก"
+    },
+    {
+        "id": "403480119777178",
+        "location": {
+            "city": "Lamphun",
+            "country": "Thailand",
+            "latitude": 18.586388888889,
+            "longitude": 99.011944444444
+        },
+        "name": "12 เมษา  พิธีทำบุญสืบชะตาเมือง 4 มุมเมือง จุดที่ 3 ประตูช้างสี"
+    },
+    {
+        "id": "408823669199122",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79961012,
+            "longitude": 98.98308717,
+            "zip": "50200"
+        },
+        "name": "ชาบู กระทะร้อน (ประตูช้างเผือก)"
+    },
+    {
+        "about": "จำหน่าย  ติดตั้ง ซ่อม ประตูอัตโนมัติ  ",
+        "id": "409490115909712",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.8440847,
+            "longitude": 100.6502991,
+            "street": "คู้บอน รามอินทรา",
+            "zip": "10510"
+        },
+        "name": "ช่างปั่น ประตูรีโมท คงศักดิ์ แสวงนิล 0993156037",
+        "phone": "0993156037"
+    },
+    {
+        "id": "411110565730516",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.79549747151,
+            "longitude": 98.984410134423
+        },
+        "name": "ปาร์ตี้ บุพเฟ่ต์ At ประตูช้างเผือก"
+    },
+    {
+        "id": "361259863953337",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795802001859,
+            "longitude": 98.98550690161,
+            "zip": "50200"
+        },
+        "name": "ผัดไทยห่อไข่ ประตูช้างเผือก"
+    },
+    {
+        "id": "335093789852775",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.794956621622,
+            "longitude": 98.985984391892,
+            "zip": "50200"
+        },
+        "name": "เย็นตาโฟ ประตูช้างเผือก"
+    },
+    {
+        "id": "338795742878861",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.969995670394,
+            "longitude": 102.11247593584,
+            "zip": "30000"
+        },
+        "name": "อู่เฉลิมการช่าง@ประตูผี"
+    },
+    {
+        "id": "343966252432740",
+        "location": {
+            "city": "Muang Phayao",
+            "country": "Thailand",
+            "latitude": 19.171836794163,
+            "longitude": 99.90500561893
+        },
+        "name": "อู่ช่างจีด ปั้มเอสโซ ประตูชัย พะเยา"
+    }
+]

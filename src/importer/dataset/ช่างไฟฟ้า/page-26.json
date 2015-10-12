@@ -1,0 +1,76 @@
+[
+    {
+        "id": "1675873102624521",
+        "location": {
+            "city": "Suphan Buri",
+            "country": "Thailand"
+        },
+        "name": "นักศึกษาช่างไฟฟ้ากำลัง"
+    },
+    {
+        "id": "637572302953495",
+        "location": {
+            "city": "Pathum Thani",
+            "country": "Thailand",
+            "latitude": 13.965939300357,
+            "longitude": 100.53564814431,
+            "street": "หมู่บ้านพฤกษาบี คลองหลวง",
+            "zip": "12120"
+        },
+        "name": "ช่างไฟฟ้า ประปา ประจำบ้าน",
+        "phone": "081-7917598"
+    },
+    {
+        "id": "903099553048261",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7923703,
+            "longitude": 98.9831017
+        },
+        "name": "ถิ่นช่างไฟฟ้า"
+    },
+    {
+        "id": "715789641819665",
+        "location": {
+            "city": "Lampang",
+            "country": "Thailand",
+            "latitude": 18.28855865,
+            "longitude": 99.48330017
+        },
+        "name": "แผนกช่างไฟฟ้ากำลัง วิทยาลัยเทคนิคลำปาง"
+    },
+    {
+        "id": "576251072434898",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.979944857143,
+            "longitude": 102.08537019048
+        },
+        "name": "แผนกช่างไฟฟ้ากำ"
+    },
+    {
+        "id": "610052512439638",
+        "location": {
+            "city": "เพชรบุรี",
+            "latitude": 12.7261675,
+            "longitude": 99.831895
+        },
+        "name": "อู่รถเก่า อะไหร่เทพ - ช่างไฟฟ้า"
+    },
+    {
+        "id": "619782798156601",
+        "location": {
+            "city": "Watthana Nakhon",
+            "country": "Thailand",
+            "latitude": 13.759814913983,
+            "longitude": 102.32581190765
+        },
+        "name": "ช่างไฟฟ้ากำลัง วิทลัยเทคนิคสระแก้ว"
+    },
+    {
+        "id": "1486682101622991",
+        "name": "ช่างไฟฟ้า โคราช"
+    }
+]

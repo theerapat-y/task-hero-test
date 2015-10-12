@@ -1,0 +1,275 @@
+[
+    {
+        "id": "288334051290608",
+        "location": {
+            "latitude": 7.4897249,
+            "longitude": 100.1949375,
+            "street": "28 ม.5 ต.จองถนน อ.เขาชัยสน จ.พัทลุง 93130"
+        },
+        "name": "ร้านช่างปาน เฟอร์นิเจอร์",
+        "phone": "074843829"
+    },
+    {
+        "id": "173236142863198",
+        "location": {
+            "city": "Nong Sua",
+            "country": "Thailand",
+            "latitude": 14.060177123187,
+            "longitude": 100.84733773032
+        },
+        "name": "โรงเฟอร์นิเจอร์ช่างสารคลอง11"
+    },
+    {
+        "id": "295987020580210",
+        "location": {
+            "latitude": 15.3988961,
+            "longitude": 99.8075611
+        },
+        "name": "โรงงานช่างป็อดเฟอร์นิเจอร์"
+    },
+    {
+        "id": "298662290280207",
+        "location": {
+            "city": "Chantaburi",
+            "country": "Thailand",
+            "latitude": 12.61677,
+            "longitude": 102.139165,
+            "street": "Thanon Thaluang"
+        },
+        "name": "หมู่ 2 ซอยเฟอร์นิเจอร์ช่างหิน ต.จันทนิมิต"
+    },
+    {
+        "id": "298732866823352",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.837350759278,
+            "longitude": 99.035505206773,
+            "zip": "50210"
+        },
+        "name": "บ้านช่างอินทร์เฟอร์นิเจอร์",
+        "phone": "053397712"
+    },
+    {
+        "id": "309075902573508",
+        "location": {
+            "city": "Satun",
+            "country": "Thailand",
+            "latitude": 6.6439766949105,
+            "longitude": 100.07915290082
+        },
+        "name": "โรงงานช่างกระรอกเฟอร์นิเจอร์"
+    },
+    {
+        "id": "327865994016078",
+        "location": {
+            "city": "Amphoe Muang Phichit",
+            "country": "Thailand",
+            "latitude": 16.425827778463,
+            "longitude": 100.3606337838
+        },
+        "name": "บ้านช่างพงษ์ เฟอร์นิเจอร์"
+    },
+    {
+        "id": "356914034432085",
+        "location": {
+            "city": "Chonburi",
+            "country": "Thailand",
+            "latitude": 13.32089,
+            "longitude": 101.13177,
+            "street": "89/6 หมู่1 ต.บ้านบึง อ.บ้านบึง. จ.ชลบุรี",
+            "zip": "20170"
+        },
+        "name": "ช่างท๊อปเฟอร์นิเจอร์.",
+        "phone": "0805173939"
+    },
+    {
+        "id": "361298397275481",
+        "location": {
+            "city": "Phatthalung",
+            "country": "Thailand",
+            "latitude": 7.638584,
+            "longitude": 100.062031
+        },
+        "name": "ช่างไก่ เฟอร์นิเจอร์ มือขั้นเทพ"
+    },
+    {
+        "id": "369043839817130",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.822529,
+            "longitude": 100.488817,
+            "zip": "11000"
+        },
+        "name": "โรงงานเฟอร์นิเจอร์(ช่างทิว)"
+    },
+    {
+        "id": "686337804745635",
+        "location": {
+            "city": "Ban Dan Chang",
+            "country": "Thailand",
+            "latitude": 14.8311055,
+            "longitude": 99.6910395,
+            "street": "อ.ด่านช้าง"
+        },
+        "name": "ด่านช้างเฟอร์นิเจอร์"
+    },
+    {
+        "id": "1184134504947143",
+        "location": {
+            "city": "Amphoe Mae Sai",
+            "country": "Thailand",
+            "latitude": 20.43888997,
+            "longitude": 99.94005178,
+            "street": "185 ม.6 ต.เกาะช้าง อ.แม่ยาย จ.เชียงราย",
+            "zip": "57130"
+        },
+        "name": "ร้านเฟอร์นิเจอร์ป่าซาง"
+    },
+    {
+        "about": "ราคาเป็นกันเอง ไม้เนื้อดี เนื้อสวย ส่งถึงที่",
+        "id": "171411099684038",
+        "location": {
+            "latitude": 14.4667,
+            "longitude": 100.117,
+            "street": "283 หมู่.6 ตำบลด่านช้าง อำเภอด่านช้าง จังหวัดสุพรรณบุรี",
+            "zip": "72180"
+        },
+        "name": "แพท เฟอร์นิเจอร์รากไม้ - ปรักประดู่",
+        "phone": "0843173341"
+    },
+    {
+        "id": "1508370732765104",
+        "location": {
+            "city": "Nong Ri",
+            "latitude": 13.3276986,
+            "longitude": 101.0131045
+        },
+        "name": "โรงงาน ช่างเช้าเฟอร์นิเจอร์"
+    },
+    {
+        "id": "392457687474609",
+        "location": {
+            "latitude": 14.5909175,
+            "longitude": 100.3153045
+        },
+        "name": "@ ร้านช่างณรงค์ เฟอร์นิเจอร์"
+    },
+    {
+        "id": "171266073014809",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.5795217,
+            "longitude": 99.0642989,
+            "street": "ต.มะเขือแจ้"
+        },
+        "name": "โรงงานช่างหลวงเฟอร์นิเจอร์"
+    },
+    {
+        "about": "รับทำเฟอร์นิเจอร์ตกแต่งภายใน-ภายนอกการันตีด้วยการทำงาเกือบ30ปีราคากันเองรับทำทุกจังหวัด",
+        "description": "รับทำเฟอร์นิเจอร์ ตกแต่งภายใน-ภายนอก ทั้งมีแบบและไม่มีแบบ มีความรับผิดชอบ ไม่ทิ้งงาน การันตีฝีมือการทำงานกว่า 30 ปี ราคากันเอง รับทำทุกจังหวัด\nสนใจโทร 089-5786371 ,  0935286281\nIDLINE: nateefy\nIDLINE: popangmini1\nEmail : popang_patcharin@hotmail.com\nFacebook: หนุ่ม นที  \nFacebook: cosmo Renn'y",
+        "emails": [
+            "popang_patcharin@hotmail.com"
+        ],
+        "id": "434394283431836",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.9793596,
+            "longitude": 102.0822372,
+            "street": "264 ม.2 ต.หนองกระทุ่ม อ.เมือง จ.นครราชสีมา",
+            "zip": "30000"
+        },
+        "name": "ช่างหนุ่ม เฟอร์นิเจอร์",
+        "phone": "089-5786371"
+    },
+    {
+        "id": "138788306314057",
+        "location": {
+            "city": "Payuha",
+            "country": "Thailand",
+            "latitude": 15.440497,
+            "longitude": 100.144221
+        },
+        "name": "ร้านช่างช้างเฟอร์นิเจอร์"
+    },
+    {
+        "id": "590658200944732",
+        "location": {
+            "city": "Chantaburi",
+            "country": "Thailand",
+            "latitude": 12.61677,
+            "longitude": 102.139165,
+            "street": "Thanon Thaluang"
+        },
+        "name": "ปากซอยเฟอร์นิเจอร์ช่างหิน ม.2 ต.จันทนิมิต"
+    },
+    {
+        "id": "103405499857196",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.711208333333,
+            "longitude": 100.578555
+        },
+        "name": "ร้านช่างมืดเฟอร์นิเจอร์"
+    },
+    {
+        "id": "110535072620588",
+        "location": {
+            "city": "Ban Laem Chabang",
+            "country": "Thailand",
+            "latitude": 13.0353492,
+            "longitude": 100.93535766,
+            "street": "69/2 ม.4 ต.บางละมุง อ.บางละมุง จ.ชลบุรี",
+            "zip": "20150"
+        },
+        "name": "ร้านช่างช้างเฟอร์นิเจอร์ ชลบุรี"
+    },
+    {
+        "id": "130949370343203",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.802423,
+            "longitude": 100.580429
+        },
+        "name": "สมบรูณ์ การช่างเฟอร์นิเจอร์"
+    },
+    {
+        "id": "141675329337968",
+        "location": {
+            "city": "Nong Bua Lamphu",
+            "country": "Thailand",
+            "latitude": 17.30253,
+            "longitude": 102.1344,
+            "street": "65/1 ม.13 ต.ด่านช้าง อ.นากลาง จ.หนองบัวลำภู",
+            "zip": "39170"
+        },
+        "name": "อารดา เฟอร์นิเจอร์",
+        "phone": "0801931112"
+    },
+    {
+        "id": "149135401912848",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.916429893593,
+            "longitude": 100.39839226762,
+            "zip": "11110"
+        },
+        "name": "ร้านช่างอินเฟอร์นิเจอร์"
+    },
+    {
+        "id": "149793435215080",
+        "location": {
+            "city": "Nakhon Sawan",
+            "country": "Thailand",
+            "latitude": 15.827189109843,
+            "longitude": 100.08065585196
+        },
+        "name": "บ้านช่างโนตเฟอร์นิเจอร์"
+    }
+]

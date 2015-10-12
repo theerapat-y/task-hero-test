@@ -1,0 +1,261 @@
+[
+    {
+        "id": "575622092567084",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.8013306,
+            "longitude": 98.9859336
+        },
+        "name": "ราดหน้าประตูช้างเผือก ริมถนน"
+    },
+    {
+        "id": "585742124794965",
+        "location": {
+            "city": "Nong Muang",
+            "country": "Thailand",
+            "latitude": 15.2191599,
+            "longitude": 100.6633613
+        },
+        "name": "ร้านช่างอ๊อดประตูเหล็ก"
+    },
+    {
+        "id": "589729737719997",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795854477259,
+            "longitude": 98.985410272419,
+            "zip": "50200"
+        },
+        "name": "สุกี้ โคคา - ข้าวขาหมู ประตูช้างเผือก"
+    },
+    {
+        "id": "600999473295742",
+        "location": {
+            "city": "Tha Sala",
+            "country": "Thailand",
+            "latitude": 8.661628996524,
+            "longitude": 99.905500913827
+        },
+        "name": "บ้านประตูช้างตก"
+    },
+    {
+        "id": "606200326067048",
+        "location": {
+            "city": "Aranyaprathet",
+            "country": "Thailand",
+            "latitude": 13.681683597092,
+            "longitude": 102.49709351261,
+            "zip": "27120"
+        },
+        "name": "ช่่างยา ประตูเหล็ก ฟากห้วย"
+    },
+    {
+        "id": "434662210029768",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7957463,
+            "longitude": 98.9851439
+        },
+        "name": "ข้าวขาหมูฮ่องเต้ ประตูช้างเผือก"
+    },
+    {
+        "id": "607232552668092",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795805606077,
+            "longitude": 98.985640634875,
+            "zip": "50200"
+        },
+        "name": "ลานอาหารนานาชาติ ประตูช้างเผือก เชียงใหม่"
+    },
+    {
+        "id": "418258468224865",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.722791,
+            "longitude": 100.452105
+        },
+        "name": "ประตูช้าง @SIAM University"
+    },
+    {
+        "id": "420124894817217",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.970541047782,
+            "longitude": 102.10795786232
+        },
+        "name": "ร้านพยงค์การช่าง ที่ไฮโซย่านประตูผี"
+    },
+    {
+        "id": "421000451385409",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.993702914067,
+            "longitude": 100.55246405303
+        },
+        "name": "ร้านตัดผมช่างอินดี้ ประตูน้ำบางกะดี"
+    },
+    {
+        "id": "422745327817486",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.748254021647,
+            "longitude": 98.925061309802
+        },
+        "name": "ประตูช้างค้ำ อุทยานหลวงราชพฤกษ์"
+    },
+    {
+        "id": "424273904305100",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.8525795,
+            "longitude": 99.0964066
+        },
+        "name": "หาประตูช้างเผือก"
+    },
+    {
+        "id": "426903874177310",
+        "location": {
+            "city": "ทุ่งสง",
+            "latitude": 8.1290796033142,
+            "longitude": 99.627928733826
+        },
+        "name": "บ้าน ช่างไก่ ประตูม้วน"
+    },
+    {
+        "id": "427120987460548",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.814361572266,
+            "longitude": 100.29998779297
+        },
+        "name": "ประตูโคกช้างค่ายสมเด็จพระเอกาทศรถ"
+    },
+    {
+        "id": "427809040592508",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795829997415,
+            "longitude": 98.985218983236
+        },
+        "name": "ส้มตำประตูช้างเผือก"
+    },
+    {
+        "id": "428403107217483",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.80311590386,
+            "longitude": 98.976468961478,
+            "zip": "50300"
+        },
+        "name": "ข้าวมันไก่ประตูช้างเผือก สาขา 2"
+    },
+    {
+        "id": "430727257016718",
+        "location": {
+            "city": "Surat Thani",
+            "country": "Thailand",
+            "latitude": 9.3861762656187,
+            "longitude": 99.181423198547
+        },
+        "name": "ร้านช่างเล็ก ประตูเหล็ก ไชยา"
+    },
+    {
+        "about": "เปิดประตูรถยนต์เปิดตู้เซฟทำกุญแจรถยนต์ฝังชิฟ",
+        "id": "432242626905079",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.81103,
+            "longitude": 100.01429,
+            "street": "นครปฐม",
+            "zip": "73000"
+        },
+        "name": "ช่างเปิดประตูรถยนต์ ตู้เซฟ โทร0895024977 ดำเนินกำแพงแสน ดอนตูม สามพราน",
+        "phone": "0895024977"
+    },
+    {
+        "id": "434100820022242",
+        "location": {
+            "city": "สะบ้าย้อย",
+            "latitude": 6.634369995,
+            "longitude": 101.018409055,
+            "street": "ระไมล์"
+        },
+        "name": "ช่างกร ระไมล์,รับทำงานเหล็ก กันสาดประตูหน้าต่างเกี่ยวกับเหล็กทุกชนิด",
+        "phone": "0860323563"
+    },
+    {
+        "id": "414009068775855",
+        "location": {
+            "city": "Ban Om Noi",
+            "country": "Thailand",
+            "latitude": 13.70591,
+            "longitude": 100.30275,
+            "street": "61/15 ซ.เทศบาลอ้อมใหญ่8 ถ.เพชรเกษม ต.ไร่ขิง อ.สามพราน จ.นครปฐม"
+        },
+        "name": "ร้านศุภชัย - ช่างไก่ รับทำ ประตูเหล็กม้วน ประตู้ยืด"
+    },
+    {
+        "id": "434924566662278",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.795738333333,
+            "longitude": 98.985938333333
+        },
+        "name": "บัวลอยเมืองนนท์ ประตูช้างเผือก"
+    },
+    {
+        "id": "435307506496333",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.798248521292,
+            "longitude": 98.970659869202
+        },
+        "name": "ธนาคารออมสิน สาขาประตูช้างเผือก"
+    },
+    {
+        "id": "437245863054766",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.90928158,
+            "longitude": 102.01265001
+        },
+        "name": "ร้านช่างอาร์มซ่อมมอไซค์หลังมทส.ประตู 4"
+    },
+    {
+        "id": "437468839681497",
+        "location": {
+            "city": "Mae Taeng",
+            "country": "Thailand",
+            "latitude": 19.06383,
+            "longitude": 98.93947
+        },
+        "name": "ข้าวขาหมู ประตูช้างเผือก"
+    },
+    {
+        "id": "441151032616715",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.807637116887,
+            "longitude": 100.30097460384
+        },
+        "name": "ประตูค่ายฝั่งโคกช้าง"
+    }
+]

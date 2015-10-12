@@ -1,0 +1,261 @@
+[
+    {
+        "id": "900540763367900",
+        "location": {
+            "city": "แม่สอด",
+            "latitude": 16.645494824274,
+            "longitude": 98.608818054199
+        },
+        "name": "ร้านกระจกช่างดล แม่กุเหนือม.8"
+    },
+    {
+        "id": "908933599168507",
+        "location": {
+            "latitude": 14.8951463,
+            "longitude": 103.6704783
+        },
+        "name": "บ้านช่างชัย ทีมงานอนุบาลกระจก M.c"
+    },
+    {
+        "id": "586657348103605",
+        "location": {
+            "city": "Phangnga",
+            "country": "Thailand",
+            "latitude": 8.4636729,
+            "longitude": 98.5343956,
+            "street": "57 ถ.บริรักษ์บำรุง ต.ท้ายช้าง อ.เมือง จ.พังงา"
+        },
+        "name": "ตี๋ กระจก \u0026 อลูมิเนียม",
+        "phone": "0835935799"
+    },
+    {
+        "id": "909520682433889",
+        "location": {
+            "city": "Dan Khun Thot",
+            "country": "Thailand",
+            "latitude": 15.213228268961,
+            "longitude": 101.76380395889
+        },
+        "name": "ร้านศุภชัยกระจก ช่างเอก"
+    },
+    {
+        "id": "1608527349372256",
+        "location": {
+            "city": "Amphoe Phu Wiang",
+            "country": "Thailand",
+            "latitude": 16.6167,
+            "longitude": 102.367,
+            "zip": "40150"
+        },
+        "name": "รับเหมาทำฝ้าเพดาน กระจก อลูมีเนียม ช่างบ่าวบ้านส้อง",
+        "phone": "0913784185"
+    },
+    {
+        "id": "1513233868914637",
+        "location": {
+            "latitude": 16.6497608,
+            "longitude": 98.6137976
+        },
+        "name": "บ้านกระจกช่างดล"
+    },
+    {
+        "id": "1519232798350512",
+        "location": {
+            "city": "Song Phi Nong",
+            "country": "Thailand",
+            "latitude": 14.232847766667,
+            "longitude": 99.998247066667
+        },
+        "name": "บ้านช่างเอ็มรับติดตั่งกระจก"
+    },
+    {
+        "id": "1520651904885025",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.69877,
+            "longitude": 100.52258,
+            "street": "5|5หมู่6",
+            "zip": "10120"
+        },
+        "name": "สมาคมรวมช่างฝ้า มิเนียมและกระจก",
+        "phone": "0843228328"
+    },
+    {
+        "id": "1545581835683763",
+        "location": {
+            "city": "Song Phi Nong",
+            "country": "Thailand",
+            "latitude": 14.2327694,
+            "longitude": 99.9983646
+        },
+        "name": "บ้านช่างเอ็มรับติดตั่งกระจกทุกชนิด"
+    },
+    {
+        "id": "1557040757875613",
+        "location": {
+            "city": "Song Phi Nong",
+            "country": "Thailand",
+            "latitude": 14.23321835,
+            "longitude": 99.998712428571
+        },
+        "name": "บ้านช่างเอ็มอลูมิเนียมรับติดตั่งกระจกทุกชนิด"
+    },
+    {
+        "id": "1568748133401307",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.714802906213,
+            "longitude": 100.28435043991
+        },
+        "name": "ร้านศรีเจริญการช่าง รับติดตั้งกระจก อลูมิเนียม"
+    },
+    {
+        "id": "1572661492950561",
+        "location": {
+            "city": "Hua Hin",
+            "country": "Thailand",
+            "latitude": 12.5784258,
+            "longitude": 99.9533581
+        },
+        "name": "Sanguanchai Glass \u0026 Interior Design ศูนย์รวมช่างกระจกหน้าตาดีที่สุด"
+    },
+    {
+        "about": "บริการติดตั้ง ประตูหน้าต่าง กระจก อลูมิเนียม",
+        "id": "1593207560930480",
+        "location": {
+            "city": "Nonthaburi",
+            "country": "Thailand",
+            "latitude": 13.8665152,
+            "longitude": 100.4799805,
+            "street": "76/4",
+            "zip": "11000"
+        },
+        "name": "ช่างแดง' บริการติดตั้ง ประตูหน้าต่าง กระจก อลูมิเนียม",
+        "phone": "0894560893"
+    },
+    {
+        "id": "1601758540069696",
+        "location": {
+            "city": "Bang Kham",
+            "country": "Thailand",
+            "latitude": 13.875555923867,
+            "longitude": 101.31200395525
+        },
+        "name": "ร้านกระจกช่างจำรัส ห้องแถวสะแกงาม"
+    },
+    {
+        "id": "1509705469243022",
+        "location": {
+            "city": "Khao Phanom",
+            "country": "Thailand",
+            "latitude": 8.5036152,
+            "longitude": 99.0928454
+        },
+        "name": "ีร้านช่างเล็กกระจก  อลูมิเนียม  ตั้งอยู่ข้างโรงเรียนชัยบุรีพิทยาคม"
+    },
+    {
+        "id": "1609015372663361",
+        "location": {
+            "city": "นครปฐม",
+            "latitude": 13.979148999206,
+            "longitude": 100.22312197834,
+            "street": "คลองนกกระทุง บางเลน นครปฐม"
+        },
+        "name": "บ้านช่างทิน รับพ่นสี ปิดทอง ติดพลอยและติดกระจก และงานสีต่างๆ"
+    },
+    {
+        "id": "1612272782320133",
+        "location": {
+            "city": "Plaeng Yao",
+            "country": "Thailand",
+            "latitude": 13.606507963455,
+            "longitude": 101.25254820981
+        },
+        "name": "ร้านกระจกช่างแดง"
+    },
+    {
+        "id": "1614851642092234",
+        "location": {
+            "city": "Dan Khun Thot",
+            "country": "Thailand",
+            "latitude": 15.211664982202,
+            "longitude": 101.7641043663
+        },
+        "name": "ร้านศุภชัยกระจก ช่างเอก"
+    },
+    {
+        "id": "1625974764283451",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.8030224,
+            "longitude": 100.3317075
+        },
+        "name": "ร้านช่างแกะ กระจกรถยนต์"
+    },
+    {
+        "id": "1642022839344087",
+        "location": {
+            "city": "Bangsabhan",
+            "country": "Thailand",
+            "latitude": 11.25023054,
+            "longitude": 99.44152081
+        },
+        "name": "ร้านกระจกบ้านช่างอั๋น"
+    },
+    {
+        "id": "1649205728628520",
+        "location": {
+            "city": "Amphoe Klaeng",
+            "country": "Thailand",
+            "latitude": 12.7780178,
+            "longitude": 101.7336071,
+            "street": "112  หมู่  8   ต. คลองปูน  อ.  แกลง  จ.  ระยอง",
+            "zip": "21170"
+        },
+        "name": "ร้านกระจกช่างหนุ่มอลูมิเนียม"
+    },
+    {
+        "id": "1674992802724662",
+        "location": {
+            "city": "Amphoe Ko Samui",
+            "country": "Thailand",
+            "latitude": 9.4716903,
+            "longitude": 100.0511105
+        },
+        "name": "ร้านกระจก ช่างวุฒิ"
+    },
+    {
+        "id": "1683339088563645",
+        "location": {
+            "city": "Amphoe Klaeng",
+            "country": "Thailand",
+            "latitude": 12.778397,
+            "longitude": 101.73329534
+        },
+        "name": "ร้านกระจกช่างหนุ่มอลูมิเนียม"
+    },
+    {
+        "id": "1828343390724498",
+        "location": {
+            "city": "Nakhon Pathom",
+            "country": "Thailand",
+            "latitude": 13.8610893,
+            "longitude": 100.0843651
+        },
+        "name": "สัญญาการช่าง รับทำฝ้า กระจก อลูมิเนียม"
+    },
+    {
+        "id": "1414978108782863",
+        "location": {
+            "city": "Phetchaburi",
+            "country": "Thailand",
+            "latitude": 13.40595704,
+            "longitude": 99.97437426,
+            "zip": "75000"
+        },
+        "name": "บ้านช่างเด่น กระจก อลูมิเนียม"
+    }
+]

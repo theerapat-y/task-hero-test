@@ -1,0 +1,274 @@
+[
+    {
+        "id": "211752148905992",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.79053746332,
+            "longitude": 100.22429912897,
+            "zip": "65000"
+        },
+        "name": "ทรัพย์เจริญเครื่องมือช่าง"
+    },
+    {
+        "id": "208035166060518",
+        "location": {
+            "city": "Nakhon Lampang",
+            "country": "Thailand",
+            "latitude": 18.278356789127,
+            "longitude": 99.477780468462,
+            "street": "แยกดอนปาน ต.สบตุ๋ย อ.เมือง จ.ลำปาง",
+            "zip": "52100"
+        },
+        "name": "ลำปางเครื่องมือช่าง",
+        "phone": "054219106"
+    },
+    {
+        "id": "201452653279700",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.750982687276,
+            "longitude": 100.48406126525,
+            "zip": "10700"
+        },
+        "name": "โรงฝึกงานเครื่องยนต์ โรงเรียนช่างกรมอู่ทหารเรือ"
+    },
+    {
+        "id": "185753321555610",
+        "location": {
+            "city": "Ban Tak",
+            "country": "Thailand",
+            "latitude": 17.04507051343,
+            "longitude": 99.073338278445,
+            "street": "ประเทศไทย",
+            "zip": "63120"
+        },
+        "name": "ร้านเบิ่มเครื่องมือช่าง",
+        "phone": "055591876"
+    },
+    {
+        "id": "148689448596947",
+        "location": {
+            "city": "Nakhon Ratchasima",
+            "country": "Thailand",
+            "latitude": 14.994868129026,
+            "longitude": 102.08272800334,
+            "zip": "30000"
+        },
+        "name": "ร้านกอบชัยเครื่องมือช่าง"
+    },
+    {
+        "id": "806026416093113",
+        "location": {
+            "city": "Khlong Tan",
+            "country": "Thailand",
+            "latitude": 17.160999548522,
+            "longitude": 99.860164630753,
+            "zip": "64120"
+        },
+        "name": "ศรีชลเครื่องมือช่าง"
+    },
+    {
+        "id": "783014478426285",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 6.9490083333333,
+            "longitude": 100.47229666667,
+            "zip": "90250"
+        },
+        "name": "ร้านเพิ่มพูลทรีพย์พาณิชย์ จำหน่ายอุปกรณ์เครื่องมือช่างทุกชนิด ฮาร์ดแวร์"
+    },
+    {
+        "id": "637745822953752",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.807079172187,
+            "longitude": 98.960120617778,
+            "street": "หน้า เทสโก้ โลตัส เอ็กซ์เพลส ช่างเคี่ยน",
+            "zip": "50300"
+        },
+        "name": "ข้าวแกงนายภูและข้าวต้มทรงเครื่อง",
+        "phone": "0864104103"
+    },
+    {
+        "id": "144265399080549",
+        "location": {
+            "city": "Rayong",
+            "country": "Thailand",
+            "latitude": 12.682314744724,
+            "longitude": 101.28787279129
+        },
+        "name": "บ้านพักช่างเครื่องเสียง"
+    },
+    {
+        "id": "217686248385859",
+        "location": {
+            "city": "Ubon Ratchathani",
+            "country": "Thailand",
+            "latitude": 15.251727538598,
+            "longitude": 104.82980707627
+        },
+        "name": "ชุมชนช่างเครื่องบิน"
+    },
+    {
+        "id": "213293098834924",
+        "location": {
+            "city": "Amphoe Muang Suphan Buri",
+            "country": "Thailand",
+            "latitude": 14.5547295,
+            "longitude": 100.2017075,
+            "street": "หมู่บ้านลาดตะโก"
+        },
+        "name": "อู่ซ่อมรถและเครื่องใช้ทั่วไป-ช่างถอดบ้านลาดตะโก"
+    },
+    {
+        "id": "194206120774350",
+        "location": {
+            "city": "Songkhla",
+            "country": "Thailand",
+            "latitude": 7.164643927909,
+            "longitude": 100.60501018584
+        },
+        "name": "ณบริเวณศูนย์เครื่องมือจักรกล อบจ.เขารูปช้าง"
+    },
+    {
+        "id": "189666591224994",
+        "location": {
+            "city": "Tha Rong",
+            "country": "Thailand",
+            "latitude": 15.657685834381,
+            "longitude": 101.11064056025
+        },
+        "name": "ร้านอมรเครื่องมือช่าง"
+    },
+    {
+        "id": "182503691797358",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.373898,
+            "longitude": 100.485359
+        },
+        "name": "ในเครื่องถ่ายเอกสารห้องกองช่างเทศบาล ต.มหาพราหมณ์"
+    },
+    {
+        "about": "รับผลิตเครื่องมือการเกตรทุกชนิด",
+        "id": "168069900201684",
+        "location": {
+            "city": "Lop Buri",
+            "country": "Thailand",
+            "latitude": 14.8,
+            "longitude": 100.617,
+            "street": "145/1ต.หนองม่วง อ.หนองม่วง จ.ลพบุรี",
+            "zip": "15170"
+        },
+        "name": "ทำเครื่องมือการเกตรทุกชนิดอู่วสันต์การช่าง",
+        "phone": "089-0833031"
+    },
+    {
+        "id": "159728417518362",
+        "location": {
+            "city": "Ratchaburi",
+            "country": "Thailand",
+            "latitude": 13.545926,
+            "longitude": 99.823127
+        },
+        "name": "ตอนเครื่องมือช่าง ร้อย.ช.ซบร.หนัก"
+    },
+    {
+        "id": "155292624645647",
+        "location": {
+            "city": "Pho Prathap Chang",
+            "country": "Thailand",
+            "latitude": 16.314775091596,
+            "longitude": 100.27375713922,
+            "street": "147/9  ม.5  ต.โพธิ์ประทับช้าง  อ.โพธิ์ประทับช้าง"
+        },
+        "name": "ฐานที่มั่น ช่างเอ้ เครื่องจักรกล",
+        "phone": "0872000401"
+    },
+    {
+        "id": "146791318857350",
+        "location": {
+            "city": "Amphoe Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0112926,
+            "longitude": 100.4310288
+        },
+        "name": "ร้าน เอสดีดีการประปาและเครื่องมือช่างและอุปกรอาทแวร์ทุกชิด"
+    },
+    {
+        "id": "123241281115845",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.682697915278,
+            "longitude": 100.42546799747,
+            "zip": "10150"
+        },
+        "name": "ร้านเครื่องเสียง ช่างสน คนเดิม"
+    },
+    {
+        "id": "139727539700101",
+        "location": {
+            "city": "Amphoe Tha Bo",
+            "country": "Thailand",
+            "latitude": 17.845,
+            "longitude": 102.584
+        },
+        "name": "อุ่เซอน์วิส ช่างเปิ้ลเครื่องเย็น เสี่ยติ๊กการค้า"
+    },
+    {
+        "id": "138648822906653",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 6.966707,
+            "longitude": 100.515624
+        },
+        "name": "บำรุงรักษ์เทคนิคและเครื่องช่าง"
+    },
+    {
+        "id": "137442179754101",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.824003045278,
+            "longitude": 99.050026090487,
+            "zip": "50210"
+        },
+        "name": "อู่ช่างเครื่อง Isuzu มาตรฐานญี่ปุ่น By พรเทพ"
+    },
+    {
+        "id": "136607373180807",
+        "location": {
+            "latitude": 13.57257,
+            "longitude": 99.74922
+        },
+        "name": "กองรักษาการณ์กองพันทหารช่างเครื่องมือพิเศษ"
+    },
+    {
+        "id": "135867779934642",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.70813927,
+            "longitude": 100.28147412,
+            "zip": "73160"
+        },
+        "name": "หจก.สหส่งเสริม - เครื่องมือช่าง"
+    },
+    {
+        "id": "135343733235396",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.793568,
+            "longitude": 98.9904
+        },
+        "name": "ล่ามช้าง พระเครื่อง"
+    }
+]

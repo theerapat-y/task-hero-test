@@ -1,0 +1,259 @@
+[
+    {
+        "id": "443671895773939",
+        "location": {
+            "city": "Hat Yai",
+            "country": "Thailand",
+            "latitude": 7.0005936082518,
+            "longitude": 100.4998701253,
+            "zip": "90110"
+        },
+        "name": "ร้านเสริมสวย บลูม ประตู109 - ช่างพี่เอิร์น"
+    },
+    {
+        "id": "447574908600214",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.7986874376,
+            "longitude": 98.9625078879
+        },
+        "name": "ข้าวขาหมู ประตูช้างเผือก"
+    },
+    {
+        "id": "449236438453250",
+        "location": {
+            "city": "Prachin",
+            "country": "Thailand",
+            "latitude": 14.050263804397,
+            "longitude": 101.38737545358,
+            "zip": "25000"
+        },
+        "name": "ช่างมณ ประตูม้วน ปราจีนบุรี"
+    },
+    {
+        "id": "453062174860765",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.780323061839,
+            "longitude": 100.46241994947
+        },
+        "name": "ช่างเจ ประตูรีโมท"
+    },
+    {
+        "id": "460364660694554",
+        "location": {
+            "latitude": 14.144801770054,
+            "longitude": 100.63089980734
+        },
+        "name": "ร้านธนยศการช่าง กระจก-อลูมิเนียม ถนนเทพกุญชร ประตูน้ำพระอินทร์"
+    },
+    {
+        "id": "462491943852673",
+        "location": {
+            "city": "Amphoe Kham Khuan Kaeo",
+            "country": "Thailand",
+            "latitude": 15.577081721482,
+            "longitude": 104.39993573116
+        },
+        "name": "ร้านช่างโจ้ หน้าประตูโขงวัดใน"
+    },
+    {
+        "id": "462888917122849",
+        "location": {
+            "city": "Tha Sala",
+            "country": "Thailand",
+            "latitude": 8.66709,
+            "longitude": 99.93151,
+            "street": "tasala"
+        },
+        "name": "บ้านประตูช้างออก"
+    },
+    {
+        "id": "130047200511104",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.811452730969,
+            "longitude": 98.98230717011
+        },
+        "name": "รร.สอนขับรถยนต์ประตูช้างเผือกchangphuakdriving School"
+    },
+    {
+        "id": "1460533367503371",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "ถ.ช่างหล่อ ประตูสวนปรุง"
+        },
+        "name": "กาแฟแสนปุง Sanpung Coffee",
+        "phone": "0832061043"
+    },
+    {
+        "id": "779872792103845",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.797267429843,
+            "longitude": 98.986262623247
+        },
+        "name": "บ้านประตูช้างเผือก"
+    },
+    {
+        "id": "912658312153923",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.3610826,
+            "longitude": 100.5712911,
+            "street": "11/55 ถ.จักรพรรดิ์ ต.ประตูชัย อ.อยุธยา จ.อยุธยา",
+            "zip": "13000"
+        },
+        "name": "บริษัทจินต้าชางจำกัด"
+    },
+    {
+        "id": "814182361954394",
+        "location": {
+            "city": "Amphoe Muang Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.806711837768,
+            "longitude": 98.985813508406
+        },
+        "name": "ชายสี่หมี่เกี้ยวใต้สะพานลอยหน้ามหาวิทยาลัยไฮโซชื่อดังย่านประตูช้างเผือก"
+    },
+    {
+        "id": "811542985527093",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.796440619044,
+            "longitude": 98.98649093695
+        },
+        "name": "ก๋วยเตึ๋ยวเนื้อ สามย่าน สาขา3 ประตูช้างเผือก"
+    },
+    {
+        "id": "807442232680989",
+        "location": {
+            "city": "Ban Non Som Kop",
+            "country": "Thailand",
+            "latitude": 15.219225066466,
+            "longitude": 100.66343395407
+        },
+        "name": "ร้านช่างอ๊อดประตูเหล็ก"
+    },
+    {
+        "id": "803411113060536",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.782522319746,
+            "longitude": 98.990013599396
+        },
+        "name": "อู่ช่างธรรม ประตูเชียงใหม่"
+    },
+    {
+        "id": "792360660883947",
+        "location": {
+            "city": "ท่าศาลา",
+            "latitude": 8.6653936954651,
+            "longitude": 99.904754161835,
+            "street": "ต.ไทยบุรี"
+        },
+        "name": "บ้านประตูช้าง"
+    },
+    {
+        "id": "990032371028690",
+        "location": {
+            "city": "Nakhon Lampang",
+            "country": "Thailand",
+            "latitude": 18.2983,
+            "longitude": 99.5072
+        },
+        "name": "อู่ช่างรงประตูม้า"
+    },
+    {
+        "id": "766588526730663",
+        "location": {
+            "city": "Phitsanulok",
+            "country": "Thailand",
+            "latitude": 16.749153137207,
+            "longitude": 100.20233917236
+        },
+        "name": "ก.เจริญยนต์ - ช่างแดง มน.ประตู 4"
+    },
+    {
+        "id": "737723692975536",
+        "location": {
+            "city": "Ratchaburi",
+            "country": "Thailand",
+            "latitude": 13.5294968,
+            "longitude": 99.7995198
+        },
+        "name": "ช่างดุ่ย ซ่อมกลอนประตู"
+    },
+    {
+        "id": "728013160571567",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.796172847848,
+            "longitude": 98.986454427516
+        },
+        "name": "ก๋วยเตี๋ยวเนื้อตุ๋น เอ็นตุ๋น ประตูช้างเผือก"
+    },
+    {
+        "id": "707842119256311",
+        "location": {
+            "city": "Lampang",
+            "country": "Thailand",
+            "latitude": 18.303331411461,
+            "longitude": 99.510869924072,
+            "zip": "52000"
+        },
+        "name": "ชุมชนช่างแต้ม ประตูม้า"
+    },
+    {
+        "id": "702330896449855",
+        "location": {
+            "city": "Chiang Mai",
+            "country": "Thailand",
+            "latitude": 18.78966,
+            "longitude": 98.9844,
+            "street": "Phrapokkloa Road"
+        },
+        "name": "ร้านกู ประตูช้างเผือก"
+    },
+    {
+        "id": "692946124123988",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.79699382931,
+            "longitude": 100.30191354454
+        },
+        "name": "กลุ่มประติมากรรม สำนักช่างสิบหมู่ กรมศิลปากร"
+    },
+    {
+        "id": "672908422843453",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.667213159165,
+            "longitude": 100.53088903427
+        },
+        "name": "บ้านช่างเอส ประตูม้วน ซอยโมบิล"
+    },
+    {
+        "id": "672393299485101",
+        "location": {
+            "city": "Amphoe Tha Sala",
+            "country": "Thailand",
+            "latitude": 8.66144,
+            "longitude": 99.90607
+        },
+        "name": "บ้านประตูช้าง"
+    }
+]

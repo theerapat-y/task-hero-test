@@ -1,0 +1,249 @@
+[
+    {
+        "id": "568063723243548",
+        "location": {
+            "latitude": 14.2938,
+            "longitude": 100.469735
+        },
+        "name": "อนามัยช่างเหล็ก'"
+    },
+    {
+        "id": "569199943093419",
+        "location": {
+            "latitude": 14.246436070744,
+            "longitude": 100.45290370108
+        },
+        "name": "สภอฺช่างเหล็กบางไทร ยุดยา."
+    },
+    {
+        "id": "576352162438714",
+        "location": {
+            "latitude": 7.1510611753911,
+            "longitude": 100.27969714254
+        },
+        "name": "ช่างเบิร์ด ช่างเหล็ก ทำเต็นท์"
+    },
+    {
+        "id": "582405605176930",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.9120027204118,
+            "longitude": 98.390421238819,
+            "zip": "83000"
+        },
+        "name": "บ้านอาจารณ์โอมช่างเหล็ก"
+    },
+    {
+        "id": "1450394455242109",
+        "location": {
+            "city": "Chamai",
+            "country": "Thailand",
+            "latitude": 8.1548854,
+            "longitude": 99.6958891
+        },
+        "name": "ร้านสเตนแลส ช.เชาว์ช่างเหล็ก ตรงข้ามปั้ม ปทต.ผาทอง ทุ่งสง"
+    },
+    {
+        "id": "1377357862579996",
+        "location": {
+            "city": "Taling Chan",
+            "country": "Thailand",
+            "latitude": 13.776476988057,
+            "longitude": 100.4564619491
+        },
+        "name": "วัดช่างเหล็ก\u0026ตลาดน้ำตลิ่งชัน"
+    },
+    {
+        "id": "1382062872076490",
+        "location": {
+            "latitude": 8.3692050153171,
+            "longitude": 99.589765441135
+        },
+        "name": "บ้านตระกูล เชาว์ช่างเหล็ก"
+    },
+    {
+        "id": "1385293338354190",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.773108473343,
+            "longitude": 100.45228455099
+        },
+        "name": "บ้านกู-วัดช่างเหล็ก"
+    },
+    {
+        "id": "1393950674163261",
+        "location": {
+            "city": "Phuket",
+            "country": "Thailand",
+            "latitude": 7.8856753930523,
+            "longitude": 98.390326565223
+        },
+        "name": "ไต่สุ่นอั้น ช่างเหล็ก"
+    },
+    {
+        "id": "1413381088901737",
+        "location": {
+            "city": "ไทย",
+            "latitude": 14.295979673056,
+            "longitude": 100.46222867454,
+            "street": "9 ม2 ต.ช่างเหล็ก อ.บางไทร จ.อยุธยา"
+        },
+        "name": "บ้าน.ธนภาชน์"
+    },
+    {
+        "id": "1421413804748872",
+        "location": {
+            "latitude": 19.4132984,
+            "longitude": 99.1935817
+        },
+        "name": "ช่างเหล็ก สันปง ซอย 1"
+    },
+    {
+        "id": "1421623384799853",
+        "location": {
+            "city": "Ayutthaya",
+            "country": "Thailand",
+            "latitude": 14.35,
+            "longitude": 100.55,
+            "street": "บางไทร"
+        },
+        "name": "วัดช่างเหล็กสคูล"
+    },
+    {
+        "id": "1422369078022934",
+        "location": {
+            "city": "Chaiya",
+            "country": "Thailand",
+            "latitude": 9.564741,
+            "longitude": 99.1660933,
+            "street": "ท่าชนะ"
+        },
+        "name": "อ้นช่างเหล็ก",
+        "phone": "0926980566"
+    },
+    {
+        "id": "1427222660913167",
+        "location": {
+            "latitude": 14.7697665,
+            "longitude": 104.2422472
+        },
+        "name": "บ้านตะเคียนช่างเหล็ก อำเภอขุขันธ์ จังหวัดศรีสะเกษ"
+    },
+    {
+        "id": "1428768547385916",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.771754,
+            "longitude": 100.4569164,
+            "street": "583/4 ซ.วัดช่างเหล็ก ถ.จรัญสนิทวงศ์ แขวงบางขุนศรี เขตบางกอกน้อย กรุงเทพฯ 10700",
+            "zip": "10700"
+        },
+        "name": "บ้านสวนตลิ่งชัน"
+    },
+    {
+        "description": "สมาคมคนชอบดื่ม",
+        "id": "1428806780670857",
+        "location": {
+            "city": "Srimahapho",
+            "country": "Thailand",
+            "latitude": 13.941283222621,
+            "longitude": 101.55023243268
+        },
+        "name": "บ้านช่างเหล็ก \"หมู่บ้านพฤกษา The Master เขาดิน"
+    },
+    {
+        "id": "1441683516091810",
+        "location": {
+            "city": "สตูล",
+            "latitude": 6.7180435,
+            "longitude": 100.0541061,
+            "street": "ฉลุง สตูล"
+        },
+        "name": "บ้านตระกูล ช่างเหล็ก"
+    },
+    {
+        "id": "1445208939056931",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.77024,
+            "longitude": 100.39874,
+            "street": "ฉิมพลี 1",
+            "zip": "10170"
+        },
+        "name": "วัดช่างเหล็ก"
+    },
+    {
+        "id": "1159353087537361",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.786208,
+            "longitude": 100.443446
+        },
+        "name": "# ติ้งโน๊ต ร้านชำ ปากซอยวัดช่างเหล็ก"
+    },
+    {
+        "id": "1459915854259707",
+        "location": {
+            "city": "Pang Mu",
+            "country": "Thailand",
+            "latitude": 19.2991469,
+            "longitude": 97.9789208
+        },
+        "name": "บ้านห้วยช่างเหล็ก"
+    },
+    {
+        "id": "1460901244155699",
+        "location": {
+            "city": "Khonkean",
+            "country": "Thailand",
+            "latitude": 16.4607815,
+            "longitude": 102.8380957
+        },
+        "name": "บ้านเชาว์ช่างเหล็ก"
+    },
+    {
+        "id": "1465627153718067",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.778753,
+            "longitude": 100.4516858
+        },
+        "name": "ห้าแยกวัดช่างเหล็ก"
+    },
+    {
+        "id": "1466606883573842",
+        "location": {
+            "city": "Bang Sai",
+            "country": "Thailand",
+            "latitude": 14.2618799,
+            "longitude": 100.444809,
+            "street": "27ม.4 ต.ช่างเหล็ก อ.บางไทร อยุธยา"
+        },
+        "name": "บ้าน น้ำพาราไดซ์",
+        "phone": "0922174390"
+    },
+    {
+        "id": "1468576806693016",
+        "location": {
+            "city": "Bangkok",
+            "country": "Thailand",
+            "latitude": 13.611833020126,
+            "longitude": 100.76083665723
+        },
+        "name": "บ้านพีรวิชญ์ เชาว์ช่างเหล็ก สโมกโลกติ๊ว"
+    },
+    {
+        "id": "1479824372247738",
+        "location": {
+            "latitude": 14.29326,
+            "longitude": 100.46831
+        },
+        "name": "โรงเรียนวัดช่างเหล็ก"
+    }
+]
