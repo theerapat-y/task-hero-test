@@ -9,6 +9,8 @@ let bodyParser = require('body-parser');
 let routes = require('./routes/index');
 let users = require('./routes/users');
 
+let models = require('./models');
+
 let app = express();
 const PUBLIC_PATH = '../public';
 // view engine setup
@@ -54,6 +56,10 @@ if (app.get('env') === 'development') {
         });
     });
 }
+
+models.sequelize.sync({
+    force: false
+});
 
 // production error handler
 // no stacktraces leaked to user

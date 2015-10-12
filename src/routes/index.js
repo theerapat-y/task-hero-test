@@ -2,40 +2,37 @@
 let express = require('express');
 let router = express.Router();
 let FB = require('fb');
-let fs = require('fs');
+// let fs = require('fs');
 
-FB.setAccessToken('CAACEdEose0cBAJZC6HvKVdcce794X52ZCnzzgl62C3M19ZCsqmbFu3gzRZBZAqLDZBnh5xqIK7DQZCw7J1u4b5MkYyy5N5wF3GTZAEH4ZC7obNR2ULg2dfFA6vgZAdJ5f93rMmYxQgdEiP4vjtOiRRRI15702gZAVZCiT9CUlYf4G609ARtSoPIV3zwvLRMfgmDjSS2IbPDLkIzGewZDZD');
-
-FB.api('search', {
-    q: 'ช่างประปา', type: 'page', limit: 500
-}, function (res) {
-    if (!res || res.error) {
-        console.log(!res ? 'error occurred' : res.error);
-        return;
-    }
-    // console.log(res.data[1].id);
-
-    res.data.forEach( function(place, id) {
-        FB.api( place.id, {
-            fields: 'location,description,phone,emails,about,general_info'
-        }, function(res) {
-            if (!res || res.error) {
-                console.log(!res ? ' 2 error occurred' : res.error);
-                return;
-            }
-
-            res.data[id].description = res;
-            if(res.location && res.location.city && res.location.city === 'Bangkok') {
-                console.log(res);
-            }
-        });
-
-        console.log('hi 2');
-    });
-    console.log('hi 1');
-});
-
-console.log('hi 0');
+// // temporary token
+// FB.setAccessToken('CAACEdEose0cBAFQRQ8yuYn5e2QTNMyG0KLn8xQNfZBszMD4Bm2lotZBMMNmW4rkg5y7FnJZAj3WC9BuDIrcNVlUhkRBQZBApEReK6PAoCnCAZCyKV40XghM4LATwztOTFfGe05mT3qeX4ciaJjDE84VQ6bUsuMZA2rip9AflZAycjxDbBZAXFQdGGJupVcX4LTnQGZBS7yBXWLsxPshLf0ympdSgVZAZCCGr1IZD');
+//
+// FB.api('search', {
+//     q: 'ช่างประปา', type: 'page', limit: 50
+// }, function (res) {
+//     if (!res || res.error) {
+//         console.log(!res ? 'error occurred' : res.error);
+//         return;
+//     }
+//     // console.log(res.data[1].id);
+//     var handys = res;
+//     handys.data.forEach( function(place, id) {
+//         FB.api( place.id, {
+//             fields: 'location,description,phone,emails,about,general_info'
+//         }, function(result) {
+//             if (!result || result.error) {
+//                 console.log(!result ? ' 2 error occurred' : result.error);
+//                 return;
+//             }
+//
+//             handys.data[id].description = result;
+//             // if(res.location && res.location.city && res.location.city === 'Bangkok') {
+//             //     console.log(res);
+//             // }
+//         });
+//     });
+//
+// });
 
 /* GET home page. */
 router.get('/', (req, res) => {
